@@ -1,0 +1,527 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Chicago AI Calendar//EN
+X-WR-CALNAME:Chicago CS Theory
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260318@chicago-ai-calendar
+DTSTART:20260318T123000
+DTEND:20260318T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260325@chicago-ai-calendar
+DTSTART:20260325T123000
+DTEND:20260325T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260401@chicago-ai-calendar
+DTSTART:20260401T123000
+DTEND:20260401T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260408@chicago-ai-calendar
+DTSTART:20260408T123000
+DTEND:20260408T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260415@chicago-ai-calendar
+DTSTART:20260415T123000
+DTEND:20260415T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260422@chicago-ai-calendar
+DTSTART:20260422T123000
+DTEND:20260422T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260429@chicago-ai-calendar
+DTSTART:20260429T123000
+DTEND:20260429T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260506@chicago-ai-calendar
+DTSTART:20260506T123000
+DTEND:20260506T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260513@chicago-ai-calendar
+DTSTART:20260513T123000
+DTEND:20260513T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260520@chicago-ai-calendar
+DTSTART:20260520T123000
+DTEND:20260520T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260527@chicago-ai-calendar
+DTSTART:20260527T123000
+DTEND:20260527T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260603@chicago-ai-calendar
+DTSTART:20260603T123000
+DTEND:20260603T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260610@chicago-ai-calendar
+DTSTART:20260610T123000
+DTEND:20260610T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260617@chicago-ai-calendar
+DTSTART:20260617T123000
+DTEND:20260617T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260624@chicago-ai-calendar
+DTSTART:20260624T123000
+DTEND:20260624T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260701@chicago-ai-calendar
+DTSTART:20260701T123000
+DTEND:20260701T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260708@chicago-ai-calendar
+DTSTART:20260708T123000
+DTEND:20260708T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260715@chicago-ai-calendar
+DTSTART:20260715T123000
+DTEND:20260715T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260722@chicago-ai-calendar
+DTSTART:20260722T123000
+DTEND:20260722T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260729@chicago-ai-calendar
+DTSTART:20260729T123000
+DTEND:20260729T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260805@chicago-ai-calendar
+DTSTART:20260805T123000
+DTEND:20260805T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260812@chicago-ai-calendar
+DTSTART:20260812T123000
+DTEND:20260812T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260819@chicago-ai-calendar
+DTSTART:20260819T123000
+DTEND:20260819T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260826@chicago-ai-calendar
+DTSTART:20260826T123000
+DTEND:20260826T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260902@chicago-ai-calendar
+DTSTART:20260902T123000
+DTEND:20260902T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260909@chicago-ai-calendar
+DTSTART:20260909T123000
+DTEND:20260909T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+END:VCALENDAR

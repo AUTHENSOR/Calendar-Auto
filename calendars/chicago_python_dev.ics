@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Chicago AI Calendar//EN
+X-WR-CALNAME:Chicago Python/Dev
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:chipy-20260409@chicago-ai-calendar
+DTSTART:20260409T180000
+DTEND:20260409T203000
+SUMMARY:ChiPy - Chicago Python
+LOCATION:Rotating Loop locations\, Chicago
+DESCRIPTION:Chicago's Python user group. Talks\, networking\, mentorship program.\\n\\nMore info: https://www.chipy.org/
+URL:https://www.chipy.org/
+CATEGORIES:Python/Dev
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ChiPy - Chicago Python in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: ChiPy - Chicago Python
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chipy-20260514@chicago-ai-calendar
+DTSTART:20260514T180000
+DTEND:20260514T203000
+SUMMARY:ChiPy - Chicago Python
+LOCATION:Rotating Loop locations\, Chicago
+DESCRIPTION:Chicago's Python user group. Talks\, networking\, mentorship program.\\n\\nMore info: https://www.chipy.org/
+URL:https://www.chipy.org/
+CATEGORIES:Python/Dev
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ChiPy - Chicago Python in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: ChiPy - Chicago Python
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chipy-20260611@chicago-ai-calendar
+DTSTART:20260611T180000
+DTEND:20260611T203000
+SUMMARY:ChiPy - Chicago Python
+LOCATION:Rotating Loop locations\, Chicago
+DESCRIPTION:Chicago's Python user group. Talks\, networking\, mentorship program.\\n\\nMore info: https://www.chipy.org/
+URL:https://www.chipy.org/
+CATEGORIES:Python/Dev
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ChiPy - Chicago Python in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: ChiPy - Chicago Python
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chipy-20260709@chicago-ai-calendar
+DTSTART:20260709T180000
+DTEND:20260709T203000
+SUMMARY:ChiPy - Chicago Python
+LOCATION:Rotating Loop locations\, Chicago
+DESCRIPTION:Chicago's Python user group. Talks\, networking\, mentorship program.\\n\\nMore info: https://www.chipy.org/
+URL:https://www.chipy.org/
+CATEGORIES:Python/Dev
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ChiPy - Chicago Python in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: ChiPy - Chicago Python
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chipy-20260813@chicago-ai-calendar
+DTSTART:20260813T180000
+DTEND:20260813T203000
+SUMMARY:ChiPy - Chicago Python
+LOCATION:Rotating Loop locations\, Chicago
+DESCRIPTION:Chicago's Python user group. Talks\, networking\, mentorship program.\\n\\nMore info: https://www.chipy.org/
+URL:https://www.chipy.org/
+CATEGORIES:Python/Dev
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ChiPy - Chicago Python in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: ChiPy - Chicago Python
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1567 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Chicago AI Calendar//EN
+X-WR-CALNAME:Chicago AI/CS Research
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ttic-colloquium-20260316@chicago-ai-calendar
+DTSTART:20260316T113000
+DTEND:20260316T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260323@chicago-ai-calendar
+DTSTART:20260323T113000
+DTEND:20260323T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260330@chicago-ai-calendar
+DTSTART:20260330T113000
+DTEND:20260330T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260406@chicago-ai-calendar
+DTSTART:20260406T113000
+DTEND:20260406T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260413@chicago-ai-calendar
+DTSTART:20260413T113000
+DTEND:20260413T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260420@chicago-ai-calendar
+DTSTART:20260420T113000
+DTEND:20260420T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260427@chicago-ai-calendar
+DTSTART:20260427T113000
+DTEND:20260427T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260504@chicago-ai-calendar
+DTSTART:20260504T113000
+DTEND:20260504T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260511@chicago-ai-calendar
+DTSTART:20260511T113000
+DTEND:20260511T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260518@chicago-ai-calendar
+DTSTART:20260518T113000
+DTEND:20260518T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260525@chicago-ai-calendar
+DTSTART:20260525T113000
+DTEND:20260525T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260601@chicago-ai-calendar
+DTSTART:20260601T113000
+DTEND:20260601T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260608@chicago-ai-calendar
+DTSTART:20260608T113000
+DTEND:20260608T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260615@chicago-ai-calendar
+DTSTART:20260615T113000
+DTEND:20260615T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260622@chicago-ai-calendar
+DTSTART:20260622T113000
+DTEND:20260622T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260629@chicago-ai-calendar
+DTSTART:20260629T113000
+DTEND:20260629T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260706@chicago-ai-calendar
+DTSTART:20260706T113000
+DTEND:20260706T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260713@chicago-ai-calendar
+DTSTART:20260713T113000
+DTEND:20260713T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260720@chicago-ai-calendar
+DTSTART:20260720T113000
+DTEND:20260720T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260727@chicago-ai-calendar
+DTSTART:20260727T113000
+DTEND:20260727T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260803@chicago-ai-calendar
+DTSTART:20260803T113000
+DTEND:20260803T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260810@chicago-ai-calendar
+DTSTART:20260810T113000
+DTEND:20260810T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260817@chicago-ai-calendar
+DTSTART:20260817T113000
+DTEND:20260817T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260824@chicago-ai-calendar
+DTSTART:20260824T113000
+DTEND:20260824T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260831@chicago-ai-calendar
+DTSTART:20260831T113000
+DTEND:20260831T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260907@chicago-ai-calendar
+DTSTART:20260907T113000
+DTEND:20260907T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260318@chicago-ai-calendar
+DTSTART:20260318T110000
+DTEND:20260318T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260325@chicago-ai-calendar
+DTSTART:20260325T110000
+DTEND:20260325T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260401@chicago-ai-calendar
+DTSTART:20260401T110000
+DTEND:20260401T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260408@chicago-ai-calendar
+DTSTART:20260408T110000
+DTEND:20260408T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260415@chicago-ai-calendar
+DTSTART:20260415T110000
+DTEND:20260415T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260422@chicago-ai-calendar
+DTSTART:20260422T110000
+DTEND:20260422T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260429@chicago-ai-calendar
+DTSTART:20260429T110000
+DTEND:20260429T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260506@chicago-ai-calendar
+DTSTART:20260506T110000
+DTEND:20260506T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260513@chicago-ai-calendar
+DTSTART:20260513T110000
+DTEND:20260513T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260520@chicago-ai-calendar
+DTSTART:20260520T110000
+DTEND:20260520T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260527@chicago-ai-calendar
+DTSTART:20260527T110000
+DTEND:20260527T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260603@chicago-ai-calendar
+DTSTART:20260603T110000
+DTEND:20260603T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260610@chicago-ai-calendar
+DTSTART:20260610T110000
+DTEND:20260610T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260617@chicago-ai-calendar
+DTSTART:20260617T110000
+DTEND:20260617T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260624@chicago-ai-calendar
+DTSTART:20260624T110000
+DTEND:20260624T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260701@chicago-ai-calendar
+DTSTART:20260701T110000
+DTEND:20260701T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260708@chicago-ai-calendar
+DTSTART:20260708T110000
+DTEND:20260708T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260715@chicago-ai-calendar
+DTSTART:20260715T110000
+DTEND:20260715T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260722@chicago-ai-calendar
+DTSTART:20260722T110000
+DTEND:20260722T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260729@chicago-ai-calendar
+DTSTART:20260729T110000
+DTEND:20260729T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260805@chicago-ai-calendar
+DTSTART:20260805T110000
+DTEND:20260805T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260812@chicago-ai-calendar
+DTSTART:20260812T110000
+DTEND:20260812T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260819@chicago-ai-calendar
+DTSTART:20260819T110000
+DTEND:20260819T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260826@chicago-ai-calendar
+DTSTART:20260826T110000
+DTEND:20260826T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260902@chicago-ai-calendar
+DTSTART:20260902T110000
+DTEND:20260902T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260909@chicago-ai-calendar
+DTSTART:20260909T110000
+DTEND:20260909T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260313@chicago-ai-calendar
+DTSTART:20260313T120000
+DTEND:20260313T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260320@chicago-ai-calendar
+DTSTART:20260320T120000
+DTEND:20260320T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260327@chicago-ai-calendar
+DTSTART:20260327T120000
+DTEND:20260327T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260403@chicago-ai-calendar
+DTSTART:20260403T120000
+DTEND:20260403T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260410@chicago-ai-calendar
+DTSTART:20260410T120000
+DTEND:20260410T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260417@chicago-ai-calendar
+DTSTART:20260417T120000
+DTEND:20260417T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260424@chicago-ai-calendar
+DTSTART:20260424T120000
+DTEND:20260424T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260501@chicago-ai-calendar
+DTSTART:20260501T120000
+DTEND:20260501T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260508@chicago-ai-calendar
+DTSTART:20260508T120000
+DTEND:20260508T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260515@chicago-ai-calendar
+DTSTART:20260515T120000
+DTEND:20260515T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260522@chicago-ai-calendar
+DTSTART:20260522T120000
+DTEND:20260522T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260529@chicago-ai-calendar
+DTSTART:20260529T120000
+DTEND:20260529T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260605@chicago-ai-calendar
+DTSTART:20260605T120000
+DTEND:20260605T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260612@chicago-ai-calendar
+DTSTART:20260612T120000
+DTEND:20260612T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260619@chicago-ai-calendar
+DTSTART:20260619T120000
+DTEND:20260619T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260626@chicago-ai-calendar
+DTSTART:20260626T120000
+DTEND:20260626T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260703@chicago-ai-calendar
+DTSTART:20260703T120000
+DTEND:20260703T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260710@chicago-ai-calendar
+DTSTART:20260710T120000
+DTEND:20260710T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260717@chicago-ai-calendar
+DTSTART:20260717T120000
+DTEND:20260717T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260724@chicago-ai-calendar
+DTSTART:20260724T120000
+DTEND:20260724T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260731@chicago-ai-calendar
+DTSTART:20260731T120000
+DTEND:20260731T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260807@chicago-ai-calendar
+DTSTART:20260807T120000
+DTEND:20260807T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260814@chicago-ai-calendar
+DTSTART:20260814T120000
+DTEND:20260814T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260821@chicago-ai-calendar
+DTSTART:20260821T120000
+DTEND:20260821T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260828@chicago-ai-calendar
+DTSTART:20260828T120000
+DTEND:20260828T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260904@chicago-ai-calendar
+DTSTART:20260904T120000
+DTEND:20260904T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+END:VCALENDAR

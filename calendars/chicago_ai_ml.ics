@@ -1,0 +1,627 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Chicago AI Calendar//EN
+X-WR-CALNAME:Chicago AI/ML
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:aittg-webinar-20260319@chicago-ai-calendar
+DTSTART:20260319T120000
+DTEND:20260319T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260326@chicago-ai-calendar
+DTSTART:20260326T120000
+DTEND:20260326T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260402@chicago-ai-calendar
+DTSTART:20260402T120000
+DTEND:20260402T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260409@chicago-ai-calendar
+DTSTART:20260409T120000
+DTEND:20260409T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260416@chicago-ai-calendar
+DTSTART:20260416T120000
+DTEND:20260416T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260423@chicago-ai-calendar
+DTSTART:20260423T120000
+DTEND:20260423T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260430@chicago-ai-calendar
+DTSTART:20260430T120000
+DTEND:20260430T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260507@chicago-ai-calendar
+DTSTART:20260507T120000
+DTEND:20260507T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260514@chicago-ai-calendar
+DTSTART:20260514T120000
+DTEND:20260514T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260521@chicago-ai-calendar
+DTSTART:20260521T120000
+DTEND:20260521T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260528@chicago-ai-calendar
+DTSTART:20260528T120000
+DTEND:20260528T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260604@chicago-ai-calendar
+DTSTART:20260604T120000
+DTEND:20260604T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260611@chicago-ai-calendar
+DTSTART:20260611T120000
+DTEND:20260611T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260618@chicago-ai-calendar
+DTSTART:20260618T120000
+DTEND:20260618T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260625@chicago-ai-calendar
+DTSTART:20260625T120000
+DTEND:20260625T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260702@chicago-ai-calendar
+DTSTART:20260702T120000
+DTEND:20260702T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260709@chicago-ai-calendar
+DTSTART:20260709T120000
+DTEND:20260709T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260716@chicago-ai-calendar
+DTSTART:20260716T120000
+DTEND:20260716T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260723@chicago-ai-calendar
+DTSTART:20260723T120000
+DTEND:20260723T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260730@chicago-ai-calendar
+DTSTART:20260730T120000
+DTEND:20260730T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260806@chicago-ai-calendar
+DTSTART:20260806T120000
+DTEND:20260806T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260813@chicago-ai-calendar
+DTSTART:20260813T120000
+DTEND:20260813T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260820@chicago-ai-calendar
+DTSTART:20260820T120000
+DTEND:20260820T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260827@chicago-ai-calendar
+DTSTART:20260827T120000
+DTEND:20260827T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260903@chicago-ai-calendar
+DTSTART:20260903T120000
+DTEND:20260903T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260910@chicago-ai-calendar
+DTSTART:20260910T120000
+DTEND:20260910T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-ai-meetup-20260401@chicago-ai-calendar
+DTSTART:20260401T180000
+DTEND:20260401T200000
+SUMMARY:Chicago Artificial Intelligence Meetup
+LOCATION:Downtown Chicago
+DESCRIPTION:Speaker + networking exploring AI/ML trends.\\n\\nMore info: https://www.meetup.com/aichicago/
+URL:https://www.meetup.com/aichicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Artificial Intelligence Meetup in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Artificial Intelligence Meetup
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-ai-meetup-20260506@chicago-ai-calendar
+DTSTART:20260506T180000
+DTEND:20260506T200000
+SUMMARY:Chicago Artificial Intelligence Meetup
+LOCATION:Downtown Chicago
+DESCRIPTION:Speaker + networking exploring AI/ML trends.\\n\\nMore info: https://www.meetup.com/aichicago/
+URL:https://www.meetup.com/aichicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Artificial Intelligence Meetup in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Artificial Intelligence Meetup
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-ai-meetup-20260603@chicago-ai-calendar
+DTSTART:20260603T180000
+DTEND:20260603T200000
+SUMMARY:Chicago Artificial Intelligence Meetup
+LOCATION:Downtown Chicago
+DESCRIPTION:Speaker + networking exploring AI/ML trends.\\n\\nMore info: https://www.meetup.com/aichicago/
+URL:https://www.meetup.com/aichicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Artificial Intelligence Meetup in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Artificial Intelligence Meetup
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-ai-meetup-20260701@chicago-ai-calendar
+DTSTART:20260701T180000
+DTEND:20260701T200000
+SUMMARY:Chicago Artificial Intelligence Meetup
+LOCATION:Downtown Chicago
+DESCRIPTION:Speaker + networking exploring AI/ML trends.\\n\\nMore info: https://www.meetup.com/aichicago/
+URL:https://www.meetup.com/aichicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Artificial Intelligence Meetup in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Artificial Intelligence Meetup
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-ai-meetup-20260805@chicago-ai-calendar
+DTSTART:20260805T180000
+DTEND:20260805T200000
+SUMMARY:Chicago Artificial Intelligence Meetup
+LOCATION:Downtown Chicago
+DESCRIPTION:Speaker + networking exploring AI/ML trends.\\n\\nMore info: https://www.meetup.com/aichicago/
+URL:https://www.meetup.com/aichicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Artificial Intelligence Meetup in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Artificial Intelligence Meetup
+END:VALARM
+END:VEVENT
+END:VCALENDAR

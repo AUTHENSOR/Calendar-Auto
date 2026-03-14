@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Chicago AI Calendar//EN
+X-WR-CALNAME:Chicago CS Professional
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:acm-chicago-20260408@chicago-ai-calendar
+DTSTART:20260408T180000
+DTEND:20260408T200000
+SUMMARY:ACM Chicago Chapter
+LOCATION:AON Center\, 200 E. Randolph St\, Suite 200\, Chicago
+DESCRIPTION:Monthly talks on CS topics. Hybrid (in-person + Zoom).\\n\\nMore info: https://www.chicagoacm.org/
+URL:https://www.chicagoacm.org/
+CATEGORIES:CS Professional
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ACM Chicago Chapter in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: ACM Chicago Chapter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acm-chicago-20260513@chicago-ai-calendar
+DTSTART:20260513T180000
+DTEND:20260513T200000
+SUMMARY:ACM Chicago Chapter
+LOCATION:AON Center\, 200 E. Randolph St\, Suite 200\, Chicago
+DESCRIPTION:Monthly talks on CS topics. Hybrid (in-person + Zoom).\\n\\nMore info: https://www.chicagoacm.org/
+URL:https://www.chicagoacm.org/
+CATEGORIES:CS Professional
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ACM Chicago Chapter in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: ACM Chicago Chapter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acm-chicago-20260610@chicago-ai-calendar
+DTSTART:20260610T180000
+DTEND:20260610T200000
+SUMMARY:ACM Chicago Chapter
+LOCATION:AON Center\, 200 E. Randolph St\, Suite 200\, Chicago
+DESCRIPTION:Monthly talks on CS topics. Hybrid (in-person + Zoom).\\n\\nMore info: https://www.chicagoacm.org/
+URL:https://www.chicagoacm.org/
+CATEGORIES:CS Professional
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ACM Chicago Chapter in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: ACM Chicago Chapter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acm-chicago-20260708@chicago-ai-calendar
+DTSTART:20260708T180000
+DTEND:20260708T200000
+SUMMARY:ACM Chicago Chapter
+LOCATION:AON Center\, 200 E. Randolph St\, Suite 200\, Chicago
+DESCRIPTION:Monthly talks on CS topics. Hybrid (in-person + Zoom).\\n\\nMore info: https://www.chicagoacm.org/
+URL:https://www.chicagoacm.org/
+CATEGORIES:CS Professional
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ACM Chicago Chapter in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: ACM Chicago Chapter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acm-chicago-20260812@chicago-ai-calendar
+DTSTART:20260812T180000
+DTEND:20260812T200000
+SUMMARY:ACM Chicago Chapter
+LOCATION:AON Center\, 200 E. Randolph St\, Suite 200\, Chicago
+DESCRIPTION:Monthly talks on CS topics. Hybrid (in-person + Zoom).\\n\\nMore info: https://www.chicagoacm.org/
+URL:https://www.chicagoacm.org/
+CATEGORIES:CS Professional
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ACM Chicago Chapter in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: ACM Chicago Chapter
+END:VALARM
+END:VEVENT
+END:VCALENDAR

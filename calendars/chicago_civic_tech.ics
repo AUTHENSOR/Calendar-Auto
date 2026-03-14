@@ -1,0 +1,527 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Chicago AI Calendar//EN
+X-WR-CALNAME:Chicago Civic Tech
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:chi-hack-night-20260317@chicago-ai-calendar
+DTSTART:20260317T190000
+DTEND:20260317T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260324@chicago-ai-calendar
+DTSTART:20260324T190000
+DTEND:20260324T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260331@chicago-ai-calendar
+DTSTART:20260331T190000
+DTEND:20260331T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260407@chicago-ai-calendar
+DTSTART:20260407T190000
+DTEND:20260407T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260414@chicago-ai-calendar
+DTSTART:20260414T190000
+DTEND:20260414T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260421@chicago-ai-calendar
+DTSTART:20260421T190000
+DTEND:20260421T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260428@chicago-ai-calendar
+DTSTART:20260428T190000
+DTEND:20260428T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260505@chicago-ai-calendar
+DTSTART:20260505T190000
+DTEND:20260505T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260512@chicago-ai-calendar
+DTSTART:20260512T190000
+DTEND:20260512T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260519@chicago-ai-calendar
+DTSTART:20260519T190000
+DTEND:20260519T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260526@chicago-ai-calendar
+DTSTART:20260526T190000
+DTEND:20260526T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260602@chicago-ai-calendar
+DTSTART:20260602T190000
+DTEND:20260602T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260609@chicago-ai-calendar
+DTSTART:20260609T190000
+DTEND:20260609T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260616@chicago-ai-calendar
+DTSTART:20260616T190000
+DTEND:20260616T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260623@chicago-ai-calendar
+DTSTART:20260623T190000
+DTEND:20260623T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260630@chicago-ai-calendar
+DTSTART:20260630T190000
+DTEND:20260630T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260707@chicago-ai-calendar
+DTSTART:20260707T190000
+DTEND:20260707T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260714@chicago-ai-calendar
+DTSTART:20260714T190000
+DTEND:20260714T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260721@chicago-ai-calendar
+DTSTART:20260721T190000
+DTEND:20260721T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260728@chicago-ai-calendar
+DTSTART:20260728T190000
+DTEND:20260728T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260804@chicago-ai-calendar
+DTSTART:20260804T190000
+DTEND:20260804T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260811@chicago-ai-calendar
+DTSTART:20260811T190000
+DTEND:20260811T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260818@chicago-ai-calendar
+DTSTART:20260818T190000
+DTEND:20260818T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260825@chicago-ai-calendar
+DTSTART:20260825T190000
+DTEND:20260825T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260901@chicago-ai-calendar
+DTSTART:20260901T190000
+DTEND:20260901T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260908@chicago-ai-calendar
+DTSTART:20260908T190000
+DTEND:20260908T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+END:VCALENDAR

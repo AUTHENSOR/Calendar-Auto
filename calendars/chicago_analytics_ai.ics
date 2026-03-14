@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Chicago AI Calendar//EN
+X-WR-CALNAME:Chicago Analytics/AI
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:analytics-club-20260403@chicago-ai-calendar
+DTSTART:20260403T110000
+DTEND:20260403T140000
+SUMMARY:Analytics.Club FirstFridayFair
+LOCATION:Chicago (virtual or in-person)
+DESCRIPTION:World's largest volunteer-led analytics and AI community.\\n\\nMore info: https://www.meetup.com/ac-ord/
+URL:https://www.meetup.com/ac-ord/
+CATEGORIES:Analytics/AI
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Analytics.Club FirstFridayFair in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Analytics.Club FirstFridayFair
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:analytics-club-20260501@chicago-ai-calendar
+DTSTART:20260501T110000
+DTEND:20260501T140000
+SUMMARY:Analytics.Club FirstFridayFair
+LOCATION:Chicago (virtual or in-person)
+DESCRIPTION:World's largest volunteer-led analytics and AI community.\\n\\nMore info: https://www.meetup.com/ac-ord/
+URL:https://www.meetup.com/ac-ord/
+CATEGORIES:Analytics/AI
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Analytics.Club FirstFridayFair in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Analytics.Club FirstFridayFair
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:analytics-club-20260605@chicago-ai-calendar
+DTSTART:20260605T110000
+DTEND:20260605T140000
+SUMMARY:Analytics.Club FirstFridayFair
+LOCATION:Chicago (virtual or in-person)
+DESCRIPTION:World's largest volunteer-led analytics and AI community.\\n\\nMore info: https://www.meetup.com/ac-ord/
+URL:https://www.meetup.com/ac-ord/
+CATEGORIES:Analytics/AI
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Analytics.Club FirstFridayFair in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Analytics.Club FirstFridayFair
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:analytics-club-20260703@chicago-ai-calendar
+DTSTART:20260703T110000
+DTEND:20260703T140000
+SUMMARY:Analytics.Club FirstFridayFair
+LOCATION:Chicago (virtual or in-person)
+DESCRIPTION:World's largest volunteer-led analytics and AI community.\\n\\nMore info: https://www.meetup.com/ac-ord/
+URL:https://www.meetup.com/ac-ord/
+CATEGORIES:Analytics/AI
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Analytics.Club FirstFridayFair in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Analytics.Club FirstFridayFair
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:analytics-club-20260807@chicago-ai-calendar
+DTSTART:20260807T110000
+DTEND:20260807T140000
+SUMMARY:Analytics.Club FirstFridayFair
+LOCATION:Chicago (virtual or in-person)
+DESCRIPTION:World's largest volunteer-led analytics and AI community.\\n\\nMore info: https://www.meetup.com/ac-ord/
+URL:https://www.meetup.com/ac-ord/
+CATEGORIES:Analytics/AI
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Analytics.Club FirstFridayFair in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Analytics.Club FirstFridayFair
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,247 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Chicago AI Calendar//EN
+X-WR-CALNAME:Chicago Data Science
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:pydata-chicago-20260326@chicago-ai-calendar
+DTSTART:20260326T180000
+DTEND:20260326T200000
+SUMMARY:PyData Chicago
+LOCATION:Chicago (in-person or Zoom)
+DESCRIPTION:Data science talks focused on Python data tools.\\n\\nMore info: https://www.meetup.com/pydatachi/
+URL:https://www.meetup.com/pydatachi/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: PyData Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: PyData Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pydata-chicago-20260430@chicago-ai-calendar
+DTSTART:20260430T180000
+DTEND:20260430T200000
+SUMMARY:PyData Chicago
+LOCATION:Chicago (in-person or Zoom)
+DESCRIPTION:Data science talks focused on Python data tools.\\n\\nMore info: https://www.meetup.com/pydatachi/
+URL:https://www.meetup.com/pydatachi/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: PyData Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: PyData Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pydata-chicago-20260528@chicago-ai-calendar
+DTSTART:20260528T180000
+DTEND:20260528T200000
+SUMMARY:PyData Chicago
+LOCATION:Chicago (in-person or Zoom)
+DESCRIPTION:Data science talks focused on Python data tools.\\n\\nMore info: https://www.meetup.com/pydatachi/
+URL:https://www.meetup.com/pydatachi/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: PyData Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: PyData Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pydata-chicago-20260625@chicago-ai-calendar
+DTSTART:20260625T180000
+DTEND:20260625T200000
+SUMMARY:PyData Chicago
+LOCATION:Chicago (in-person or Zoom)
+DESCRIPTION:Data science talks focused on Python data tools.\\n\\nMore info: https://www.meetup.com/pydatachi/
+URL:https://www.meetup.com/pydatachi/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: PyData Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: PyData Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pydata-chicago-20260730@chicago-ai-calendar
+DTSTART:20260730T180000
+DTEND:20260730T200000
+SUMMARY:PyData Chicago
+LOCATION:Chicago (in-person or Zoom)
+DESCRIPTION:Data science talks focused on Python data tools.\\n\\nMore info: https://www.meetup.com/pydatachi/
+URL:https://www.meetup.com/pydatachi/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: PyData Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: PyData Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pydata-chicago-20260827@chicago-ai-calendar
+DTSTART:20260827T180000
+DTEND:20260827T200000
+SUMMARY:PyData Chicago
+LOCATION:Chicago (in-person or Zoom)
+DESCRIPTION:Data science talks focused on Python data tools.\\n\\nMore info: https://www.meetup.com/pydatachi/
+URL:https://www.meetup.com/pydatachi/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: PyData Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: PyData Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-data-night-20260317@chicago-ai-calendar
+DTSTART:20260317T173000
+DTEND:20260317T193000
+SUMMARY:Chicago Data Night
+LOCATION:Chicago (varies\, co-hosted by Drive Capital / UChicago DSI)
+DESCRIPTION:Guest speaker on data topic\, networking\, Q&A.\\n\\nMore info: https://www.meetup.com/chicago-data-night/
+URL:https://www.meetup.com/chicago-data-night/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Data Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Data Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-data-night-20260421@chicago-ai-calendar
+DTSTART:20260421T173000
+DTEND:20260421T193000
+SUMMARY:Chicago Data Night
+LOCATION:Chicago (varies\, co-hosted by Drive Capital / UChicago DSI)
+DESCRIPTION:Guest speaker on data topic\, networking\, Q&A.\\n\\nMore info: https://www.meetup.com/chicago-data-night/
+URL:https://www.meetup.com/chicago-data-night/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Data Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Data Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-data-night-20260519@chicago-ai-calendar
+DTSTART:20260519T173000
+DTEND:20260519T193000
+SUMMARY:Chicago Data Night
+LOCATION:Chicago (varies\, co-hosted by Drive Capital / UChicago DSI)
+DESCRIPTION:Guest speaker on data topic\, networking\, Q&A.\\n\\nMore info: https://www.meetup.com/chicago-data-night/
+URL:https://www.meetup.com/chicago-data-night/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Data Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Data Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-data-night-20260616@chicago-ai-calendar
+DTSTART:20260616T173000
+DTEND:20260616T193000
+SUMMARY:Chicago Data Night
+LOCATION:Chicago (varies\, co-hosted by Drive Capital / UChicago DSI)
+DESCRIPTION:Guest speaker on data topic\, networking\, Q&A.\\n\\nMore info: https://www.meetup.com/chicago-data-night/
+URL:https://www.meetup.com/chicago-data-night/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Data Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Data Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-data-night-20260721@chicago-ai-calendar
+DTSTART:20260721T173000
+DTEND:20260721T193000
+SUMMARY:Chicago Data Night
+LOCATION:Chicago (varies\, co-hosted by Drive Capital / UChicago DSI)
+DESCRIPTION:Guest speaker on data topic\, networking\, Q&A.\\n\\nMore info: https://www.meetup.com/chicago-data-night/
+URL:https://www.meetup.com/chicago-data-night/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Data Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Data Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-data-night-20260818@chicago-ai-calendar
+DTSTART:20260818T173000
+DTEND:20260818T193000
+SUMMARY:Chicago Data Night
+LOCATION:Chicago (varies\, co-hosted by Drive Capital / UChicago DSI)
+DESCRIPTION:Guest speaker on data topic\, networking\, Q&A.\\n\\nMore info: https://www.meetup.com/chicago-data-night/
+URL:https://www.meetup.com/chicago-data-night/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Data Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Data Night
+END:VALARM
+END:VEVENT
+END:VCALENDAR

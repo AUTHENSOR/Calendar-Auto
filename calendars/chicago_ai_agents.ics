@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Chicago AI Calendar//EN
+X-WR-CALNAME:Chicago AI Agents
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ai-agent-builders-20260414@chicago-ai-calendar
+DTSTART:20260414T180000
+DTEND:20260414T200000
+SUMMARY:AI Agent Builders Chicago
+LOCATION:Chicago (Dataiku hosted)
+DESCRIPTION:Enterprise AI agents: designing\, deploying\, managing. Bring prototypes.\\n\\nMore info: https://www.meetup.com/analytics-data-science-by-dataiku-chicago/
+URL:https://www.meetup.com/analytics-data-science-by-dataiku-chicago/
+CATEGORIES:AI Agents
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Agent Builders Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Agent Builders Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-agent-builders-20260512@chicago-ai-calendar
+DTSTART:20260512T180000
+DTEND:20260512T200000
+SUMMARY:AI Agent Builders Chicago
+LOCATION:Chicago (Dataiku hosted)
+DESCRIPTION:Enterprise AI agents: designing\, deploying\, managing. Bring prototypes.\\n\\nMore info: https://www.meetup.com/analytics-data-science-by-dataiku-chicago/
+URL:https://www.meetup.com/analytics-data-science-by-dataiku-chicago/
+CATEGORIES:AI Agents
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Agent Builders Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Agent Builders Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-agent-builders-20260609@chicago-ai-calendar
+DTSTART:20260609T180000
+DTEND:20260609T200000
+SUMMARY:AI Agent Builders Chicago
+LOCATION:Chicago (Dataiku hosted)
+DESCRIPTION:Enterprise AI agents: designing\, deploying\, managing. Bring prototypes.\\n\\nMore info: https://www.meetup.com/analytics-data-science-by-dataiku-chicago/
+URL:https://www.meetup.com/analytics-data-science-by-dataiku-chicago/
+CATEGORIES:AI Agents
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Agent Builders Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Agent Builders Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-agent-builders-20260714@chicago-ai-calendar
+DTSTART:20260714T180000
+DTEND:20260714T200000
+SUMMARY:AI Agent Builders Chicago
+LOCATION:Chicago (Dataiku hosted)
+DESCRIPTION:Enterprise AI agents: designing\, deploying\, managing. Bring prototypes.\\n\\nMore info: https://www.meetup.com/analytics-data-science-by-dataiku-chicago/
+URL:https://www.meetup.com/analytics-data-science-by-dataiku-chicago/
+CATEGORIES:AI Agents
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Agent Builders Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Agent Builders Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-agent-builders-20260811@chicago-ai-calendar
+DTSTART:20260811T180000
+DTEND:20260811T200000
+SUMMARY:AI Agent Builders Chicago
+LOCATION:Chicago (Dataiku hosted)
+DESCRIPTION:Enterprise AI agents: designing\, deploying\, managing. Bring prototypes.\\n\\nMore info: https://www.meetup.com/analytics-data-science-by-dataiku-chicago/
+URL:https://www.meetup.com/analytics-data-science-by-dataiku-chicago/
+CATEGORIES:AI Agents
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Agent Builders Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Agent Builders Chicago
+END:VALARM
+END:VEVENT
+END:VCALENDAR

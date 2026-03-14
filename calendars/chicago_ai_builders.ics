@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Chicago AI Calendar//EN
+X-WR-CALNAME:Chicago AI Builders
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ai-tinkerers-20260318@chicago-ai-calendar
+DTSTART:20260318T173000
+DTEND:20260318T203000
+SUMMARY:AI Tinkerers Chicago
+LOCATION:Fulton Market area\, Chicago (varies)
+DESCRIPTION:Technical show-and-tell for active AI builders. 5-min live demos. Screened admission.\\n\\nMore info: https://chicago.aitinkerers.org/
+URL:https://chicago.aitinkerers.org/
+CATEGORIES:AI Builders
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Tinkerers Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Tinkerers Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-tinkerers-20260415@chicago-ai-calendar
+DTSTART:20260415T173000
+DTEND:20260415T203000
+SUMMARY:AI Tinkerers Chicago
+LOCATION:Fulton Market area\, Chicago (varies)
+DESCRIPTION:Technical show-and-tell for active AI builders. 5-min live demos. Screened admission.\\n\\nMore info: https://chicago.aitinkerers.org/
+URL:https://chicago.aitinkerers.org/
+CATEGORIES:AI Builders
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Tinkerers Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Tinkerers Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-tinkerers-20260520@chicago-ai-calendar
+DTSTART:20260520T173000
+DTEND:20260520T203000
+SUMMARY:AI Tinkerers Chicago
+LOCATION:Fulton Market area\, Chicago (varies)
+DESCRIPTION:Technical show-and-tell for active AI builders. 5-min live demos. Screened admission.\\n\\nMore info: https://chicago.aitinkerers.org/
+URL:https://chicago.aitinkerers.org/
+CATEGORIES:AI Builders
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Tinkerers Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Tinkerers Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-tinkerers-20260617@chicago-ai-calendar
+DTSTART:20260617T173000
+DTEND:20260617T203000
+SUMMARY:AI Tinkerers Chicago
+LOCATION:Fulton Market area\, Chicago (varies)
+DESCRIPTION:Technical show-and-tell for active AI builders. 5-min live demos. Screened admission.\\n\\nMore info: https://chicago.aitinkerers.org/
+URL:https://chicago.aitinkerers.org/
+CATEGORIES:AI Builders
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Tinkerers Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Tinkerers Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-tinkerers-20260715@chicago-ai-calendar
+DTSTART:20260715T173000
+DTEND:20260715T203000
+SUMMARY:AI Tinkerers Chicago
+LOCATION:Fulton Market area\, Chicago (varies)
+DESCRIPTION:Technical show-and-tell for active AI builders. 5-min live demos. Screened admission.\\n\\nMore info: https://chicago.aitinkerers.org/
+URL:https://chicago.aitinkerers.org/
+CATEGORIES:AI Builders
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Tinkerers Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Tinkerers Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-tinkerers-20260819@chicago-ai-calendar
+DTSTART:20260819T173000
+DTEND:20260819T203000
+SUMMARY:AI Tinkerers Chicago
+LOCATION:Fulton Market area\, Chicago (varies)
+DESCRIPTION:Technical show-and-tell for active AI builders. 5-min live demos. Screened admission.\\n\\nMore info: https://chicago.aitinkerers.org/
+URL:https://chicago.aitinkerers.org/
+CATEGORIES:AI Builders
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Tinkerers Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Tinkerers Chicago
+END:VALARM
+END:VEVENT
+END:VCALENDAR

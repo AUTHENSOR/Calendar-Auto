@@ -1,0 +1,4551 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Chicago AI Calendar//EN
+X-WR-CALNAME:Chicago AI/STEM Calendar
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ttic-colloquium-20260316@chicago-ai-calendar
+DTSTART:20260316T113000
+DTEND:20260316T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260323@chicago-ai-calendar
+DTSTART:20260323T113000
+DTEND:20260323T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260330@chicago-ai-calendar
+DTSTART:20260330T113000
+DTEND:20260330T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260406@chicago-ai-calendar
+DTSTART:20260406T113000
+DTEND:20260406T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260413@chicago-ai-calendar
+DTSTART:20260413T113000
+DTEND:20260413T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260420@chicago-ai-calendar
+DTSTART:20260420T113000
+DTEND:20260420T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260427@chicago-ai-calendar
+DTSTART:20260427T113000
+DTEND:20260427T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260504@chicago-ai-calendar
+DTSTART:20260504T113000
+DTEND:20260504T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260511@chicago-ai-calendar
+DTSTART:20260511T113000
+DTEND:20260511T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260518@chicago-ai-calendar
+DTSTART:20260518T113000
+DTEND:20260518T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260525@chicago-ai-calendar
+DTSTART:20260525T113000
+DTEND:20260525T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260601@chicago-ai-calendar
+DTSTART:20260601T113000
+DTEND:20260601T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260608@chicago-ai-calendar
+DTSTART:20260608T113000
+DTEND:20260608T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260615@chicago-ai-calendar
+DTSTART:20260615T113000
+DTEND:20260615T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260622@chicago-ai-calendar
+DTSTART:20260622T113000
+DTEND:20260622T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260629@chicago-ai-calendar
+DTSTART:20260629T113000
+DTEND:20260629T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260706@chicago-ai-calendar
+DTSTART:20260706T113000
+DTEND:20260706T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260713@chicago-ai-calendar
+DTSTART:20260713T113000
+DTEND:20260713T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260720@chicago-ai-calendar
+DTSTART:20260720T113000
+DTEND:20260720T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260727@chicago-ai-calendar
+DTSTART:20260727T113000
+DTEND:20260727T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260803@chicago-ai-calendar
+DTSTART:20260803T113000
+DTEND:20260803T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260810@chicago-ai-calendar
+DTSTART:20260810T113000
+DTEND:20260810T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260817@chicago-ai-calendar
+DTSTART:20260817T113000
+DTEND:20260817T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260824@chicago-ai-calendar
+DTSTART:20260824T113000
+DTEND:20260824T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260831@chicago-ai-calendar
+DTSTART:20260831T113000
+DTEND:20260831T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-colloquium-20260907@chicago-ai-calendar
+DTSTART:20260907T113000
+DTEND:20260907T123000
+SUMMARY:TTIC Colloquium
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:Invited speakers on current CS research. Free\, open to public.\\n\\nMore info: https://www.ttic.edu/colloquium/
+URL:https://www.ttic.edu/colloquium/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Colloquium in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Colloquium
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260318@chicago-ai-calendar
+DTSTART:20260318T110000
+DTEND:20260318T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260325@chicago-ai-calendar
+DTSTART:20260325T110000
+DTEND:20260325T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260401@chicago-ai-calendar
+DTSTART:20260401T110000
+DTEND:20260401T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260408@chicago-ai-calendar
+DTSTART:20260408T110000
+DTEND:20260408T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260415@chicago-ai-calendar
+DTSTART:20260415T110000
+DTEND:20260415T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260422@chicago-ai-calendar
+DTSTART:20260422T110000
+DTEND:20260422T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260429@chicago-ai-calendar
+DTSTART:20260429T110000
+DTEND:20260429T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260506@chicago-ai-calendar
+DTSTART:20260506T110000
+DTEND:20260506T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260513@chicago-ai-calendar
+DTSTART:20260513T110000
+DTEND:20260513T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260520@chicago-ai-calendar
+DTSTART:20260520T110000
+DTEND:20260520T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260527@chicago-ai-calendar
+DTSTART:20260527T110000
+DTEND:20260527T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260603@chicago-ai-calendar
+DTSTART:20260603T110000
+DTEND:20260603T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260610@chicago-ai-calendar
+DTSTART:20260610T110000
+DTEND:20260610T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260617@chicago-ai-calendar
+DTSTART:20260617T110000
+DTEND:20260617T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260624@chicago-ai-calendar
+DTSTART:20260624T110000
+DTEND:20260624T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260701@chicago-ai-calendar
+DTSTART:20260701T110000
+DTEND:20260701T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260708@chicago-ai-calendar
+DTSTART:20260708T110000
+DTEND:20260708T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260715@chicago-ai-calendar
+DTSTART:20260715T110000
+DTEND:20260715T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260722@chicago-ai-calendar
+DTSTART:20260722T110000
+DTEND:20260722T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260729@chicago-ai-calendar
+DTSTART:20260729T110000
+DTEND:20260729T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260805@chicago-ai-calendar
+DTSTART:20260805T110000
+DTEND:20260805T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260812@chicago-ai-calendar
+DTSTART:20260812T110000
+DTEND:20260812T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260819@chicago-ai-calendar
+DTSTART:20260819T110000
+DTEND:20260819T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260826@chicago-ai-calendar
+DTSTART:20260826T110000
+DTEND:20260826T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260902@chicago-ai-calendar
+DTSTART:20260902T110000
+DTEND:20260902T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-young-researcher-20260909@chicago-ai-calendar
+DTSTART:20260909T110000
+DTEND:20260909T120000
+SUMMARY:TTIC Young Researcher Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:PhD students and postdocs present research. Great for networking with early-career researchers.\\n\\nMore info: https://www.ttic.edu/young-researcher/
+URL:https://www.ttic.edu/young-researcher/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TTIC Young Researcher Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TTIC Young Researcher Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260313@chicago-ai-calendar
+DTSTART:20260313T120000
+DTEND:20260313T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260320@chicago-ai-calendar
+DTSTART:20260320T120000
+DTEND:20260320T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260327@chicago-ai-calendar
+DTSTART:20260327T120000
+DTEND:20260327T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260403@chicago-ai-calendar
+DTSTART:20260403T120000
+DTEND:20260403T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260410@chicago-ai-calendar
+DTSTART:20260410T120000
+DTEND:20260410T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260417@chicago-ai-calendar
+DTSTART:20260417T120000
+DTEND:20260417T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260424@chicago-ai-calendar
+DTSTART:20260424T120000
+DTEND:20260424T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260501@chicago-ai-calendar
+DTSTART:20260501T120000
+DTEND:20260501T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260508@chicago-ai-calendar
+DTSTART:20260508T120000
+DTEND:20260508T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260515@chicago-ai-calendar
+DTSTART:20260515T120000
+DTEND:20260515T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260522@chicago-ai-calendar
+DTSTART:20260522T120000
+DTEND:20260522T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260529@chicago-ai-calendar
+DTSTART:20260529T120000
+DTEND:20260529T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260605@chicago-ai-calendar
+DTSTART:20260605T120000
+DTEND:20260605T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260612@chicago-ai-calendar
+DTSTART:20260612T120000
+DTEND:20260612T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260619@chicago-ai-calendar
+DTSTART:20260619T120000
+DTEND:20260619T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260626@chicago-ai-calendar
+DTSTART:20260626T120000
+DTEND:20260626T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260703@chicago-ai-calendar
+DTSTART:20260703T120000
+DTEND:20260703T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260710@chicago-ai-calendar
+DTSTART:20260710T120000
+DTEND:20260710T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260717@chicago-ai-calendar
+DTSTART:20260717T120000
+DTEND:20260717T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260724@chicago-ai-calendar
+DTSTART:20260724T120000
+DTEND:20260724T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260731@chicago-ai-calendar
+DTSTART:20260731T120000
+DTEND:20260731T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260807@chicago-ai-calendar
+DTSTART:20260807T120000
+DTEND:20260807T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260814@chicago-ai-calendar
+DTSTART:20260814T120000
+DTEND:20260814T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260821@chicago-ai-calendar
+DTSTART:20260821T120000
+DTEND:20260821T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260828@chicago-ai-calendar
+DTSTART:20260828T120000
+DTEND:20260828T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ttic-research-20260904@chicago-ai-calendar
+DTSTART:20260904T120000
+DTEND:20260904T130000
+SUMMARY:Research at TTIC Seminar
+LOCATION:TTIC Room 530\, 6045 S. Kenwood Ave\, Chicago
+DESCRIPTION:TTIC faculty present current research. Check calendar for exact day.\\n\\nMore info: https://www.ttic.edu/research-at-ttic/
+URL:https://www.ttic.edu/research-at-ttic/
+CATEGORIES:AI/CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Research at TTIC Seminar in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Research at TTIC Seminar
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260317@chicago-ai-calendar
+DTSTART:20260317T190000
+DTEND:20260317T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260324@chicago-ai-calendar
+DTSTART:20260324T190000
+DTEND:20260324T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260331@chicago-ai-calendar
+DTSTART:20260331T190000
+DTEND:20260331T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260407@chicago-ai-calendar
+DTSTART:20260407T190000
+DTEND:20260407T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260414@chicago-ai-calendar
+DTSTART:20260414T190000
+DTEND:20260414T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260421@chicago-ai-calendar
+DTSTART:20260421T190000
+DTEND:20260421T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260428@chicago-ai-calendar
+DTSTART:20260428T190000
+DTEND:20260428T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260505@chicago-ai-calendar
+DTSTART:20260505T190000
+DTEND:20260505T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260512@chicago-ai-calendar
+DTSTART:20260512T190000
+DTEND:20260512T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260519@chicago-ai-calendar
+DTSTART:20260519T190000
+DTEND:20260519T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260526@chicago-ai-calendar
+DTSTART:20260526T190000
+DTEND:20260526T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260602@chicago-ai-calendar
+DTSTART:20260602T190000
+DTEND:20260602T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260609@chicago-ai-calendar
+DTSTART:20260609T190000
+DTEND:20260609T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260616@chicago-ai-calendar
+DTSTART:20260616T190000
+DTEND:20260616T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260623@chicago-ai-calendar
+DTSTART:20260623T190000
+DTEND:20260623T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260630@chicago-ai-calendar
+DTSTART:20260630T190000
+DTEND:20260630T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260707@chicago-ai-calendar
+DTSTART:20260707T190000
+DTEND:20260707T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260714@chicago-ai-calendar
+DTSTART:20260714T190000
+DTEND:20260714T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260721@chicago-ai-calendar
+DTSTART:20260721T190000
+DTEND:20260721T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260728@chicago-ai-calendar
+DTSTART:20260728T190000
+DTEND:20260728T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260804@chicago-ai-calendar
+DTSTART:20260804T190000
+DTEND:20260804T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260811@chicago-ai-calendar
+DTSTART:20260811T190000
+DTEND:20260811T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260818@chicago-ai-calendar
+DTSTART:20260818T190000
+DTEND:20260818T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260825@chicago-ai-calendar
+DTSTART:20260825T190000
+DTEND:20260825T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260901@chicago-ai-calendar
+DTSTART:20260901T190000
+DTEND:20260901T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chi-hack-night-20260908@chicago-ai-calendar
+DTSTART:20260908T190000
+DTEND:20260908T220000
+SUMMARY:Chi Hack Night
+LOCATION:750 N Orleans St\, Chicago (in-person 1x/month\, virtual 3x/month)
+DESCRIPTION:Presentation + hackathon breakouts. Civic tech\, open data\, community.\\n\\nMore info: https://chihacknight.org/
+URL:https://chihacknight.org/
+CATEGORIES:Civic Tech
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chi Hack Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chi Hack Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260318@chicago-ai-calendar
+DTSTART:20260318T123000
+DTEND:20260318T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260325@chicago-ai-calendar
+DTSTART:20260325T123000
+DTEND:20260325T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260401@chicago-ai-calendar
+DTSTART:20260401T123000
+DTEND:20260401T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260408@chicago-ai-calendar
+DTSTART:20260408T123000
+DTEND:20260408T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260415@chicago-ai-calendar
+DTSTART:20260415T123000
+DTEND:20260415T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260422@chicago-ai-calendar
+DTSTART:20260422T123000
+DTEND:20260422T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260429@chicago-ai-calendar
+DTSTART:20260429T123000
+DTEND:20260429T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260506@chicago-ai-calendar
+DTSTART:20260506T123000
+DTEND:20260506T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260513@chicago-ai-calendar
+DTSTART:20260513T123000
+DTEND:20260513T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260520@chicago-ai-calendar
+DTSTART:20260520T123000
+DTEND:20260520T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260527@chicago-ai-calendar
+DTSTART:20260527T123000
+DTEND:20260527T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260603@chicago-ai-calendar
+DTSTART:20260603T123000
+DTEND:20260603T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260610@chicago-ai-calendar
+DTSTART:20260610T123000
+DTEND:20260610T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260617@chicago-ai-calendar
+DTSTART:20260617T123000
+DTEND:20260617T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260624@chicago-ai-calendar
+DTSTART:20260624T123000
+DTEND:20260624T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260701@chicago-ai-calendar
+DTSTART:20260701T123000
+DTEND:20260701T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260708@chicago-ai-calendar
+DTSTART:20260708T123000
+DTEND:20260708T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260715@chicago-ai-calendar
+DTSTART:20260715T123000
+DTEND:20260715T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260722@chicago-ai-calendar
+DTSTART:20260722T123000
+DTEND:20260722T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260729@chicago-ai-calendar
+DTSTART:20260729T123000
+DTEND:20260729T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260805@chicago-ai-calendar
+DTSTART:20260805T123000
+DTEND:20260805T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260812@chicago-ai-calendar
+DTSTART:20260812T123000
+DTEND:20260812T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260819@chicago-ai-calendar
+DTSTART:20260819T123000
+DTEND:20260819T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260826@chicago-ai-calendar
+DTSTART:20260826T123000
+DTEND:20260826T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260902@chicago-ai-calendar
+DTSTART:20260902T123000
+DTEND:20260902T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uchicago-theory-lunch-20260909@chicago-ai-calendar
+DTSTART:20260909T123000
+DTEND:20260909T133000
+SUMMARY:UChicago CS Theory Lunch
+LOCATION:John Crerar Library Room 390\, UChicago
+DESCRIPTION:Weekly research talks on CS theory. Free\, open to Chicago-area researchers.\\n\\nMore info: http://theory.cs.uchicago.edu/
+URL:http://theory.cs.uchicago.edu/
+CATEGORIES:CS Theory
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: UChicago CS Theory Lunch in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: UChicago CS Theory Lunch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260319@chicago-ai-calendar
+DTSTART:20260319T120000
+DTEND:20260319T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260326@chicago-ai-calendar
+DTSTART:20260326T120000
+DTEND:20260326T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260402@chicago-ai-calendar
+DTSTART:20260402T120000
+DTEND:20260402T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260409@chicago-ai-calendar
+DTSTART:20260409T120000
+DTEND:20260409T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260416@chicago-ai-calendar
+DTSTART:20260416T120000
+DTEND:20260416T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260423@chicago-ai-calendar
+DTSTART:20260423T120000
+DTEND:20260423T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260430@chicago-ai-calendar
+DTSTART:20260430T120000
+DTEND:20260430T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260507@chicago-ai-calendar
+DTSTART:20260507T120000
+DTEND:20260507T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260514@chicago-ai-calendar
+DTSTART:20260514T120000
+DTEND:20260514T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260521@chicago-ai-calendar
+DTSTART:20260521T120000
+DTEND:20260521T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260528@chicago-ai-calendar
+DTSTART:20260528T120000
+DTEND:20260528T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260604@chicago-ai-calendar
+DTSTART:20260604T120000
+DTEND:20260604T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260611@chicago-ai-calendar
+DTSTART:20260611T120000
+DTEND:20260611T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260618@chicago-ai-calendar
+DTSTART:20260618T120000
+DTEND:20260618T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260625@chicago-ai-calendar
+DTSTART:20260625T120000
+DTEND:20260625T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260702@chicago-ai-calendar
+DTSTART:20260702T120000
+DTEND:20260702T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260709@chicago-ai-calendar
+DTSTART:20260709T120000
+DTEND:20260709T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260716@chicago-ai-calendar
+DTSTART:20260716T120000
+DTEND:20260716T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260723@chicago-ai-calendar
+DTSTART:20260723T120000
+DTEND:20260723T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260730@chicago-ai-calendar
+DTSTART:20260730T120000
+DTEND:20260730T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260806@chicago-ai-calendar
+DTSTART:20260806T120000
+DTEND:20260806T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260813@chicago-ai-calendar
+DTSTART:20260813T120000
+DTEND:20260813T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260820@chicago-ai-calendar
+DTSTART:20260820T120000
+DTEND:20260820T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260827@chicago-ai-calendar
+DTSTART:20260827T120000
+DTEND:20260827T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260903@chicago-ai-calendar
+DTSTART:20260903T120000
+DTEND:20260903T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aittg-webinar-20260910@chicago-ai-calendar
+DTSTART:20260910T120000
+DTEND:20260910T133000
+SUMMARY:Chicago AI Developers Deep Dive
+LOCATION:Virtual (Zoom)
+DESCRIPTION:Weekly virtual AI deep dive webinar. GenAI\, LLMs\, agents\, ML.\\n\\nMore info: https://www.meetup.com/aittg-chicago/
+URL:https://www.meetup.com/aittg-chicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago AI Developers Deep Dive in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago AI Developers Deep Dive
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-tinkerers-20260318@chicago-ai-calendar
+DTSTART:20260318T173000
+DTEND:20260318T203000
+SUMMARY:AI Tinkerers Chicago
+LOCATION:Fulton Market area\, Chicago (varies)
+DESCRIPTION:Technical show-and-tell for active AI builders. 5-min live demos. Screened admission.\\n\\nMore info: https://chicago.aitinkerers.org/
+URL:https://chicago.aitinkerers.org/
+CATEGORIES:AI Builders
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Tinkerers Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Tinkerers Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-tinkerers-20260415@chicago-ai-calendar
+DTSTART:20260415T173000
+DTEND:20260415T203000
+SUMMARY:AI Tinkerers Chicago
+LOCATION:Fulton Market area\, Chicago (varies)
+DESCRIPTION:Technical show-and-tell for active AI builders. 5-min live demos. Screened admission.\\n\\nMore info: https://chicago.aitinkerers.org/
+URL:https://chicago.aitinkerers.org/
+CATEGORIES:AI Builders
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Tinkerers Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Tinkerers Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-tinkerers-20260520@chicago-ai-calendar
+DTSTART:20260520T173000
+DTEND:20260520T203000
+SUMMARY:AI Tinkerers Chicago
+LOCATION:Fulton Market area\, Chicago (varies)
+DESCRIPTION:Technical show-and-tell for active AI builders. 5-min live demos. Screened admission.\\n\\nMore info: https://chicago.aitinkerers.org/
+URL:https://chicago.aitinkerers.org/
+CATEGORIES:AI Builders
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Tinkerers Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Tinkerers Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-tinkerers-20260617@chicago-ai-calendar
+DTSTART:20260617T173000
+DTEND:20260617T203000
+SUMMARY:AI Tinkerers Chicago
+LOCATION:Fulton Market area\, Chicago (varies)
+DESCRIPTION:Technical show-and-tell for active AI builders. 5-min live demos. Screened admission.\\n\\nMore info: https://chicago.aitinkerers.org/
+URL:https://chicago.aitinkerers.org/
+CATEGORIES:AI Builders
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Tinkerers Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Tinkerers Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-tinkerers-20260715@chicago-ai-calendar
+DTSTART:20260715T173000
+DTEND:20260715T203000
+SUMMARY:AI Tinkerers Chicago
+LOCATION:Fulton Market area\, Chicago (varies)
+DESCRIPTION:Technical show-and-tell for active AI builders. 5-min live demos. Screened admission.\\n\\nMore info: https://chicago.aitinkerers.org/
+URL:https://chicago.aitinkerers.org/
+CATEGORIES:AI Builders
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Tinkerers Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Tinkerers Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-tinkerers-20260819@chicago-ai-calendar
+DTSTART:20260819T173000
+DTEND:20260819T203000
+SUMMARY:AI Tinkerers Chicago
+LOCATION:Fulton Market area\, Chicago (varies)
+DESCRIPTION:Technical show-and-tell for active AI builders. 5-min live demos. Screened admission.\\n\\nMore info: https://chicago.aitinkerers.org/
+URL:https://chicago.aitinkerers.org/
+CATEGORIES:AI Builders
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Tinkerers Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Tinkerers Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chipy-20260409@chicago-ai-calendar
+DTSTART:20260409T180000
+DTEND:20260409T203000
+SUMMARY:ChiPy - Chicago Python
+LOCATION:Rotating Loop locations\, Chicago
+DESCRIPTION:Chicago's Python user group. Talks\, networking\, mentorship program.\\n\\nMore info: https://www.chipy.org/
+URL:https://www.chipy.org/
+CATEGORIES:Python/Dev
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ChiPy - Chicago Python in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: ChiPy - Chicago Python
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chipy-20260514@chicago-ai-calendar
+DTSTART:20260514T180000
+DTEND:20260514T203000
+SUMMARY:ChiPy - Chicago Python
+LOCATION:Rotating Loop locations\, Chicago
+DESCRIPTION:Chicago's Python user group. Talks\, networking\, mentorship program.\\n\\nMore info: https://www.chipy.org/
+URL:https://www.chipy.org/
+CATEGORIES:Python/Dev
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ChiPy - Chicago Python in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: ChiPy - Chicago Python
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chipy-20260611@chicago-ai-calendar
+DTSTART:20260611T180000
+DTEND:20260611T203000
+SUMMARY:ChiPy - Chicago Python
+LOCATION:Rotating Loop locations\, Chicago
+DESCRIPTION:Chicago's Python user group. Talks\, networking\, mentorship program.\\n\\nMore info: https://www.chipy.org/
+URL:https://www.chipy.org/
+CATEGORIES:Python/Dev
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ChiPy - Chicago Python in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: ChiPy - Chicago Python
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chipy-20260709@chicago-ai-calendar
+DTSTART:20260709T180000
+DTEND:20260709T203000
+SUMMARY:ChiPy - Chicago Python
+LOCATION:Rotating Loop locations\, Chicago
+DESCRIPTION:Chicago's Python user group. Talks\, networking\, mentorship program.\\n\\nMore info: https://www.chipy.org/
+URL:https://www.chipy.org/
+CATEGORIES:Python/Dev
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ChiPy - Chicago Python in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: ChiPy - Chicago Python
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chipy-20260813@chicago-ai-calendar
+DTSTART:20260813T180000
+DTEND:20260813T203000
+SUMMARY:ChiPy - Chicago Python
+LOCATION:Rotating Loop locations\, Chicago
+DESCRIPTION:Chicago's Python user group. Talks\, networking\, mentorship program.\\n\\nMore info: https://www.chipy.org/
+URL:https://www.chipy.org/
+CATEGORIES:Python/Dev
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ChiPy - Chicago Python in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: ChiPy - Chicago Python
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pydata-chicago-20260326@chicago-ai-calendar
+DTSTART:20260326T180000
+DTEND:20260326T200000
+SUMMARY:PyData Chicago
+LOCATION:Chicago (in-person or Zoom)
+DESCRIPTION:Data science talks focused on Python data tools.\\n\\nMore info: https://www.meetup.com/pydatachi/
+URL:https://www.meetup.com/pydatachi/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: PyData Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: PyData Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pydata-chicago-20260430@chicago-ai-calendar
+DTSTART:20260430T180000
+DTEND:20260430T200000
+SUMMARY:PyData Chicago
+LOCATION:Chicago (in-person or Zoom)
+DESCRIPTION:Data science talks focused on Python data tools.\\n\\nMore info: https://www.meetup.com/pydatachi/
+URL:https://www.meetup.com/pydatachi/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: PyData Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: PyData Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pydata-chicago-20260528@chicago-ai-calendar
+DTSTART:20260528T180000
+DTEND:20260528T200000
+SUMMARY:PyData Chicago
+LOCATION:Chicago (in-person or Zoom)
+DESCRIPTION:Data science talks focused on Python data tools.\\n\\nMore info: https://www.meetup.com/pydatachi/
+URL:https://www.meetup.com/pydatachi/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: PyData Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: PyData Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pydata-chicago-20260625@chicago-ai-calendar
+DTSTART:20260625T180000
+DTEND:20260625T200000
+SUMMARY:PyData Chicago
+LOCATION:Chicago (in-person or Zoom)
+DESCRIPTION:Data science talks focused on Python data tools.\\n\\nMore info: https://www.meetup.com/pydatachi/
+URL:https://www.meetup.com/pydatachi/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: PyData Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: PyData Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pydata-chicago-20260730@chicago-ai-calendar
+DTSTART:20260730T180000
+DTEND:20260730T200000
+SUMMARY:PyData Chicago
+LOCATION:Chicago (in-person or Zoom)
+DESCRIPTION:Data science talks focused on Python data tools.\\n\\nMore info: https://www.meetup.com/pydatachi/
+URL:https://www.meetup.com/pydatachi/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: PyData Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: PyData Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pydata-chicago-20260827@chicago-ai-calendar
+DTSTART:20260827T180000
+DTEND:20260827T200000
+SUMMARY:PyData Chicago
+LOCATION:Chicago (in-person or Zoom)
+DESCRIPTION:Data science talks focused on Python data tools.\\n\\nMore info: https://www.meetup.com/pydatachi/
+URL:https://www.meetup.com/pydatachi/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: PyData Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: PyData Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acm-chicago-20260408@chicago-ai-calendar
+DTSTART:20260408T180000
+DTEND:20260408T200000
+SUMMARY:ACM Chicago Chapter
+LOCATION:AON Center\, 200 E. Randolph St\, Suite 200\, Chicago
+DESCRIPTION:Monthly talks on CS topics. Hybrid (in-person + Zoom).\\n\\nMore info: https://www.chicagoacm.org/
+URL:https://www.chicagoacm.org/
+CATEGORIES:CS Professional
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ACM Chicago Chapter in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: ACM Chicago Chapter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acm-chicago-20260513@chicago-ai-calendar
+DTSTART:20260513T180000
+DTEND:20260513T200000
+SUMMARY:ACM Chicago Chapter
+LOCATION:AON Center\, 200 E. Randolph St\, Suite 200\, Chicago
+DESCRIPTION:Monthly talks on CS topics. Hybrid (in-person + Zoom).\\n\\nMore info: https://www.chicagoacm.org/
+URL:https://www.chicagoacm.org/
+CATEGORIES:CS Professional
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ACM Chicago Chapter in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: ACM Chicago Chapter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acm-chicago-20260610@chicago-ai-calendar
+DTSTART:20260610T180000
+DTEND:20260610T200000
+SUMMARY:ACM Chicago Chapter
+LOCATION:AON Center\, 200 E. Randolph St\, Suite 200\, Chicago
+DESCRIPTION:Monthly talks on CS topics. Hybrid (in-person + Zoom).\\n\\nMore info: https://www.chicagoacm.org/
+URL:https://www.chicagoacm.org/
+CATEGORIES:CS Professional
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ACM Chicago Chapter in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: ACM Chicago Chapter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acm-chicago-20260708@chicago-ai-calendar
+DTSTART:20260708T180000
+DTEND:20260708T200000
+SUMMARY:ACM Chicago Chapter
+LOCATION:AON Center\, 200 E. Randolph St\, Suite 200\, Chicago
+DESCRIPTION:Monthly talks on CS topics. Hybrid (in-person + Zoom).\\n\\nMore info: https://www.chicagoacm.org/
+URL:https://www.chicagoacm.org/
+CATEGORIES:CS Professional
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ACM Chicago Chapter in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: ACM Chicago Chapter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acm-chicago-20260812@chicago-ai-calendar
+DTSTART:20260812T180000
+DTEND:20260812T200000
+SUMMARY:ACM Chicago Chapter
+LOCATION:AON Center\, 200 E. Randolph St\, Suite 200\, Chicago
+DESCRIPTION:Monthly talks on CS topics. Hybrid (in-person + Zoom).\\n\\nMore info: https://www.chicagoacm.org/
+URL:https://www.chicagoacm.org/
+CATEGORIES:CS Professional
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ACM Chicago Chapter in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: ACM Chicago Chapter
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-data-night-20260317@chicago-ai-calendar
+DTSTART:20260317T173000
+DTEND:20260317T193000
+SUMMARY:Chicago Data Night
+LOCATION:Chicago (varies\, co-hosted by Drive Capital / UChicago DSI)
+DESCRIPTION:Guest speaker on data topic\, networking\, Q&A.\\n\\nMore info: https://www.meetup.com/chicago-data-night/
+URL:https://www.meetup.com/chicago-data-night/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Data Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Data Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-data-night-20260421@chicago-ai-calendar
+DTSTART:20260421T173000
+DTEND:20260421T193000
+SUMMARY:Chicago Data Night
+LOCATION:Chicago (varies\, co-hosted by Drive Capital / UChicago DSI)
+DESCRIPTION:Guest speaker on data topic\, networking\, Q&A.\\n\\nMore info: https://www.meetup.com/chicago-data-night/
+URL:https://www.meetup.com/chicago-data-night/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Data Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Data Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-data-night-20260519@chicago-ai-calendar
+DTSTART:20260519T173000
+DTEND:20260519T193000
+SUMMARY:Chicago Data Night
+LOCATION:Chicago (varies\, co-hosted by Drive Capital / UChicago DSI)
+DESCRIPTION:Guest speaker on data topic\, networking\, Q&A.\\n\\nMore info: https://www.meetup.com/chicago-data-night/
+URL:https://www.meetup.com/chicago-data-night/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Data Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Data Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-data-night-20260616@chicago-ai-calendar
+DTSTART:20260616T173000
+DTEND:20260616T193000
+SUMMARY:Chicago Data Night
+LOCATION:Chicago (varies\, co-hosted by Drive Capital / UChicago DSI)
+DESCRIPTION:Guest speaker on data topic\, networking\, Q&A.\\n\\nMore info: https://www.meetup.com/chicago-data-night/
+URL:https://www.meetup.com/chicago-data-night/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Data Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Data Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-data-night-20260721@chicago-ai-calendar
+DTSTART:20260721T173000
+DTEND:20260721T193000
+SUMMARY:Chicago Data Night
+LOCATION:Chicago (varies\, co-hosted by Drive Capital / UChicago DSI)
+DESCRIPTION:Guest speaker on data topic\, networking\, Q&A.\\n\\nMore info: https://www.meetup.com/chicago-data-night/
+URL:https://www.meetup.com/chicago-data-night/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Data Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Data Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-data-night-20260818@chicago-ai-calendar
+DTSTART:20260818T173000
+DTEND:20260818T193000
+SUMMARY:Chicago Data Night
+LOCATION:Chicago (varies\, co-hosted by Drive Capital / UChicago DSI)
+DESCRIPTION:Guest speaker on data topic\, networking\, Q&A.\\n\\nMore info: https://www.meetup.com/chicago-data-night/
+URL:https://www.meetup.com/chicago-data-night/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Data Night in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Data Night
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:analytics-club-20260403@chicago-ai-calendar
+DTSTART:20260403T110000
+DTEND:20260403T140000
+SUMMARY:Analytics.Club FirstFridayFair
+LOCATION:Chicago (virtual or in-person)
+DESCRIPTION:World's largest volunteer-led analytics and AI community.\\n\\nMore info: https://www.meetup.com/ac-ord/
+URL:https://www.meetup.com/ac-ord/
+CATEGORIES:Analytics/AI
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Analytics.Club FirstFridayFair in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Analytics.Club FirstFridayFair
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:analytics-club-20260501@chicago-ai-calendar
+DTSTART:20260501T110000
+DTEND:20260501T140000
+SUMMARY:Analytics.Club FirstFridayFair
+LOCATION:Chicago (virtual or in-person)
+DESCRIPTION:World's largest volunteer-led analytics and AI community.\\n\\nMore info: https://www.meetup.com/ac-ord/
+URL:https://www.meetup.com/ac-ord/
+CATEGORIES:Analytics/AI
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Analytics.Club FirstFridayFair in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Analytics.Club FirstFridayFair
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:analytics-club-20260605@chicago-ai-calendar
+DTSTART:20260605T110000
+DTEND:20260605T140000
+SUMMARY:Analytics.Club FirstFridayFair
+LOCATION:Chicago (virtual or in-person)
+DESCRIPTION:World's largest volunteer-led analytics and AI community.\\n\\nMore info: https://www.meetup.com/ac-ord/
+URL:https://www.meetup.com/ac-ord/
+CATEGORIES:Analytics/AI
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Analytics.Club FirstFridayFair in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Analytics.Club FirstFridayFair
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:analytics-club-20260703@chicago-ai-calendar
+DTSTART:20260703T110000
+DTEND:20260703T140000
+SUMMARY:Analytics.Club FirstFridayFair
+LOCATION:Chicago (virtual or in-person)
+DESCRIPTION:World's largest volunteer-led analytics and AI community.\\n\\nMore info: https://www.meetup.com/ac-ord/
+URL:https://www.meetup.com/ac-ord/
+CATEGORIES:Analytics/AI
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Analytics.Club FirstFridayFair in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Analytics.Club FirstFridayFair
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:analytics-club-20260807@chicago-ai-calendar
+DTSTART:20260807T110000
+DTEND:20260807T140000
+SUMMARY:Analytics.Club FirstFridayFair
+LOCATION:Chicago (virtual or in-person)
+DESCRIPTION:World's largest volunteer-led analytics and AI community.\\n\\nMore info: https://www.meetup.com/ac-ord/
+URL:https://www.meetup.com/ac-ord/
+CATEGORIES:Analytics/AI
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Analytics.Club FirstFridayFair in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Analytics.Club FirstFridayFair
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-agent-builders-20260414@chicago-ai-calendar
+DTSTART:20260414T180000
+DTEND:20260414T200000
+SUMMARY:AI Agent Builders Chicago
+LOCATION:Chicago (Dataiku hosted)
+DESCRIPTION:Enterprise AI agents: designing\, deploying\, managing. Bring prototypes.\\n\\nMore info: https://www.meetup.com/analytics-data-science-by-dataiku-chicago/
+URL:https://www.meetup.com/analytics-data-science-by-dataiku-chicago/
+CATEGORIES:AI Agents
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Agent Builders Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Agent Builders Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-agent-builders-20260512@chicago-ai-calendar
+DTSTART:20260512T180000
+DTEND:20260512T200000
+SUMMARY:AI Agent Builders Chicago
+LOCATION:Chicago (Dataiku hosted)
+DESCRIPTION:Enterprise AI agents: designing\, deploying\, managing. Bring prototypes.\\n\\nMore info: https://www.meetup.com/analytics-data-science-by-dataiku-chicago/
+URL:https://www.meetup.com/analytics-data-science-by-dataiku-chicago/
+CATEGORIES:AI Agents
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Agent Builders Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Agent Builders Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-agent-builders-20260609@chicago-ai-calendar
+DTSTART:20260609T180000
+DTEND:20260609T200000
+SUMMARY:AI Agent Builders Chicago
+LOCATION:Chicago (Dataiku hosted)
+DESCRIPTION:Enterprise AI agents: designing\, deploying\, managing. Bring prototypes.\\n\\nMore info: https://www.meetup.com/analytics-data-science-by-dataiku-chicago/
+URL:https://www.meetup.com/analytics-data-science-by-dataiku-chicago/
+CATEGORIES:AI Agents
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Agent Builders Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Agent Builders Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-agent-builders-20260714@chicago-ai-calendar
+DTSTART:20260714T180000
+DTEND:20260714T200000
+SUMMARY:AI Agent Builders Chicago
+LOCATION:Chicago (Dataiku hosted)
+DESCRIPTION:Enterprise AI agents: designing\, deploying\, managing. Bring prototypes.\\n\\nMore info: https://www.meetup.com/analytics-data-science-by-dataiku-chicago/
+URL:https://www.meetup.com/analytics-data-science-by-dataiku-chicago/
+CATEGORIES:AI Agents
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Agent Builders Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Agent Builders Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-agent-builders-20260811@chicago-ai-calendar
+DTSTART:20260811T180000
+DTEND:20260811T200000
+SUMMARY:AI Agent Builders Chicago
+LOCATION:Chicago (Dataiku hosted)
+DESCRIPTION:Enterprise AI agents: designing\, deploying\, managing. Bring prototypes.\\n\\nMore info: https://www.meetup.com/analytics-data-science-by-dataiku-chicago/
+URL:https://www.meetup.com/analytics-data-science-by-dataiku-chicago/
+CATEGORIES:AI Agents
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Agent Builders Chicago in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Agent Builders Chicago
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-ai-meetup-20260401@chicago-ai-calendar
+DTSTART:20260401T180000
+DTEND:20260401T200000
+SUMMARY:Chicago Artificial Intelligence Meetup
+LOCATION:Downtown Chicago
+DESCRIPTION:Speaker + networking exploring AI/ML trends.\\n\\nMore info: https://www.meetup.com/aichicago/
+URL:https://www.meetup.com/aichicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Artificial Intelligence Meetup in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Artificial Intelligence Meetup
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-ai-meetup-20260506@chicago-ai-calendar
+DTSTART:20260506T180000
+DTEND:20260506T200000
+SUMMARY:Chicago Artificial Intelligence Meetup
+LOCATION:Downtown Chicago
+DESCRIPTION:Speaker + networking exploring AI/ML trends.\\n\\nMore info: https://www.meetup.com/aichicago/
+URL:https://www.meetup.com/aichicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Artificial Intelligence Meetup in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Artificial Intelligence Meetup
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-ai-meetup-20260603@chicago-ai-calendar
+DTSTART:20260603T180000
+DTEND:20260603T200000
+SUMMARY:Chicago Artificial Intelligence Meetup
+LOCATION:Downtown Chicago
+DESCRIPTION:Speaker + networking exploring AI/ML trends.\\n\\nMore info: https://www.meetup.com/aichicago/
+URL:https://www.meetup.com/aichicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Artificial Intelligence Meetup in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Artificial Intelligence Meetup
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-ai-meetup-20260701@chicago-ai-calendar
+DTSTART:20260701T180000
+DTEND:20260701T200000
+SUMMARY:Chicago Artificial Intelligence Meetup
+LOCATION:Downtown Chicago
+DESCRIPTION:Speaker + networking exploring AI/ML trends.\\n\\nMore info: https://www.meetup.com/aichicago/
+URL:https://www.meetup.com/aichicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Artificial Intelligence Meetup in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Artificial Intelligence Meetup
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chicago-ai-meetup-20260805@chicago-ai-calendar
+DTSTART:20260805T180000
+DTEND:20260805T200000
+SUMMARY:Chicago Artificial Intelligence Meetup
+LOCATION:Downtown Chicago
+DESCRIPTION:Speaker + networking exploring AI/ML trends.\\n\\nMore info: https://www.meetup.com/aichicago/
+URL:https://www.meetup.com/aichicago/
+CATEGORIES:AI/ML
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Artificial Intelligence Meetup in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Artificial Intelligence Meetup
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wed-at-nico-20260408@chicago-ai-calendar
+DTSTART:20260408T120000
+DTEND:20260408T130000
+SUMMARY:WED@NICO (Northwestern)
+LOCATION:Chambers Hall\, Northwestern\, Evanston / Zoom
+DESCRIPTION:Weekly during academic quarters. Winter: Feb 4 - Mar 11\; Spring: Apr 8 - May 20.\\n\\nMore info: https://www.nico.northwestern.edu/news-events/seminars.html
+URL:https://www.nico.northwestern.edu/news-events/seminars.html
+CATEGORIES:Complex Systems/AI
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: WED@NICO (Northwestern) in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: WED@NICO (Northwestern)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wed-at-nico-20260415@chicago-ai-calendar
+DTSTART:20260415T120000
+DTEND:20260415T130000
+SUMMARY:WED@NICO (Northwestern)
+LOCATION:Chambers Hall\, Northwestern\, Evanston / Zoom
+DESCRIPTION:Weekly during academic quarters. Winter: Feb 4 - Mar 11\; Spring: Apr 8 - May 20.\\n\\nMore info: https://www.nico.northwestern.edu/news-events/seminars.html
+URL:https://www.nico.northwestern.edu/news-events/seminars.html
+CATEGORIES:Complex Systems/AI
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: WED@NICO (Northwestern) in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: WED@NICO (Northwestern)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wed-at-nico-20260422@chicago-ai-calendar
+DTSTART:20260422T120000
+DTEND:20260422T130000
+SUMMARY:WED@NICO (Northwestern)
+LOCATION:Chambers Hall\, Northwestern\, Evanston / Zoom
+DESCRIPTION:Weekly during academic quarters. Winter: Feb 4 - Mar 11\; Spring: Apr 8 - May 20.\\n\\nMore info: https://www.nico.northwestern.edu/news-events/seminars.html
+URL:https://www.nico.northwestern.edu/news-events/seminars.html
+CATEGORIES:Complex Systems/AI
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: WED@NICO (Northwestern) in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: WED@NICO (Northwestern)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wed-at-nico-20260429@chicago-ai-calendar
+DTSTART:20260429T120000
+DTEND:20260429T130000
+SUMMARY:WED@NICO (Northwestern)
+LOCATION:Chambers Hall\, Northwestern\, Evanston / Zoom
+DESCRIPTION:Weekly during academic quarters. Winter: Feb 4 - Mar 11\; Spring: Apr 8 - May 20.\\n\\nMore info: https://www.nico.northwestern.edu/news-events/seminars.html
+URL:https://www.nico.northwestern.edu/news-events/seminars.html
+CATEGORIES:Complex Systems/AI
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: WED@NICO (Northwestern) in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: WED@NICO (Northwestern)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wed-at-nico-20260506@chicago-ai-calendar
+DTSTART:20260506T120000
+DTEND:20260506T130000
+SUMMARY:WED@NICO (Northwestern)
+LOCATION:Chambers Hall\, Northwestern\, Evanston / Zoom
+DESCRIPTION:Weekly during academic quarters. Winter: Feb 4 - Mar 11\; Spring: Apr 8 - May 20.\\n\\nMore info: https://www.nico.northwestern.edu/news-events/seminars.html
+URL:https://www.nico.northwestern.edu/news-events/seminars.html
+CATEGORIES:Complex Systems/AI
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: WED@NICO (Northwestern) in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: WED@NICO (Northwestern)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wed-at-nico-20260513@chicago-ai-calendar
+DTSTART:20260513T120000
+DTEND:20260513T130000
+SUMMARY:WED@NICO (Northwestern)
+LOCATION:Chambers Hall\, Northwestern\, Evanston / Zoom
+DESCRIPTION:Weekly during academic quarters. Winter: Feb 4 - Mar 11\; Spring: Apr 8 - May 20.\\n\\nMore info: https://www.nico.northwestern.edu/news-events/seminars.html
+URL:https://www.nico.northwestern.edu/news-events/seminars.html
+CATEGORIES:Complex Systems/AI
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: WED@NICO (Northwestern) in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: WED@NICO (Northwestern)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wed-at-nico-20260520@chicago-ai-calendar
+DTSTART:20260520T120000
+DTEND:20260520T130000
+SUMMARY:WED@NICO (Northwestern)
+LOCATION:Chambers Hall\, Northwestern\, Evanston / Zoom
+DESCRIPTION:Weekly during academic quarters. Winter: Feb 4 - Mar 11\; Spring: Apr 8 - May 20.\\n\\nMore info: https://www.nico.northwestern.edu/news-events/seminars.html
+URL:https://www.nico.northwestern.edu/news-events/seminars.html
+CATEGORIES:Complex Systems/AI
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: WED@NICO (Northwestern) in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: WED@NICO (Northwestern)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fermilab-saturday-20260314@chicago-ai-calendar
+DTSTART:20260314T090000
+DTEND:20260314T120000
+SUMMARY:Fermilab Saturday Morning Physics
+LOCATION:Fermilab\, Batavia\, IL
+DESCRIPTION:11 lectures + lab tours. Spring 2026: Jan 24 - Apr 18.\\n\\nMore info: https://saturdaymorningphysics.fnal.gov/
+URL:https://saturdaymorningphysics.fnal.gov/
+CATEGORIES:Physics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Fermilab Saturday Morning Physics in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Fermilab Saturday Morning Physics
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fermilab-saturday-20260321@chicago-ai-calendar
+DTSTART:20260321T090000
+DTEND:20260321T120000
+SUMMARY:Fermilab Saturday Morning Physics
+LOCATION:Fermilab\, Batavia\, IL
+DESCRIPTION:11 lectures + lab tours. Spring 2026: Jan 24 - Apr 18.\\n\\nMore info: https://saturdaymorningphysics.fnal.gov/
+URL:https://saturdaymorningphysics.fnal.gov/
+CATEGORIES:Physics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Fermilab Saturday Morning Physics in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Fermilab Saturday Morning Physics
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fermilab-saturday-20260328@chicago-ai-calendar
+DTSTART:20260328T090000
+DTEND:20260328T120000
+SUMMARY:Fermilab Saturday Morning Physics
+LOCATION:Fermilab\, Batavia\, IL
+DESCRIPTION:11 lectures + lab tours. Spring 2026: Jan 24 - Apr 18.\\n\\nMore info: https://saturdaymorningphysics.fnal.gov/
+URL:https://saturdaymorningphysics.fnal.gov/
+CATEGORIES:Physics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Fermilab Saturday Morning Physics in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Fermilab Saturday Morning Physics
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fermilab-saturday-20260404@chicago-ai-calendar
+DTSTART:20260404T090000
+DTEND:20260404T120000
+SUMMARY:Fermilab Saturday Morning Physics
+LOCATION:Fermilab\, Batavia\, IL
+DESCRIPTION:11 lectures + lab tours. Spring 2026: Jan 24 - Apr 18.\\n\\nMore info: https://saturdaymorningphysics.fnal.gov/
+URL:https://saturdaymorningphysics.fnal.gov/
+CATEGORIES:Physics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Fermilab Saturday Morning Physics in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Fermilab Saturday Morning Physics
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fermilab-saturday-20260411@chicago-ai-calendar
+DTSTART:20260411T090000
+DTEND:20260411T120000
+SUMMARY:Fermilab Saturday Morning Physics
+LOCATION:Fermilab\, Batavia\, IL
+DESCRIPTION:11 lectures + lab tours. Spring 2026: Jan 24 - Apr 18.\\n\\nMore info: https://saturdaymorningphysics.fnal.gov/
+URL:https://saturdaymorningphysics.fnal.gov/
+CATEGORIES:Physics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Fermilab Saturday Morning Physics in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Fermilab Saturday Morning Physics
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fermilab-saturday-20260418@chicago-ai-calendar
+DTSTART:20260418T090000
+DTEND:20260418T120000
+SUMMARY:Fermilab Saturday Morning Physics
+LOCATION:Fermilab\, Batavia\, IL
+DESCRIPTION:11 lectures + lab tours. Spring 2026: Jan 24 - Apr 18.\\n\\nMore info: https://saturdaymorningphysics.fnal.gov/
+URL:https://saturdaymorningphysics.fnal.gov/
+CATEGORIES:Physics
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Fermilab Saturday Morning Physics in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Fermilab Saturday Morning Physics
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsi-seminar-mar18@chicago-ai-calendar
+DTSTART:20260318T170000
+DTEND:20260318T180000
+SUMMARY:DSI Seminar: Being a Data Scientist in the Era of GenAI
+LOCATION:UChicago Data Science Institute
+URL:https://datascience.uchicago.edu/events/dsi-events/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: DSI Seminar: Being a Data Scientist in the Era of GenAI in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: DSI Seminar: Being a Data Scientist in the Era of GenAI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-tinkerers-mar19@chicago-ai-calendar
+DTSTART:20260319T173000
+DTEND:20260319T203000
+SUMMARY:AI Tinkerers Chicago (ft. Programmers Inc.)
+LOCATION:Fulton Market\, Chicago
+URL:https://chicago.aitinkerers.org/
+CATEGORIES:AI Builders
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: AI Tinkerers Chicago (ft. Programmers Inc.) in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: AI Tinkerers Chicago (ft. Programmers Inc.)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsi-seminar-mar26@chicago-ai-calendar
+DTSTART:20260326T180000
+DTEND:20260326T190000
+SUMMARY:DSI Seminar: Finding Your Next Big Bet in AI (Roger Moore)
+LOCATION:UChicago Data Science Institute
+URL:https://datascience.uchicago.edu/events/dsi-events/
+CATEGORIES:Data Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: DSI Seminar: Finding Your Next Big Bet in AI (Roger Moore) in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: DSI Seminar: Finding Your Next Big Bet in AI (Roger Moore)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:schmidt-ai-apr7@chicago-ai-calendar
+DTSTART:20260407T160000
+DTEND:20260407T173000
+SUMMARY:Schmidt AI Speaker: Laurence Perreault-Levasseur (U de Montreal)
+LOCATION:Eckhardt Research Center Room 401\, UChicago
+URL:https://datascience.uchicago.edu/research/ai-science/partnerships/seminar-series/
+CATEGORIES:AI in Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Schmidt AI Speaker: Laurence Perreault-Levasseur (U de Montreal) in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Schmidt AI Speaker: Laurence Perreault-Levasseur (U de Montreal)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nu-colloquium-apr13@chicago-ai-calendar
+DTSTART:20260413T153000
+DTEND:20260413T170000
+SUMMARY:Northwestern CS Colloquium: Arindam Banerjee
+LOCATION:Mudd Hall 3514\, Northwestern\, Evanston
+URL:https://www.mccormick.northwestern.edu/computer-science/news-events/seminars-workshops-talks/cs-colloquium-series.html
+CATEGORIES:CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Northwestern CS Colloquium: Arindam Banerjee in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Northwestern CS Colloquium: Arindam Banerjee
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nu-colloquium-apr29@chicago-ai-calendar
+DTSTART:20260429T153000
+DTEND:20260429T170000
+SUMMARY:Northwestern CS Colloquium: Bill Fefferman
+LOCATION:Mudd Hall 3514\, Northwestern\, Evanston
+URL:https://www.mccormick.northwestern.edu/computer-science/news-events/seminars-workshops-talks/cs-colloquium-series.html
+CATEGORIES:CS Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Northwestern CS Colloquium: Bill Fefferman in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Northwestern CS Colloquium: Bill Fefferman
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:schmidt-ai-may5@chicago-ai-calendar
+DTSTART:20260505T160000
+DTEND:20260505T173000
+SUMMARY:Schmidt AI Speaker: John Kitchin (CMU)
+LOCATION:Eckhardt Research Center Room 401\, UChicago
+URL:https://datascience.uchicago.edu/research/ai-science/partnerships/seminar-series/
+CATEGORIES:AI in Science
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Schmidt AI Speaker: John Kitchin (CMU) in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Schmidt AI Speaker: John Kitchin (CMU)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nu-csx-may14@chicago-ai-calendar
+DTSTART:20260514T153000
+DTEND:20260514T170000
+SUMMARY:Northwestern CS+X: Prof Elaine Chew (Queen Mary U London)
+LOCATION:Northwestern\, Evanston
+URL:https://www.mccormick.northwestern.edu/computer-science/news-events/seminars-workshops-talks/csx-events.html
+CATEGORIES:CS Interdisciplinary
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Northwestern CS+X: Prof Elaine Chew (Queen Mary U London) in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Northwestern CS+X: Prof Elaine Chew (Queen Mary U London)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:booth-ai-workplace-may28@chicago-ai-calendar
+DTSTART:20260528T090000
+DTEND:20260528T170000
+SUMMARY:Chicago Booth: AI in the Workplace Conference
+LOCATION:Rubenstein Forum\, UChicago
+URL:https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence/events
+CATEGORIES:AI/Business
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chicago Booth: AI in the Workplace Conference in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Chicago Booth: AI in the Workplace Conference
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acm-chi-jun8@chicago-ai-calendar
+DTSTART:20260608T090000
+DTEND:20260610T090000
+SUMMARY:ACM CHI 2026 (Human-Computer Interaction Conference)
+LOCATION:Chicago (McCormick Place area)
+URL:https://chi2026.acm.org/
+CATEGORIES:HCI Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: ACM CHI 2026 (Human-Computer Interaction Conference) in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: ACM CHI 2026 (Human-Computer Interaction Conference)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:argonne-outloud-jun18@chicago-ai-calendar
+DTSTART:20260618T180000
+DTEND:20260618T200000
+SUMMARY:Argonne OutLoud Lecture
+LOCATION:Argonne National Laboratory\, Lemont\, IL
+URL:https://www.anl.gov/outloud-lecture-series
+CATEGORIES:Science Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Argonne OutLoud Lecture in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Argonne OutLoud Lecture
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:automate-jun22@chicago-ai-calendar
+DTSTART:20260622T090000
+DTEND:20260624T090000
+SUMMARY:Automate 2026 (Automation Show)
+LOCATION:McCormick Place\, Chicago
+URL:https://www.automateshow.com/
+CATEGORIES:Robotics/Automation
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Automate 2026 (Automation Show) in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Automate 2026 (Automation Show)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:techchicago-jul20@chicago-ai-calendar
+DTSTART:20260720T090000
+DTEND:20260724T090000
+SUMMARY:TechChicago Week 2026
+LOCATION:Various Chicago venues
+URL:https://gotechchicago.com/week/
+CATEGORIES:Tech Community
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TechChicago Week 2026 in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: TechChicago Week 2026
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mhub-bbq-jul16@chicago-ai-calendar
+DTSTART:20260716T170000
+DTEND:20260716T200000
+SUMMARY:mHUB Community BBQ (1000+ attendees)
+LOCATION:mHUB\, 965 W Chicago Ave\, Chicago
+URL:https://www.mhubchicago.com/events
+CATEGORIES:Tech/Hardware Community
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: mHUB Community BBQ (1000+ attendees) in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: mHUB Community BBQ (1000+ attendees)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:argonne-outloud-sep17@chicago-ai-calendar
+DTSTART:20260917T180000
+DTEND:20260917T200000
+SUMMARY:Argonne OutLoud Lecture
+LOCATION:Argonne National Laboratory\, Lemont\, IL
+URL:https://www.anl.gov/outloud-lecture-series
+CATEGORIES:Science Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Argonne OutLoud Lecture in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Argonne OutLoud Lecture
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:argonne-outloud-nov12@chicago-ai-calendar
+DTSTART:20261112T180000
+DTEND:20261112T200000
+SUMMARY:Argonne OutLoud Lecture
+LOCATION:Argonne National Laboratory\, Lemont\, IL
+URL:https://www.anl.gov/outloud-lecture-series
+CATEGORIES:Science Research
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Argonne OutLoud Lecture in 30 minutes
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Today: Argonne OutLoud Lecture
+END:VALARM
+END:VEVENT
+END:VCALENDAR
