@@ -5,7 +5,7 @@ from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).parent
 events_path = SCRIPT_DIR / "events.json"
-output_path = SCRIPT_DIR / "app" / "events.js"
+output_path = SCRIPT_DIR / "docs" / "events.js"
 
 with open(events_path) as f:
     data = json.load(f)
