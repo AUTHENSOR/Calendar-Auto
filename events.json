@@ -229,6 +229,36 @@
   ],
   "specific_dates": [
     {
+      "id": "scraped-depaul-student-recital-ryan-dennis-kirk--2026-03-14",
+      "name": "DePaul: Student Recital: Ryan Dennis Kirk, tenor",
+      "date": "2026-03-14",
+      "time": "00:00",
+      "duration_min": 75,
+      "location": "Holtschneider Performance Center, Allen Recital Hall",
+      "url": "https://events.depaul.edu/event/student-recital-ryan-dennis-kirk-tenor-march-2026",
+      "category": "University"
+    },
+    {
+      "id": "scraped-gdg-chicago-vibecoding-hackathon-w-googl-2026-03-14",
+      "name": "GDG Chicago: Vibecoding Hackathon w/ Google's DeepMind",
+      "date": "2026-03-14",
+      "time": "11:00",
+      "duration_min": 300,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/google-developers-group-gdg-chicago/events/313759400/",
+      "category": "Dev/Google"
+    },
+    {
+      "id": "scraped-primewise-founders-club-vc-connect-and-n-2026-03-14",
+      "name": "Primewise Founders Club VC Connect and Networking Event Chicago",
+      "date": "2026-03-14",
+      "time": "11:00",
+      "duration_min": 90,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/primewise-founders-club-chicago-2/events/313768327/",
+      "category": "Startup/VC"
+    },
+    {
       "id": "scraped-uchicago-dsi-gtc-26-keynote-watch-party--2026-03-16",
       "name": "UChicago DSI: GTC\u201926 Keynote Watch Party at UChicago",
       "date": "2026-03-16",
@@ -247,6 +277,46 @@
       "location": "1st floor Atrium of Wilson Hall",
       "url": "https://events.fnal.gov/events/event/public-tour-5/",
       "category": "Physics/Science"
+    },
+    {
+      "id": "scraped-ai-professionals-build-your-brand-story--2026-03-16",
+      "name": "AI Professionals: Build Your Brand Story Faster with AI - a hands-on 'AI for Business' Workshop",
+      "date": "2026-03-16",
+      "time": "14:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/ai-professionals-chicago/events/313659338/",
+      "category": "AI/ML"
+    },
+    {
+      "id": "scraped-data-traders-aibgt-ai-for-real-business--2026-03-17",
+      "name": "Data Traders: AIBGT: AI for Real Business: What Actually Works and What's Hype",
+      "date": "2026-03-17",
+      "time": "20:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/data-driven-traders-network/events/313534460/",
+      "category": "AI/Finance"
+    },
+    {
+      "id": "scraped-graphdb-midwest-road-to-nodes-ai-design--2026-03-17",
+      "name": "GraphDB Midwest: Road to NODES AI - Design Agent-Driven GraphRAG Systems with GNNs for Healthcare",
+      "date": "2026-03-17",
+      "time": "14:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/graphdb-midwest/events/313296274/",
+      "category": "Data/Graphs"
+    },
+    {
+      "id": "scraped-founder-101-cash-flow-survival-for-a-fir-2026-03-17",
+      "name": "Founder 101: Cash Flow Survival for a First-Time Founder",
+      "date": "2026-03-17",
+      "time": "11:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-startup-founder-101/events/313730386/",
+      "category": "Startup"
     },
     {
       "id": "dsi-seminar-mar18",
@@ -269,6 +339,66 @@
       "category": "Data Science"
     },
     {
+      "id": "scraped-chicago-ai-ml-cv-march-18-vibe-coding-pr-2026-03-18",
+      "name": "Chicago AI/ML/CV: March 18 - Vibe Coding Production-Ready Computer Vision Pipelines Workshop",
+      "date": "2026-03-18",
+      "time": "11:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-ai-machine-learning-data-science/events/313103276/",
+      "category": "AI/ML"
+    },
+    {
+      "id": "scraped-analytics-club-researchersconnect-global-2026-03-18",
+      "name": "Analytics.Club: ResearchersConnect: Global Virtual Job & Networking Event for Researchers",
+      "date": "2026-03-18",
+      "time": "16:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/ac-ord/events/304912966/",
+      "category": "Analytics/AI"
+    },
+    {
+      "id": "scraped-analytics-club-agentic-ai-multimodal-mon-2026-03-18",
+      "name": "Analytics.Club: Agentic AI Multimodal MonthlyMixer - Where Agents Minds Meet",
+      "date": "2026-03-18",
+      "time": "17:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/ac-ord/events/313548806/",
+      "category": "Analytics/AI"
+    },
+    {
+      "id": "scraped-platform-eng-infra-governance-for-rule-b-2026-03-18",
+      "name": "Platform Eng: Infra governance for rule breakers: How to make guardrails invisible",
+      "date": "2026-03-18",
+      "time": "13:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/platform-engineers-chicago/events/313506462/",
+      "category": "DevOps/Platform"
+    },
+    {
+      "id": "scraped-ics-cyber-cs-ai-online-seminar-fortifyin-2026-03-18",
+      "name": "ICS Cyber: (CS)\u00c2\u00b2AI Online\u00e2\u0084\u00a2 Seminar: Fortifying Critical Functions using CIE",
+      "date": "2026-03-18",
+      "time": "12:00",
+      "duration_min": 90,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-cyber-security-for-control-systems/events/313751925/",
+      "category": "Security/ICS"
+    },
+    {
+      "id": "scraped-lf-decentralized-webinar-with-gateway-pr-2026-03-18",
+      "name": "LF Decentralized: Webinar with Gateway: Practical Approaches to Interoperable Blockchain Privacy",
+      "date": "2026-03-18",
+      "time": "09:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/lfdt-chicago/events/313449908/",
+      "category": "Blockchain/AI"
+    },
+    {
       "id": "ai-tinkerers-mar19",
       "name": "AI Tinkerers Chicago (ft. Programmers Inc.)",
       "date": "2026-03-19",
@@ -289,6 +419,106 @@
       "category": "Data Science"
     },
     {
+      "id": "scraped-chicago-ai-ml-cv-march-19-women-in-ai-me-2026-03-19",
+      "name": "Chicago AI/ML/CV: March 19 - Women in AI Meetup",
+      "date": "2026-03-19",
+      "time": "11:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-ai-machine-learning-data-science/events/312787390/",
+      "category": "AI/ML"
+    },
+    {
+      "id": "scraped-chicago-net-monthly-social-what-s-caught-2026-03-19",
+      "name": "Chicago .NET: Monthly Social: What's Caught in your .NET?",
+      "date": "2026-03-19",
+      "time": "18:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicagodevnet/events/313467654/",
+      "category": "Dev/.NET"
+    },
+    {
+      "id": "scraped-aws-chicago-march-networking-event-2026-03-19",
+      "name": "AWS Chicago: March Networking Event",
+      "date": "2026-03-19",
+      "time": "17:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/aws-chicago/events/313346758/",
+      "category": "Cloud/AWS"
+    },
+    {
+      "id": "scraped-burbsec-west-sponsors-wanted-2026-03-19",
+      "name": "BurbSec West - Sponsors Wanted!",
+      "date": "2026-03-19",
+      "time": "18:00",
+      "duration_min": 180,
+      "location": "Chicago suburbs",
+      "url": "https://www.meetup.com/burbsec/events/312453481/",
+      "category": "Security"
+    },
+    {
+      "id": "scraped-founder-101-pitch-your-ideas-to-midwest--2026-03-19",
+      "name": "Founder 101: Pitch Your Ideas to Midwest Investors & Experts, Online",
+      "date": "2026-03-19",
+      "time": "18:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-startup-founder-101/events/313448471/",
+      "category": "Startup"
+    },
+    {
+      "id": "scraped-founders-therapy-founder-s-therapy-coffe-2026-03-19",
+      "name": "Founders Therapy: Founder\u00e2\u0080\u0099s Therapy - Coffee Roundtable",
+      "date": "2026-03-19",
+      "time": "09:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/founders-therapy/events/311911671/",
+      "category": "Startup"
+    },
+    {
+      "id": "scraped-bootstrappers-virtual-bootstrappers-brea-2026-03-19",
+      "name": "Bootstrappers: VIRTUAL Bootstrappers Breakfast Chicago",
+      "date": "2026-03-19",
+      "time": "08:30",
+      "duration_min": 90,
+      "location": "Chicago (virtual)",
+      "url": "https://www.meetup.com/bootstrappers-breakfast-chicago/events/313557452/",
+      "category": "Startup"
+    },
+    {
+      "id": "scraped-uchicago-python-for-data-science-course--2026-03-19",
+      "name": "UChicago: Python for Data Science Course Information Session",
+      "date": "2026-03-19",
+      "time": "12:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://events.uchicago.edu/event/261635-python-for-data-science-course-information-session",
+      "category": "University"
+    },
+    {
+      "id": "scraped-quantum-monthly-bloch-engines-community--2026-03-20",
+      "name": "Quantum: Monthly Bloch/Engines Community Meeting",
+      "date": "2026-03-20",
+      "time": "00:00",
+      "duration_min": 60,
+      "location": "Chicago (various)",
+      "url": "",
+      "category": "Quantum/Physics"
+    },
+    {
+      "id": "scraped-bitcoin-chicago-chicago-bitcoin-collecti-2026-03-21",
+      "name": "Bitcoin Chicago: Chicago Bitcoin Collective Open House",
+      "date": "2026-03-21",
+      "time": "13:00",
+      "duration_min": 360,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/bitcoin-open-blockchain-community-chicago/events/313736007/",
+      "category": "Blockchain"
+    },
+    {
       "id": "scraped-ttic-distinguished-lecture-series-nina-b-2026-03-23",
       "name": "TTIC: Distinguished Lecture Series: Nina Balcan, CS.CMU",
       "date": "2026-03-23",
@@ -307,6 +537,76 @@
       "location": "Data Science Institute, Room 105",
       "url": "https://datascience.uchicago.edu/events/deb-raji-uc-berkeley-cs-and-dsi-joint-colloquium/",
       "category": "Data Science"
+    },
+    {
+      "id": "scraped-quantum-haiq-2026-2026-03-23",
+      "name": "Quantum: HAIQ 2026",
+      "date": "2026-03-23",
+      "time": "00:00",
+      "duration_min": 60,
+      "location": "Chicago (various)",
+      "url": "",
+      "category": "Quantum/Physics"
+    },
+    {
+      "id": "scraped-lf-decentralized-agentic-ai-the-technolo-2026-03-23",
+      "name": "LF Decentralized: Agentic AI: The Technology, Where It Is Going, Where Open Source Works",
+      "date": "2026-03-23",
+      "time": "11:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/lfdt-chicago/events/313658127/",
+      "category": "Blockchain/AI"
+    },
+    {
+      "id": "scraped-founder-101-startup-advisors-101-how-to--2026-03-23",
+      "name": "Founder 101: Startup Advisors 101: How to Find Advisors and Maximize their Impact",
+      "date": "2026-03-23",
+      "time": "19:30",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-startup-founder-101/events/313432302/",
+      "category": "Startup"
+    },
+    {
+      "id": "scraped-data-traders-ai-business-growth-tuesdays-2026-03-24",
+      "name": "Data Traders: AI Business Growth Tuesdays",
+      "date": "2026-03-24",
+      "time": "20:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/data-driven-traders-network/events/313644284/",
+      "category": "AI/Finance"
+    },
+    {
+      "id": "scraped-startupcouncil-free-startup-fundraising--2026-03-24",
+      "name": "StartupCouncil: Free Startup Fundraising Office Hours Expert AMA with Angel Investor Scott Fox!",
+      "date": "2026-03-24",
+      "time": "23:00",
+      "duration_min": 90,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-startup-founders/events/313645587/",
+      "category": "Startup"
+    },
+    {
+      "id": "scraped-uchicago-quantum-teaching-and-learning-s-2026-03-24",
+      "name": "UChicago: Quantum Teaching and Learning Series: Guest Speaker Dr.Valerie Goss",
+      "date": "2026-03-24",
+      "time": "20:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://events.uchicago.edu/event/quantum-teaching-and-learning-valeriegoss",
+      "category": "University"
+    },
+    {
+      "id": "scraped-uchicago-shuangping-li-yale-university-o-2026-03-24",
+      "name": "UChicago: Shuangping Li (Yale University): On hardness for finding isolated perceptron solutions via stable algorithms [Combinatorics and TCS seminar]",
+      "date": "2026-03-24",
+      "time": "20:30",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://events.uchicago.edu/event/260101-shuangping-li-yale-university-tba-combinatorics",
+      "category": "University"
     },
     {
       "id": "scraped-uchicago-dsi-qing-qu-umich-cs-and-dsi-jo-2026-03-25",
@@ -349,6 +649,46 @@
       "category": "AI/ML"
     },
     {
+      "id": "scraped-ai-professionals-ai-slop-ends-here-make--2026-03-25",
+      "name": "AI Professionals: AI Slop Ends Here: Make AI Think, Write and Sell Like You",
+      "date": "2026-03-25",
+      "time": "17:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/ai-professionals-chicago/events/313642853/",
+      "category": "AI/ML"
+    },
+    {
+      "id": "scraped-ds-dojo-build-a-react-ai-agent-from-scra-2026-03-25",
+      "name": "DS Dojo: Build a ReAct AI Agent from Scratch with LangGraph and MiniMax-M2.5",
+      "date": "2026-03-25",
+      "time": "13:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/data-science-dojo-chicago/events/313716298/",
+      "category": "AI/ML"
+    },
+    {
+      "id": "scraped-gdg-cloud-gdg-grafana-and-friends-chicag-2026-03-25",
+      "name": "GDG Cloud: GDG, Grafana, and Friends Chicago: Observability & AI",
+      "date": "2026-03-25",
+      "time": "17:30",
+      "duration_min": 119,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/google-developers-group-gdg-cloud-chicago/events/313536255/",
+      "category": "Cloud/GCP"
+    },
+    {
+      "id": "scraped-founder-101-startup-funding-in-chicago-h-2026-03-25",
+      "name": "Founder 101: Startup Funding in Chicago: Hear from Experts",
+      "date": "2026-03-25",
+      "time": "18:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-startup-founder-101/events/313724721/",
+      "category": "Startup"
+    },
+    {
       "id": "dsi-seminar-mar26",
       "name": "DSI Seminar: Finding Your Next Big Bet in AI (Roger Moore)",
       "date": "2026-03-26",
@@ -377,6 +717,116 @@
       "location": "Fermilab, Batavia, IL",
       "url": "https://events.fnal.gov/events/event/community-advisory-board-meeting-2/",
       "category": "Physics/Science"
+    },
+    {
+      "id": "scraped-chicago-ai-ml-cv-march-26-advances-in-ai-2026-03-26",
+      "name": "Chicago AI/ML/CV: March 26 - Advances in AI at Northeastern University",
+      "date": "2026-03-26",
+      "time": "11:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-ai-machine-learning-data-science/events/313563456/",
+      "category": "AI/ML"
+    },
+    {
+      "id": "scraped-data-traders-inside-the-mind-of-an-ai-au-2026-03-26",
+      "name": "Data Traders: Inside the Mind of an AI Autotrader: 25 Years of Machine Learning in Action",
+      "date": "2026-03-26",
+      "time": "13:00",
+      "duration_min": 90,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/data-driven-traders-network/events/313670081/",
+      "category": "AI/Finance"
+    },
+    {
+      "id": "scraped-analytics-club-aidatatech-connect-global-2026-03-26",
+      "name": "Analytics.Club: AIDataTech Connect: Global Virtual Networking Event for AI, Data & Tech Pros",
+      "date": "2026-03-26",
+      "time": "17:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/ac-ord/events/313673984/",
+      "category": "Analytics/AI"
+    },
+    {
+      "id": "scraped-odsc-chicago-webinar-will-ai-take-your-j-2026-03-26",
+      "name": "ODSC Chicago: WEBINAR \"Will AI Take Your Job? What to Do About It\"",
+      "date": "2026-03-26",
+      "time": "11:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/odsc-chicago-data-science/events/313761467/",
+      "category": "Data Science"
+    },
+    {
+      "id": "scraped-graphdb-midwest-road-to-nodes-ai-end-to--2026-03-26",
+      "name": "GraphDB Midwest: Road to NODES AI - End-to-End Neo4j Developer Workspace with MCP",
+      "date": "2026-03-26",
+      "time": "12:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/graphdb-midwest/events/313296555/",
+      "category": "Data/Graphs"
+    },
+    {
+      "id": "scraped-burbsec-burbsec-northwest-sponsors-welco-2026-03-26",
+      "name": "BurbSec: Burbsec Northwest  - Sponsors Welcome!",
+      "date": "2026-03-26",
+      "time": "18:00",
+      "duration_min": 120,
+      "location": "Chicago suburbs",
+      "url": "https://www.meetup.com/burbsec/events/lxplwtyjcfbjc/",
+      "category": "Security"
+    },
+    {
+      "id": "scraped-burbsec-east-sponsored-by-bigid-2026-03-26",
+      "name": "BurbSec East - Sponsored by BigID!",
+      "date": "2026-03-26",
+      "time": "18:00",
+      "duration_min": 355,
+      "location": "Chicago suburbs",
+      "url": "https://www.meetup.com/burbsec/events/311413714/",
+      "category": "Security"
+    },
+    {
+      "id": "scraped-startup-grind-founders-turned-funders-a--2026-03-26",
+      "name": "Startup Grind: Founders Turned Funders: A Special Panel Event",
+      "date": "2026-03-26",
+      "time": "17:30",
+      "duration_min": 180,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/startup-grind-chicago/events/313545504/",
+      "category": "Startup"
+    },
+    {
+      "id": "scraped-tech-mixer-chicago-tech-mixer-2025-2026-03-26",
+      "name": "Tech Mixer: Chicago Tech Mixer 2025",
+      "date": "2026-03-26",
+      "time": "18:00",
+      "duration_min": 180,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicagomixer/events/310833876/",
+      "category": "Tech Networking"
+    },
+    {
+      "id": "scraped-startup-oasis-find-a-cofounder-help-or-j-2026-03-26",
+      "name": "Startup Oasis: Find a Cofounder / Help or Join a Tech Startup",
+      "date": "2026-03-26",
+      "time": "19:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/startup-oasis-chicago/events/313675758/",
+      "category": "Startup"
+    },
+    {
+      "id": "scraped-uchicago-data-science-seminar-series-rog-2026-03-26",
+      "name": "UChicago: Data Science Seminar Series: Roger Moore",
+      "date": "2026-03-26",
+      "time": "23:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://datascience.uchicago.edu/events/data-science-seminar-series-roger-moore/",
+      "category": "University"
     },
     {
       "id": "scraped-ttic-research-at-ttic-tba-2026-03-27",
@@ -409,6 +859,16 @@
       "category": "Data Science"
     },
     {
+      "id": "scraped-depaul-student-recital-emmett-needles-tr-2026-03-28",
+      "name": "DePaul: Student Recital: Emmett Needles, trumpet",
+      "date": "2026-03-28",
+      "time": "18:00",
+      "duration_min": 75,
+      "location": "Holtschneider Performance Center, Allen Recital Hall",
+      "url": "https://events.depaul.edu/event/student-recital-emmett-needles-trumpet-march-2026",
+      "category": "University"
+    },
+    {
       "id": "scraped-ttic-talks-at-ttic-maxwell-fishelson-mit-2026-03-30",
       "name": "TTIC: Talks at TTIC: Maxwell Fishelson, MIT",
       "date": "2026-03-30",
@@ -429,6 +889,16 @@
       "category": "Physics/Science"
     },
     {
+      "id": "scraped-aws-chicago-march-tech-talks-2026-03-30",
+      "name": "AWS Chicago: March tech talks",
+      "date": "2026-03-30",
+      "time": "17:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/aws-chicago/events/313300191/",
+      "category": "Cloud/AWS"
+    },
+    {
       "id": "scraped-ttic-talks-at-ttic-dhruv-rohatgi-mit-2026-03-31",
       "name": "TTIC: Talks at TTIC: Dhruv Rohatgi, MIT",
       "date": "2026-03-31",
@@ -437,6 +907,196 @@
       "location": "TTIC-5-529 (24)",
       "url": "",
       "category": "AI/CS Research"
+    },
+    {
+      "id": "scraped-quantum-cqe-seminar-ascet-center-of-exce-2026-03-31",
+      "name": "Quantum: CQE Seminar: ASCET Center of Excellence",
+      "date": "2026-03-31",
+      "time": "00:00",
+      "duration_min": 60,
+      "location": "Chicago (various)",
+      "url": "",
+      "category": "Quantum/Physics"
+    },
+    {
+      "id": "scraped-data-traders-ai-business-growth-tuesdays-2026-03-31",
+      "name": "Data Traders: AI Business Growth Tuesdays",
+      "date": "2026-03-31",
+      "time": "20:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/data-driven-traders-network/events/313753349/",
+      "category": "AI/Finance"
+    },
+    {
+      "id": "scraped-ai-2030-tech-pulse-2030-reimagining-heal-2026-03-31",
+      "name": "AI 2030: Tech Pulse 2030-Reimagining Healthcare with AI",
+      "date": "2026-03-31",
+      "time": "17:00",
+      "duration_min": 180,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503263/",
+      "category": "AI/Ethics"
+    },
+    {
+      "id": "scraped-nscoder-chicago-nscoder-night-2026-03-31",
+      "name": "NSCoder Chicago: NSCoder Night",
+      "date": "2026-03-31",
+      "time": "18:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/nscoder-chicago/events/313713063/",
+      "category": "Dev/Apple"
+    },
+    {
+      "id": "scraped-platform-eng-operationalizing-ai-agents--2026-03-31",
+      "name": "Platform Eng: Operationalizing AI Agents in regulated industries for scale and safety",
+      "date": "2026-03-31",
+      "time": "12:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/platform-engineers-chicago/events/313396950/",
+      "category": "DevOps/Platform"
+    },
+    {
+      "id": "scraped-pulumi-chicago-zero-to-production-in-kub-2026-03-31",
+      "name": "Pulumi Chicago: Zero to Production in Kubernetes",
+      "date": "2026-03-31",
+      "time": "07:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-pulumi-user-group/events/313770002/",
+      "category": "DevOps/IaC"
+    },
+    {
+      "id": "scraped-graphdb-midwest-road-to-nodes-ai-graph-b-2026-03-31",
+      "name": "GraphDB Midwest: Road to NODES AI - Graph-Based Memory: How Agentic Workflows Adapt",
+      "date": "2026-03-31",
+      "time": "11:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/graphdb-midwest/events/313296423/",
+      "category": "Data/Graphs"
+    },
+    {
+      "id": "scraped-quantum-duality-corporate-collision-2026-04-01",
+      "name": "Quantum: Duality Corporate Collision",
+      "date": "2026-04-01",
+      "time": "00:00",
+      "duration_min": 60,
+      "location": "Chicago (various)",
+      "url": "",
+      "category": "Quantum/Physics"
+    },
+    {
+      "id": "scraped-depaul-student-recital-darren-carter-vio-2026-04-01",
+      "name": "DePaul: Student Recital: Darren Carter, viola",
+      "date": "2026-04-01",
+      "time": "00:00",
+      "duration_min": 75,
+      "location": "Holtschneider Performance Center, Brennan Recital Hall",
+      "url": "https://events.depaul.edu/event/student-recital-darren-carter-viola-march-2026",
+      "category": "University"
+    },
+    {
+      "id": "scraped-graphdb-midwest-neo4j-live-nodes-ai-agen-2026-04-01",
+      "name": "GraphDB Midwest: Neo4j Live: NODES AI Agenda with Aura Agents",
+      "date": "2026-04-01",
+      "time": "10:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/graphdb-midwest/events/313758084/",
+      "category": "Data/Graphs"
+    },
+    {
+      "id": "scraped-ics-cyber-cs-ai-online-symposium-ics-ot--2026-04-01",
+      "name": "ICS Cyber: (CS)\u00c2\u00b2AI Online\u00e2\u0084\u00a2 Symposium: ICS/OT Cybersecurity in the Manufacturing Sector",
+      "date": "2026-04-01",
+      "time": "12:00",
+      "duration_min": 240,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-cyber-security-for-control-systems/events/313761870/",
+      "category": "Security/ICS"
+    },
+    {
+      "id": "scraped-lf-decentralized-hyperledger-indy-on-bes-2026-04-01",
+      "name": "LF Decentralized: Hyperledger Indy on Besu in Production:Advancing Brazil\u00e2\u0080\u0099s Digital Infrastructure",
+      "date": "2026-04-01",
+      "time": "11:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/lfdt-chicago/events/313733176/",
+      "category": "Blockchain/AI"
+    },
+    {
+      "id": "scraped-cyberyacht-wednesday-pre-season-strategy-2026-04-01",
+      "name": "CyberYacht Wednesday Pre-Season Strategy Event - Crew Training",
+      "date": "2026-04-01",
+      "time": "17:25",
+      "duration_min": 285,
+      "location": "Chicago River",
+      "url": "https://www.meetup.com/cyberyacht-wednesdays/events/313359686/",
+      "category": "Security/Networking"
+    },
+    {
+      "id": "scraped-uchicago-how-to-think-about-generative-a-2026-04-01",
+      "name": "UChicago: How to Think about Generative AI & LLMs for Learning",
+      "date": "2026-04-01",
+      "time": "17:30",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://events.uchicago.edu/event/undergrad-how-to-think-about-ai-for-learning",
+      "category": "University"
+    },
+    {
+      "id": "scraped-chicago-ai-ml-cv-april-2-ai-ml-and-compu-2026-04-02",
+      "name": "Chicago AI/ML/CV: April 2 - AI, ML and Computer Vision Meetup",
+      "date": "2026-04-02",
+      "time": "11:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-ai-machine-learning-data-science/events/313081581/",
+      "category": "AI/ML"
+    },
+    {
+      "id": "scraped-burbsec-cigarsec-co-working-cigars-befor-2026-04-02",
+      "name": "BurbSec: CigarSec - Co-Working & Cigars before Prime!",
+      "date": "2026-04-02",
+      "time": "14:00",
+      "duration_min": 180,
+      "location": "Chicago suburbs",
+      "url": "https://www.meetup.com/burbsec/events/312736165/",
+      "category": "Security"
+    },
+    {
+      "id": "scraped-burbsec-burbsec-prime-sponsored-by-sysdi-2026-04-02",
+      "name": "BurbSec: Burbsec Prime - Sponsored by SYSDIG!",
+      "date": "2026-04-02",
+      "time": "18:00",
+      "duration_min": 120,
+      "location": "Chicago suburbs",
+      "url": "https://www.meetup.com/burbsec/events/313711311/",
+      "category": "Security"
+    },
+    {
+      "id": "scraped-lf-decentralized-briolette-an-experiment-2026-04-02",
+      "name": "LF Decentralized: Briolette: An Experimental Framework For Offline-First Currency",
+      "date": "2026-04-02",
+      "time": "10:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/lfdt-chicago/events/313658278/",
+      "category": "Blockchain/AI"
+    },
+    {
+      "id": "scraped-founders-therapy-founder-s-therapy-coffe-2026-04-02",
+      "name": "Founders Therapy: Founder\u00e2\u0080\u0099s Therapy - Coffee Roundtable",
+      "date": "2026-04-02",
+      "time": "09:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/founders-therapy/events/312144771/",
+      "category": "Startup"
     },
     {
       "id": "scraped-ttic-research-at-ttic-svetlana-lazebnik--2026-04-03",
@@ -449,6 +1109,26 @@
       "category": "AI/CS Research"
     },
     {
+      "id": "scraped-analytics-club-analyticsclub-jobexpo-vir-2026-04-03",
+      "name": "Analytics.Club: AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
+      "date": "2026-04-03",
+      "time": "11:00",
+      "duration_min": 180,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/ac-ord/events/xjqvstyjcgbfb/",
+      "category": "Analytics/AI"
+    },
+    {
+      "id": "scraped-naperville-ml-event-agentic-ai-roadshow--2026-04-03",
+      "name": "Naperville ML: Event: Agentic AI Roadshow 2026 - Chicago",
+      "date": "2026-04-03",
+      "time": "10:00",
+      "duration_min": 240,
+      "location": "Naperville, IL",
+      "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/313748839/",
+      "category": "AI/ML"
+    },
+    {
       "id": "scraped-ttic-colloquium-raymond-a-yeh-purdue-uni-2026-04-06",
       "name": "TTIC Colloquium: Raymond A Yeh, Purdue University",
       "date": "2026-04-06",
@@ -457,6 +1137,36 @@
       "location": "TTIC-5-530 (68)",
       "url": "",
       "category": "AI/CS Research"
+    },
+    {
+      "id": "scraped-ds-dojo-future-of-data-and-ai-agentic-ai-2026-04-06",
+      "name": "DS Dojo: Future of Data and AI: Agentic AI Conference",
+      "date": "2026-04-06",
+      "time": "11:00",
+      "duration_min": 180,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/data-science-dojo-chicago/events/313731766/",
+      "category": "AI/ML"
+    },
+    {
+      "id": "scraped-cloud-native-ai-building-trusted-ai-on-c-2026-04-06",
+      "name": "Cloud Native AI: Building Trusted AI on Cloud Native Platforms [Chicago Meetup]",
+      "date": "2026-04-06",
+      "time": "17:00",
+      "duration_min": 180,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-cloud-native-x-ai-tech-group/events/313327536/",
+      "category": "Cloud/AI"
+    },
+    {
+      "id": "scraped-uchicago-ai-the-future-of-the-study-of-r-2026-04-06",
+      "name": "UChicago AI: The Future of the Study of Religion II",
+      "date": "2026-04-06",
+      "time": "19:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://events.uchicago.edu/event/261028-the-future-of-the-study-of-religion-ii",
+      "category": "AI Research"
     },
     {
       "id": "schmidt-ai-apr7",
@@ -469,6 +1179,26 @@
       "category": "AI in Science"
     },
     {
+      "id": "scraped-data-traders-ai-business-growth-tuesdays-2026-04-07",
+      "name": "Data Traders: AI Business Growth Tuesdays",
+      "date": "2026-04-07",
+      "time": "20:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/data-driven-traders-network/events/sztvvtyjcgbkb/",
+      "category": "AI/Finance"
+    },
+    {
+      "id": "scraped-naperville-ml-event-agentic-ai-roadshow--2026-04-07",
+      "name": "Naperville ML: Event: Agentic AI Roadshow 2026 - Denver",
+      "date": "2026-04-07",
+      "time": "10:00",
+      "duration_min": 240,
+      "location": "Naperville, IL",
+      "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/313761561/",
+      "category": "AI/ML"
+    },
+    {
       "id": "scraped-uchicago-dsi-aice-speaker-series-colm-ci-2026-04-08",
       "name": "UChicago DSI: AICE Speaker Series: Colm-cille P. Caulfield (Cambridge)",
       "date": "2026-04-08",
@@ -479,6 +1209,36 @@
       "category": "Data Science"
     },
     {
+      "id": "scraped-chicago-ai-ml-cv-april-8-getting-started-2026-04-08",
+      "name": "Chicago AI/ML/CV: April 8 - Getting Started with FiftyOne",
+      "date": "2026-04-08",
+      "time": "12:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-ai-machine-learning-data-science/events/313298941/",
+      "category": "AI/ML"
+    },
+    {
+      "id": "scraped-analytics-club-applied-ai-ethics-monthly-2026-04-08",
+      "name": "Analytics.Club: Applied AI Ethics MonthlyMixer - Where Innovation Meets Responsibility",
+      "date": "2026-04-08",
+      "time": "17:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/ac-ord/events/312885524/",
+      "category": "Analytics/AI"
+    },
+    {
+      "id": "scraped-cyberyacht-wednesday-pre-season-strategy-2026-04-08",
+      "name": "CyberYacht Wednesday Pre-Season Strategy Event - Crew Training",
+      "date": "2026-04-08",
+      "time": "17:25",
+      "duration_min": 285,
+      "location": "Chicago River",
+      "url": "https://www.meetup.com/cyberyacht-wednesdays/events/plfcwtyjcgblb/",
+      "category": "Security/Networking"
+    },
+    {
       "id": "scraped-uchicago-dsi-lillian-lee-cornell-disting-2026-04-09",
       "name": "UChicago DSI: Lillian Lee (Cornell): Distinguished Speaker Series",
       "date": "2026-04-09",
@@ -487,6 +1247,66 @@
       "location": "Data Science Institute, Room 105, 5460 S University Ave",
       "url": "https://datascience.uchicago.edu/events/lillian-lee-cornell-distinguished-speaker-series/",
       "category": "Data Science"
+    },
+    {
+      "id": "scraped-chicago-ai-ml-cv-april-9-workshop-build--2026-04-09",
+      "name": "Chicago AI/ML/CV: April 9 - Workshop: Build a Visual Agent that can Navigate GUIs like Humans",
+      "date": "2026-04-09",
+      "time": "11:00",
+      "duration_min": 90,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-ai-machine-learning-data-science/events/313207140/",
+      "category": "AI/ML"
+    },
+    {
+      "id": "scraped-naperville-ml-houston-agentic-ai-roadsho-2026-04-09",
+      "name": "Naperville ML: Houston - Agentic AI Roadshow 2026 Transforming Business with Microsoft AI",
+      "date": "2026-04-09",
+      "time": "10:00",
+      "duration_min": 240,
+      "location": "Naperville, IL",
+      "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/313748689/",
+      "category": "AI/ML"
+    },
+    {
+      "id": "scraped-platform-eng-observability-at-the-edge-o-2026-04-09",
+      "name": "Platform Eng: Observability at the edge: OpenTelemetry maturity of Kubernetes Ingress",
+      "date": "2026-04-09",
+      "time": "15:30",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/platform-engineers-chicago/events/313426809/",
+      "category": "DevOps/Platform"
+    },
+    {
+      "id": "scraped-burbsec-burbsec-north-sponsors-welcome-2026-04-09",
+      "name": "BurbSec: Burbsec North - Sponsors Welcome",
+      "date": "2026-04-09",
+      "time": "18:00",
+      "duration_min": 180,
+      "location": "Chicago suburbs",
+      "url": "https://www.meetup.com/burbsec/events/313380847/",
+      "category": "Security"
+    },
+    {
+      "id": "scraped-burbsec-burbsec-south-sponsored-by-wiz-2026-04-09",
+      "name": "BurbSec: Burbsec South - Sponsored by WIZ!!!",
+      "date": "2026-04-09",
+      "time": "18:00",
+      "duration_min": 120,
+      "location": "Chicago suburbs",
+      "url": "https://www.meetup.com/burbsec/events/313540425/",
+      "category": "Security"
+    },
+    {
+      "id": "scraped-chibitdevs-socratic-seminar-2026-04-09",
+      "name": "ChiBitDevs: Socratic Seminar",
+      "date": "2026-04-09",
+      "time": "18:00",
+      "duration_min": 90,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chibitdevs/events/312832544/",
+      "category": "Blockchain/Dev"
     },
     {
       "id": "scraped-ttic-research-at-ttic-shiry-ginosar-ttic-2026-04-10",
@@ -509,6 +1329,26 @@
       "category": "Data Science"
     },
     {
+      "id": "scraped-analytics-club-aiconnect-global-virtual--2026-04-10",
+      "name": "Analytics.Club: AIConnect: Global Virtual Job & Career Networking Event for AI Specialists",
+      "date": "2026-04-10",
+      "time": "16:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/ac-ord/events/mjqvstyjcgbnb/",
+      "category": "Analytics/AI"
+    },
+    {
+      "id": "scraped-depaul-student-recital-elina-kim-viola-2026-04-11",
+      "name": "DePaul: Student Recital: Elina Kim, viola",
+      "date": "2026-04-11",
+      "time": "00:00",
+      "duration_min": 75,
+      "location": "Holtschneider Performance Center, Brennan Recital Hall",
+      "url": "https://events.depaul.edu/event/student-recital-elina-kim-viola",
+      "category": "University"
+    },
+    {
       "id": "nu-colloquium-apr13",
       "name": "Northwestern CS Colloquium: Arindam Banerjee",
       "date": "2026-04-13",
@@ -519,6 +1359,26 @@
       "category": "CS Research"
     },
     {
+      "id": "scraped-burbsec-southeast-south-bend-in-sponsors-2026-04-13",
+      "name": "BurbSec Southeast (South Bend, IN) - Sponsors Wanted!",
+      "date": "2026-04-13",
+      "time": "17:00",
+      "duration_min": 180,
+      "location": "Chicago suburbs",
+      "url": "https://www.meetup.com/burbsec/events/vqpcvtyjcgbrb/",
+      "category": "Security"
+    },
+    {
+      "id": "scraped-uchicago-ds-modularity-of-biological-sys-2026-04-13",
+      "name": "UChicago DS: Modularity of Biological Systems",
+      "date": "2026-04-13",
+      "time": "14:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://events.uchicago.edu/event/249880-modularity-of-biological-systems",
+      "category": "Data Science"
+    },
+    {
       "id": "scraped-uchicago-dsi-ai-science-hackathon-2026-04-14",
       "name": "UChicago DSI: AI+Science Hackathon",
       "date": "2026-04-14",
@@ -526,6 +1386,166 @@
       "duration_min": 60,
       "location": "UChicago Data Science Institute",
       "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
+      "category": "Data Science"
+    },
+    {
+      "id": "scraped-data-traders-ai-business-growth-tuesdays-2026-04-14",
+      "name": "Data Traders: AI Business Growth Tuesdays",
+      "date": "2026-04-14",
+      "time": "20:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/data-driven-traders-network/events/sztvvtyjcgbsb/",
+      "category": "AI/Finance"
+    },
+    {
+      "id": "scraped-naperville-ml-atlanta-agentic-ai-roadsho-2026-04-14",
+      "name": "Naperville ML: Atlanta - Agentic AI Roadshow 2026 Transforming Business with Microsoft AI",
+      "date": "2026-04-14",
+      "time": "10:00",
+      "duration_min": 240,
+      "location": "Naperville, IL",
+      "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/313768678/",
+      "category": "AI/ML"
+    },
+    {
+      "id": "scraped-chicago-js-ai-helped-me-learn-vue-as-a-r-2026-04-14",
+      "name": "Chicago JS: AI helped me learn Vue as a React Developer & Agent Coding with Claude",
+      "date": "2026-04-14",
+      "time": "17:30",
+      "duration_min": 150,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/js-chi/events/312068418/",
+      "category": "Dev/JavaScript"
+    },
+    {
+      "id": "scraped-uchicago-ds-modularity-of-biological-sys-2026-04-14",
+      "name": "UChicago DS: Modularity of Biological Systems",
+      "date": "2026-04-14",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://events.uchicago.edu/event/249880-modularity-of-biological-systems",
+      "category": "Data Science"
+    },
+    {
+      "id": "scraped-analytics-club-agentic-ai-multimodal-mon-2026-04-15",
+      "name": "Analytics.Club: Agentic AI Multimodal MonthlyMixer - Where Agents Minds Meet",
+      "date": "2026-04-15",
+      "time": "17:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/ac-ord/events/ljqvstyjcgbtb/",
+      "category": "Analytics/AI"
+    },
+    {
+      "id": "scraped-pulumi-chicago-getting-started-on-aws-wi-2026-04-15",
+      "name": "Pulumi Chicago: Getting Started on AWS with TypeScript",
+      "date": "2026-04-15",
+      "time": "13:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-pulumi-user-group/events/313770704/",
+      "category": "DevOps/IaC"
+    },
+    {
+      "id": "scraped-graphdb-midwest-nodes-ai-2026-2026-04-15",
+      "name": "GraphDB Midwest: NODES AI 2026",
+      "date": "2026-04-15",
+      "time": "12:00",
+      "duration_min": 420,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/graphdb-midwest/events/311907154/",
+      "category": "Data/Graphs"
+    },
+    {
+      "id": "scraped-cyberyacht-wednesday-pre-season-strategy-2026-04-15",
+      "name": "CyberYacht Wednesday Pre-Season Strategy Event - Crew Training",
+      "date": "2026-04-15",
+      "time": "17:25",
+      "duration_min": 285,
+      "location": "Chicago River",
+      "url": "https://www.meetup.com/cyberyacht-wednesdays/events/plfcwtyjcgbtb/",
+      "category": "Security/Networking"
+    },
+    {
+      "id": "scraped-uchicago-ai-science-hackathon-2026-04-15",
+      "name": "UChicago: AI+Science Hackathon",
+      "date": "2026-04-15",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
+      "category": "University"
+    },
+    {
+      "id": "scraped-uchicago-ds-modularity-of-biological-sys-2026-04-15",
+      "name": "UChicago DS: Modularity of Biological Systems",
+      "date": "2026-04-15",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://events.uchicago.edu/event/249880-modularity-of-biological-systems",
+      "category": "Data Science"
+    },
+    {
+      "id": "scraped-chicago-net-monthly-social-what-s-caught-2026-04-16",
+      "name": "Chicago .NET: Monthly Social: What's Caught in your .NET?",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicagodevnet/events/313773519/",
+      "category": "Dev/.NET"
+    },
+    {
+      "id": "scraped-burbsec-west-sponsors-wanted-2026-04-16",
+      "name": "BurbSec West - Sponsors Wanted!",
+      "date": "2026-04-16",
+      "time": "18:00",
+      "duration_min": 180,
+      "location": "Chicago suburbs",
+      "url": "https://www.meetup.com/burbsec/events/312453490/",
+      "category": "Security"
+    },
+    {
+      "id": "scraped-founders-therapy-founder-s-therapy-coffe-2026-04-16",
+      "name": "Founders Therapy: Founder\u00e2\u0080\u0099s Therapy - Coffee Roundtable",
+      "date": "2026-04-16",
+      "time": "09:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/founders-therapy/events/311911674/",
+      "category": "Startup"
+    },
+    {
+      "id": "scraped-bootstrappers-virtual-bootstrappers-brea-2026-04-16",
+      "name": "Bootstrappers: VIRTUAL Bootstrappers Breakfast Chicago",
+      "date": "2026-04-16",
+      "time": "08:30",
+      "duration_min": 90,
+      "location": "Chicago (virtual)",
+      "url": "https://www.meetup.com/bootstrappers-breakfast-chicago/events/wthdwtyjcgbvb/",
+      "category": "Startup"
+    },
+    {
+      "id": "scraped-uchicago-ai-science-hackathon-2026-04-16",
+      "name": "UChicago: AI+Science Hackathon",
+      "date": "2026-04-16",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
+      "category": "University"
+    },
+    {
+      "id": "scraped-uchicago-ds-modularity-of-biological-sys-2026-04-16",
+      "name": "UChicago DS: Modularity of Biological Systems",
+      "date": "2026-04-16",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://events.uchicago.edu/event/249880-modularity-of-biological-systems",
       "category": "Data Science"
     },
     {
@@ -539,6 +1559,56 @@
       "category": "AI/CS Research"
     },
     {
+      "id": "scraped-uchicago-ai-science-hackathon-2026-04-17",
+      "name": "UChicago: AI+Science Hackathon",
+      "date": "2026-04-17",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
+      "category": "University"
+    },
+    {
+      "id": "scraped-uchicago-ds-modularity-of-biological-sys-2026-04-17",
+      "name": "UChicago DS: Modularity of Biological Systems",
+      "date": "2026-04-17",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://events.uchicago.edu/event/249880-modularity-of-biological-systems",
+      "category": "Data Science"
+    },
+    {
+      "id": "scraped-depaul-student-recital-hannah-kim-violin-2026-04-18",
+      "name": "DePaul: Student Recital: Hannah Kim, violin",
+      "date": "2026-04-18",
+      "time": "00:00",
+      "duration_min": 75,
+      "location": "Holtschneider Performance Center, Brennan Recital Hall",
+      "url": "https://events.depaul.edu/event/student-recital-hannah-kim-violin-april-2026",
+      "category": "University"
+    },
+    {
+      "id": "scraped-uchicago-ai-science-hackathon-2026-04-18",
+      "name": "UChicago: AI+Science Hackathon",
+      "date": "2026-04-18",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
+      "category": "University"
+    },
+    {
+      "id": "scraped-uchicago-ai-science-hackathon-2026-04-19",
+      "name": "UChicago: AI+Science Hackathon",
+      "date": "2026-04-19",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
+      "category": "University"
+    },
+    {
       "id": "scraped-fermilab-public-tour-2026-04-20",
       "name": "Fermilab: Public Tour",
       "date": "2026-04-20",
@@ -547,6 +1617,196 @@
       "location": "1st floor Atrium of Wilson Hall",
       "url": "https://events.fnal.gov/events/event/public-tour-6/",
       "category": "Physics/Science"
+    },
+    {
+      "id": "scraped-quantum-northwestern-quantum-week-2026-04-20",
+      "name": "Quantum: Northwestern Quantum Week",
+      "date": "2026-04-20",
+      "time": "00:00",
+      "duration_min": 60,
+      "location": "Chicago (various)",
+      "url": "",
+      "category": "Quantum/Physics"
+    },
+    {
+      "id": "scraped-quantum-opening-workshop-on-superconduct-2026-04-20",
+      "name": "Quantum: Opening Workshop on Superconducting Qubit Technology for Quantum Computing",
+      "date": "2026-04-20",
+      "time": "00:00",
+      "duration_min": 60,
+      "location": "Chicago (various)",
+      "url": "",
+      "category": "Quantum/Physics"
+    },
+    {
+      "id": "scraped-depaul-student-recital-ava-wipff-violin-2026-04-20",
+      "name": "DePaul: Student Recital: Ava Wipff, violin",
+      "date": "2026-04-20",
+      "time": "00:00",
+      "duration_min": 75,
+      "location": "Holtschneider Performance Center, Brennan Recital Hall",
+      "url": "https://events.depaul.edu/event/student-recital-ava-wipff-violin-may-2026",
+      "category": "University"
+    },
+    {
+      "id": "scraped-ics-cyber-level-zero-ot-cyber-security-c-2026-04-20",
+      "name": "ICS Cyber: Level Zero OT Cyber Security Conference",
+      "date": "2026-04-20",
+      "time": "08:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-cyber-security-for-control-systems/events/313734664/",
+      "category": "Security/ICS"
+    },
+    {
+      "id": "scraped-uchicago-ai-science-hackathon-2026-04-20",
+      "name": "UChicago: AI+Science Hackathon",
+      "date": "2026-04-20",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
+      "category": "University"
+    },
+    {
+      "id": "scraped-data-traders-ai-business-growth-tuesdays-2026-04-21",
+      "name": "Data Traders: AI Business Growth Tuesdays",
+      "date": "2026-04-21",
+      "time": "20:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/data-driven-traders-network/events/sztvvtyjcgbcc/",
+      "category": "AI/Finance"
+    },
+    {
+      "id": "scraped-ai-2030-tech-pulse-2030-chicago-2026-04-21",
+      "name": "AI 2030: Tech Pulse 2030 Chicago",
+      "date": "2026-04-21",
+      "time": "17:00",
+      "duration_min": 180,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503522/",
+      "category": "AI/Ethics"
+    },
+    {
+      "id": "scraped-uchicago-ai-science-hackathon-2026-04-21",
+      "name": "UChicago: AI+Science Hackathon",
+      "date": "2026-04-21",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
+      "category": "University"
+    },
+    {
+      "id": "scraped-uchicago-ai-david-radke-phd-chicago-blac-2026-04-21",
+      "name": "UChicago AI: David Radke, PhD (Chicago Blackhawks): NITMB Special Seminar",
+      "date": "2026-04-21",
+      "time": "21:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://events.uchicago.edu/event/262576-david-radke-phd-chicago-blackhawks-nitmb-special",
+      "category": "AI Research"
+    },
+    {
+      "id": "scraped-quantum-inaugural-quantum-innovation-sym-2026-04-22",
+      "name": "Quantum: Inaugural Quantum Innovation Symposium",
+      "date": "2026-04-22",
+      "time": "00:00",
+      "duration_min": 60,
+      "location": "Chicago (various)",
+      "url": "",
+      "category": "Quantum/Physics"
+    },
+    {
+      "id": "scraped-cyberyacht-wednesday-pre-season-strategy-2026-04-22",
+      "name": "CyberYacht Wednesday Pre-Season Strategy Event - Crew Training",
+      "date": "2026-04-22",
+      "time": "17:25",
+      "duration_min": 285,
+      "location": "Chicago River",
+      "url": "https://www.meetup.com/cyberyacht-wednesdays/events/plfcwtyjcgbdc/",
+      "category": "Security/Networking"
+    },
+    {
+      "id": "scraped-uchicago-ai-science-hackathon-2026-04-22",
+      "name": "UChicago: AI+Science Hackathon",
+      "date": "2026-04-22",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
+      "category": "University"
+    },
+    {
+      "id": "scraped-quantum-the-center-for-molecular-quantum-2026-04-23",
+      "name": "Quantum: The Center for Molecular Quantum Transduction Symposium (CMQT)",
+      "date": "2026-04-23",
+      "time": "00:00",
+      "duration_min": 60,
+      "location": "Chicago (various)",
+      "url": "",
+      "category": "Quantum/Physics"
+    },
+    {
+      "id": "scraped-depaul-student-recital-kathryn-wolfgram--2026-04-23",
+      "name": "DePaul: Student Recital: Kathryn Wolfgram, horn",
+      "date": "2026-04-23",
+      "time": "00:00",
+      "duration_min": 75,
+      "location": "Holtschneider Performance Center, Brennan Recital Hall",
+      "url": "https://events.depaul.edu/event/student-recital-kathryn-wolfgram-april-2026",
+      "category": "University"
+    },
+    {
+      "id": "scraped-analytics-club-aidatatech-connect-global-2026-04-23",
+      "name": "Analytics.Club: AIDataTech Connect: Global Virtual Networking Event for AI, Data & Tech Pros",
+      "date": "2026-04-23",
+      "time": "17:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/ac-ord/events/djqvstyjcgbfc/",
+      "category": "Analytics/AI"
+    },
+    {
+      "id": "scraped-platform-eng-platform-politics-the-influ-2026-04-23",
+      "name": "Platform Eng: Platform politics: The influence game behind adoption, budget and success",
+      "date": "2026-04-23",
+      "time": "12:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/platform-engineers-chicago/events/313604940/",
+      "category": "DevOps/Platform"
+    },
+    {
+      "id": "scraped-burbsec-burbsec-northwest-sponsors-welco-2026-04-23",
+      "name": "BurbSec: Burbsec Northwest  - Sponsors Welcome!",
+      "date": "2026-04-23",
+      "time": "18:00",
+      "duration_min": 120,
+      "location": "Chicago suburbs",
+      "url": "https://www.meetup.com/burbsec/events/lxplwtyjcgbfc/",
+      "category": "Security"
+    },
+    {
+      "id": "scraped-startup-oasis-find-a-cofounder-help-or-j-2026-04-23",
+      "name": "Startup Oasis: Find a Cofounder / Help or Join a Tech Startup",
+      "date": "2026-04-23",
+      "time": "19:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/startup-oasis-chicago/events/bjgfvtyjcgbfc/",
+      "category": "Startup"
+    },
+    {
+      "id": "scraped-uchicago-ai-science-hackathon-2026-04-23",
+      "name": "UChicago: AI+Science Hackathon",
+      "date": "2026-04-23",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
+      "category": "University"
     },
     {
       "id": "scraped-ttic-research-at-ttic-yury-makarychev-tt-2026-04-24",
@@ -559,6 +1819,86 @@
       "category": "AI/CS Research"
     },
     {
+      "id": "scraped-quantum-leadership-networks-event-w-gove-2026-04-24",
+      "name": "Quantum Leadership Networks Event w/ Governor Pritzker",
+      "date": "2026-04-24",
+      "time": "00:00",
+      "duration_min": 60,
+      "location": "Chicago (various)",
+      "url": "",
+      "category": "Quantum/Physics"
+    },
+    {
+      "id": "scraped-uchicago-ai-science-hackathon-2026-04-24",
+      "name": "UChicago: AI+Science Hackathon",
+      "date": "2026-04-24",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
+      "category": "University"
+    },
+    {
+      "id": "scraped-depaul-joint-student-recital-sofia-locon-2026-04-25",
+      "name": "DePaul: Joint Student Recital: Sofia LoConte, soprano and Aidan Costanzo, baritone",
+      "date": "2026-04-25",
+      "time": "21:00",
+      "duration_min": 75,
+      "location": "Holtschneider Performance Center, Allen Recital Hall",
+      "url": "https://events.depaul.edu/event/student-recital-loconte-soprano-costanzo-baritone-april-2026",
+      "category": "University"
+    },
+    {
+      "id": "scraped-uchicago-ai-science-hackathon-2026-04-25",
+      "name": "UChicago: AI+Science Hackathon",
+      "date": "2026-04-25",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
+      "category": "University"
+    },
+    {
+      "id": "scraped-depaul-student-recital-clara-pancake-sop-2026-04-26",
+      "name": "DePaul: Student Recital: Clara Pancake, soprano",
+      "date": "2026-04-26",
+      "time": "00:00",
+      "duration_min": 75,
+      "location": "Holtschneider Performance Center, Brennan Recital Hall",
+      "url": "https://events.depaul.edu/event/student-recital-clara-pancake-soprano-april-2026",
+      "category": "University"
+    },
+    {
+      "id": "scraped-uchicago-ai-science-hackathon-2026-04-26",
+      "name": "UChicago: AI+Science Hackathon",
+      "date": "2026-04-26",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
+      "category": "University"
+    },
+    {
+      "id": "scraped-depaul-student-recital-jenna-krause-viol-2026-04-27",
+      "name": "DePaul: Student Recital: Jenna Krause, violin",
+      "date": "2026-04-27",
+      "time": "00:00",
+      "duration_min": 75,
+      "location": "Holtschneider Performance Center, Brennan Recital Hall",
+      "url": "https://events.depaul.edu/event/student-recital-jenna-krause-violin-april-2026",
+      "category": "University"
+    },
+    {
+      "id": "scraped-uchicago-ai-science-hackathon-2026-04-27",
+      "name": "UChicago: AI+Science Hackathon",
+      "date": "2026-04-27",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
+      "category": "University"
+    },
+    {
       "id": "scraped-uchicago-dsi-jorge-jaramillo-uchicago-sc-2026-04-28",
       "name": "UChicago DSI: Jorge Jaramillo (UChicago): Schmidt AI in Science Speaker Series",
       "date": "2026-04-28",
@@ -567,6 +1907,56 @@
       "location": "William Eckhardt Research Center, Room 401",
       "url": "https://datascience.uchicago.edu/events/jorge-jaramillo-phd-uchicago-neuroscience-institute-ai-in-science-schmidt-fellows-speaker-series/",
       "category": "Data Science"
+    },
+    {
+      "id": "scraped-data-traders-ai-business-growth-tuesdays-2026-04-28",
+      "name": "Data Traders: AI Business Growth Tuesdays",
+      "date": "2026-04-28",
+      "time": "20:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/data-driven-traders-network/events/sztvvtyjcgblc/",
+      "category": "AI/Finance"
+    },
+    {
+      "id": "scraped-odsc-chicago-odsc-ai-east-2026-the-1-ai--2026-04-28",
+      "name": "ODSC Chicago: ODSC AI East 2026 | The #1 AI Builders Conference",
+      "date": "2026-04-28",
+      "time": "09:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/odsc-chicago-data-science/events/312628126/",
+      "category": "Data Science"
+    },
+    {
+      "id": "scraped-odsc-chicago-the-ai-x-leadership-summit--2026-04-28",
+      "name": "ODSC Chicago: The AI X Leadership Summit | Boston 2026",
+      "date": "2026-04-28",
+      "time": "09:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/odsc-chicago-data-science/events/312786332/",
+      "category": "Data Science"
+    },
+    {
+      "id": "scraped-startupcouncil-free-startup-fundraising--2026-04-28",
+      "name": "StartupCouncil: Free Startup Fundraising Office Hours Expert AMA with Angel Investor Scott Fox!",
+      "date": "2026-04-28",
+      "time": "23:00",
+      "duration_min": 90,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-startup-founders/events/tdmpvtyjcgblc/",
+      "category": "Startup"
+    },
+    {
+      "id": "scraped-uchicago-ai-science-hackathon-2026-04-28",
+      "name": "UChicago: AI+Science Hackathon",
+      "date": "2026-04-28",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
+      "category": "University"
     },
     {
       "id": "nu-colloquium-apr29",
@@ -579,6 +1969,36 @@
       "category": "CS Research"
     },
     {
+      "id": "scraped-cyberyacht-wednesday-pre-season-strategy-2026-04-29",
+      "name": "CyberYacht Wednesday Pre-Season Strategy Event - Crew Training",
+      "date": "2026-04-29",
+      "time": "17:25",
+      "duration_min": 285,
+      "location": "Chicago River",
+      "url": "https://www.meetup.com/cyberyacht-wednesdays/events/plfcwtyjcgbmc/",
+      "category": "Security/Networking"
+    },
+    {
+      "id": "scraped-depaul-student-recital-ella-dodge-violin-2026-04-30",
+      "name": "DePaul: Student Recital: Ella Dodge, violin",
+      "date": "2026-04-30",
+      "time": "00:00",
+      "duration_min": 75,
+      "location": "Holtschneider Performance Center, Brennan Recital Hall",
+      "url": "https://events.depaul.edu/event/student-recital-ella-dodge-violin-april-2026",
+      "category": "University"
+    },
+    {
+      "id": "scraped-founders-therapy-founder-s-therapy-coffe-2026-04-30",
+      "name": "Founders Therapy: Founder\u00e2\u0080\u0099s Therapy - Coffee Roundtable",
+      "date": "2026-04-30",
+      "time": "09:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/founders-therapy/events/313477798/",
+      "category": "Startup"
+    },
+    {
       "id": "scraped-ttic-research-at-ttic-zhiyuan-li-ttic-2026-05-01",
       "name": "TTIC: Research at TTIC: Zhiyuan Li , TTIC",
       "date": "2026-05-01",
@@ -587,6 +2007,66 @@
       "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
       "url": "",
       "category": "AI/CS Research"
+    },
+    {
+      "id": "scraped-analytics-club-workcongress-2026-virtual-2026-05-01",
+      "name": "Analytics.Club: WorkCongress 2026: Virtual \u00e2\u0080\u0093 Shaping the Future of Work",
+      "date": "2026-05-01",
+      "time": "08:00",
+      "duration_min": 480,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/ac-ord/events/312636260/",
+      "category": "Analytics/AI"
+    },
+    {
+      "id": "scraped-analytics-club-analyticsclub-jobexpo-vir-2026-05-01",
+      "name": "Analytics.Club: AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
+      "date": "2026-05-01",
+      "time": "11:00",
+      "duration_min": 180,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/ac-ord/events/xjqvstyjchbcb/",
+      "category": "Analytics/AI"
+    },
+    {
+      "id": "scraped-depaul-student-recital-alex-moore-cello-2026-05-02",
+      "name": "DePaul: Student Recital: Alex Moore, cello",
+      "date": "2026-05-02",
+      "time": "00:00",
+      "duration_min": 75,
+      "location": "Holtschneider Performance Center, Brennan Recital Hall",
+      "url": "https://events.depaul.edu/event/student-recital-alex-moore-cello-may-2026",
+      "category": "University"
+    },
+    {
+      "id": "scraped-depaul-student-recital-justin-bach-barit-2026-05-03",
+      "name": "DePaul: Student Recital: Justin Bach, baritone",
+      "date": "2026-05-03",
+      "time": "18:00",
+      "duration_min": 75,
+      "location": "Holtschneider Performance Center, Allen Recital Hall",
+      "url": "https://events.depaul.edu/event/student-recital-justin-bach-baritone-may_2026",
+      "category": "University"
+    },
+    {
+      "id": "scraped-depaul-student-recital-alona-sella-cello-2026-05-04",
+      "name": "DePaul: Student Recital: Alona Sella, cello",
+      "date": "2026-05-04",
+      "time": "00:00",
+      "duration_min": 75,
+      "location": "Holtschneider Performance Center, Brennan Recital Hall",
+      "url": "https://events.depaul.edu/event/student-recital-alona-sella-cello-may-2026",
+      "category": "University"
+    },
+    {
+      "id": "scraped-uchicago-ds-mansueto-urban-colloquium-me-2026-05-04",
+      "name": "UChicago DS: Mansueto Urban Colloquium: Melina Almagro, Assoc. Prof. of Economics and George G. Rinder Faculty Fellow, UChicago",
+      "date": "2026-05-04",
+      "time": "17:30",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://events.uchicago.edu/event/mi-colloquium-050426",
+      "category": "Data Science"
     },
     {
       "id": "schmidt-ai-may5",
@@ -599,6 +2079,56 @@
       "category": "AI in Science"
     },
     {
+      "id": "scraped-depaul-global-conversations-2026-the-age-2026-05-05",
+      "name": "DePaul: Global Conversations 2026 - The Age of Artificial Authenticity: Brands, Tourism and Consumer Trust in a Global Context",
+      "date": "2026-05-05",
+      "time": "16:00",
+      "duration_min": 90,
+      "location": "",
+      "url": "https://events.depaul.edu/event/global-conversations-2026-the-age-of-artificial-authenticity-brands-tourism-and-consumer-trust-in-a-global-context",
+      "category": "University"
+    },
+    {
+      "id": "scraped-data-traders-ai-business-growth-tuesdays-2026-05-05",
+      "name": "Data Traders: AI Business Growth Tuesdays",
+      "date": "2026-05-05",
+      "time": "20:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/data-driven-traders-network/events/sztvvtyjchbhb/",
+      "category": "AI/Finance"
+    },
+    {
+      "id": "scraped-ai-2030-tech-pulse-2030-chicago-2026-05-05",
+      "name": "AI 2030: Tech Pulse 2030 Chicago",
+      "date": "2026-05-05",
+      "time": "17:00",
+      "duration_min": 180,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503529/",
+      "category": "AI/Ethics"
+    },
+    {
+      "id": "scraped-chicago-ai-ml-cv-may-6-building-composab-2026-05-06",
+      "name": "Chicago AI/ML/CV: May 6 - Building Composable Computer Vision Workflows in FiftyOne",
+      "date": "2026-05-06",
+      "time": "12:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-ai-machine-learning-data-science/events/313313270/",
+      "category": "AI/ML"
+    },
+    {
+      "id": "scraped-depaul-student-recital-yu-chia-chiu-viol-2026-05-07",
+      "name": "DePaul: Student Recital: Yu-Chia Chiu, violin",
+      "date": "2026-05-07",
+      "time": "00:00",
+      "duration_min": 75,
+      "location": "Holtschneider Performance Center, Allen Recital Hall",
+      "url": "https://events.depaul.edu/event/student-recital-yu-chia-chiu-violin-may-2026",
+      "category": "University"
+    },
+    {
       "id": "scraped-ttic-research-at-ttic-nati-srebro-ttic-2026-05-08",
       "name": "TTIC: Research at TTIC: Nati Srebro, TTIC",
       "date": "2026-05-08",
@@ -607,6 +2137,66 @@
       "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
       "url": "",
       "category": "AI/CS Research"
+    },
+    {
+      "id": "scraped-depaul-student-recital-mikayla-chin-saxo-2026-05-08",
+      "name": "DePaul: Student Recital: Mikayla Chin, saxophone",
+      "date": "2026-05-08",
+      "time": "11:30",
+      "duration_min": 60,
+      "location": "Holtschneider Performance Center, Dempsey Corboy Jazz Hall",
+      "url": "https://events.depaul.edu/event/student-recital-mikayla-chin-saxophone-may-2026",
+      "category": "University"
+    },
+    {
+      "id": "scraped-uchicago-cs-nitmb-seminar-series-2026-05-08",
+      "name": "UChicago CS: NITMB Seminar Series",
+      "date": "2026-05-08",
+      "time": "15:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://events.uchicago.edu/event/260156-nitmb-seminar-series",
+      "category": "CS Research"
+    },
+    {
+      "id": "scraped-depaul-student-recital-ashley-gomez-viol-2026-05-09",
+      "name": "DePaul: Student Recital: Ashley Gomez, violin",
+      "date": "2026-05-09",
+      "time": "00:00",
+      "duration_min": 75,
+      "location": "Holtschneider Performance Center, Allen Recital Hall",
+      "url": "https://events.depaul.edu/event/student-recital-ashley-gomez-violin-may-2026",
+      "category": "University"
+    },
+    {
+      "id": "scraped-depaul-student-recital-nicholas-laramee--2026-05-10",
+      "name": "DePaul: Student Recital: Nicholas Laramee, bass trombone",
+      "date": "2026-05-10",
+      "time": "00:00",
+      "duration_min": 75,
+      "location": "Holtschneider Performance Center, Brennan Recital Hall",
+      "url": "https://events.depaul.edu/event/student-recital-nicholas-laramee-bass-trombone-may-2026",
+      "category": "University"
+    },
+    {
+      "id": "scraped-depaul-student-recital-beatrice-larson-f-2026-05-11",
+      "name": "DePaul: Student Recital: Beatrice Larson, flute",
+      "date": "2026-05-11",
+      "time": "00:00",
+      "duration_min": 75,
+      "location": "Holtschneider Performance Center, Brennan Recital Hall",
+      "url": "https://events.depaul.edu/event/student-recital-beatrice-larson-flute-may-2026",
+      "category": "University"
+    },
+    {
+      "id": "scraped-uchicago-ai-evolutionary-games-mathemati-2026-05-11",
+      "name": "UChicago AI: Evolutionary Games: Mathematical Theory and Biological Insights",
+      "date": "2026-05-11",
+      "time": "13:30",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://events.uchicago.edu/event/249006-evolutionary-games-mathematical-theory-and",
+      "category": "AI Research"
     },
     {
       "id": "scraped-uchicago-dsi-aditi-krishnapriyan-uc-berk-2026-05-12",
@@ -619,6 +2209,66 @@
       "category": "Data Science"
     },
     {
+      "id": "scraped-depaul-student-recital-milo-klise-cello-2026-05-12",
+      "name": "DePaul: Student Recital: Milo Klise, cello",
+      "date": "2026-05-12",
+      "time": "00:00",
+      "duration_min": 75,
+      "location": "Holtschneider Performance Center, Allen Recital Hall",
+      "url": "https://events.depaul.edu/event/student-recital-milo-klise-cello-may-2026",
+      "category": "University"
+    },
+    {
+      "id": "scraped-data-traders-ai-business-growth-tuesdays-2026-05-12",
+      "name": "Data Traders: AI Business Growth Tuesdays",
+      "date": "2026-05-12",
+      "time": "20:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/data-driven-traders-network/events/sztvvtyjchbqb/",
+      "category": "AI/Finance"
+    },
+    {
+      "id": "scraped-chicago-js-ddc-may-meetup-2026-05-12",
+      "name": "Chicago JS: DDC May Meetup",
+      "date": "2026-05-12",
+      "time": "17:30",
+      "duration_min": 150,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/js-chi/events/312068428/",
+      "category": "Dev/JavaScript"
+    },
+    {
+      "id": "scraped-uchicago-ai-evolutionary-games-mathemati-2026-05-12",
+      "name": "UChicago AI: Evolutionary Games: Mathematical Theory and Biological Insights",
+      "date": "2026-05-12",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://events.uchicago.edu/event/249006-evolutionary-games-mathematical-theory-and",
+      "category": "AI Research"
+    },
+    {
+      "id": "scraped-pulumi-chicago-getting-started-with-kube-2026-05-13",
+      "name": "Pulumi Chicago: Getting Started with Kubernetes on Google Cloud",
+      "date": "2026-05-13",
+      "time": "13:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-pulumi-user-group/events/313770772/",
+      "category": "DevOps/IaC"
+    },
+    {
+      "id": "scraped-uchicago-ai-evolutionary-games-mathemati-2026-05-13",
+      "name": "UChicago AI: Evolutionary Games: Mathematical Theory and Biological Insights",
+      "date": "2026-05-13",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://events.uchicago.edu/event/249006-evolutionary-games-mathematical-theory-and",
+      "category": "AI Research"
+    },
+    {
       "id": "nu-csx-may14",
       "name": "Northwestern CS+X: Prof Elaine Chew (Queen Mary U London)",
       "date": "2026-05-14",
@@ -629,6 +2279,36 @@
       "category": "CS Interdisciplinary"
     },
     {
+      "id": "scraped-chibitdevs-socratic-seminar-2026-05-14",
+      "name": "ChiBitDevs: Socratic Seminar",
+      "date": "2026-05-14",
+      "time": "18:00",
+      "duration_min": 90,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chibitdevs/events/312832550/",
+      "category": "Blockchain/Dev"
+    },
+    {
+      "id": "scraped-founders-therapy-founder-s-therapy-coffe-2026-05-14",
+      "name": "Founders Therapy: Founder\u00e2\u0080\u0099s Therapy - Coffee Roundtable",
+      "date": "2026-05-14",
+      "time": "09:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/founders-therapy/events/312144772/",
+      "category": "Startup"
+    },
+    {
+      "id": "scraped-uchicago-ai-evolutionary-games-mathemati-2026-05-14",
+      "name": "UChicago AI: Evolutionary Games: Mathematical Theory and Biological Insights",
+      "date": "2026-05-14",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://events.uchicago.edu/event/249006-evolutionary-games-mathematical-theory-and",
+      "category": "AI Research"
+    },
+    {
       "id": "scraped-ttic-research-at-ttic-alexander-razborov-2026-05-15",
       "name": "TTIC: Research at TTIC: Alexander Razborov, UChicago",
       "date": "2026-05-15",
@@ -637,6 +2317,26 @@
       "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
       "url": "",
       "category": "AI/CS Research"
+    },
+    {
+      "id": "scraped-uchicago-ai-evolutionary-games-mathemati-2026-05-15",
+      "name": "UChicago AI: Evolutionary Games: Mathematical Theory and Biological Insights",
+      "date": "2026-05-15",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://events.uchicago.edu/event/249006-evolutionary-games-mathematical-theory-and",
+      "category": "AI Research"
+    },
+    {
+      "id": "scraped-depaul-student-recital-sho-roash-flute-2026-05-16",
+      "name": "DePaul: Student Recital: Sho Roash, flute",
+      "date": "2026-05-16",
+      "time": "00:00",
+      "duration_min": 75,
+      "location": "Holtschneider Performance Center, Allen Recital Hall",
+      "url": "https://events.depaul.edu/event/student-recital-sho-roash-flute-may-2026",
+      "category": "University"
     },
     {
       "id": "scraped-fermilab-public-tour-2026-05-18",
@@ -659,6 +2359,56 @@
       "category": "Data Science"
     },
     {
+      "id": "scraped-quantum-u-of-i-quantum-circuit-conferenc-2026-05-19",
+      "name": "Quantum: U of I Quantum Circuit Conference",
+      "date": "2026-05-19",
+      "time": "00:00",
+      "duration_min": 60,
+      "location": "Chicago (various)",
+      "url": "",
+      "category": "Quantum/Physics"
+    },
+    {
+      "id": "scraped-chicago-ai-ml-cv-may-20-getting-started--2026-05-20",
+      "name": "Chicago AI/ML/CV: May 20 - Getting Started with FiftyOne",
+      "date": "2026-05-20",
+      "time": "12:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-ai-machine-learning-data-science/events/313299075/",
+      "category": "AI/ML"
+    },
+    {
+      "id": "scraped-chicago-ai-ml-cv-may-21-women-in-ai-meet-2026-05-21",
+      "name": "Chicago AI/ML/CV: May 21 - Women in AI Meetup",
+      "date": "2026-05-21",
+      "time": "11:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-ai-machine-learning-data-science/events/313082637/",
+      "category": "AI/ML"
+    },
+    {
+      "id": "scraped-chicago-net-monthly-social-what-s-caught-2026-05-21",
+      "name": "Chicago .NET: Monthly Social: What's Caught in your .NET?",
+      "date": "2026-05-21",
+      "time": "18:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicagodevnet/events/313773520/",
+      "category": "Dev/.NET"
+    },
+    {
+      "id": "scraped-bootstrappers-virtual-bootstrappers-brea-2026-05-21",
+      "name": "Bootstrappers: VIRTUAL Bootstrappers Breakfast Chicago",
+      "date": "2026-05-21",
+      "time": "08:30",
+      "duration_min": 90,
+      "location": "Chicago (virtual)",
+      "url": "https://www.meetup.com/bootstrappers-breakfast-chicago/events/wthdwtyjchbcc/",
+      "category": "Startup"
+    },
+    {
       "id": "scraped-ttic-research-at-ttic-julia-chuzhoy-ttic-2026-05-22",
       "name": "TTIC: Research at TTIC: Julia Chuzhoy, TTIC",
       "date": "2026-05-22",
@@ -677,6 +2427,16 @@
       "location": "Fermilab, Batavia, IL",
       "url": "https://events.fnal.gov/events/event/lab-holiday-memorial-day-property-open-wilson-hall-and-lederman-science-center-closed/",
       "category": "Physics/Science"
+    },
+    {
+      "id": "scraped-startupcouncil-free-startup-fundraising--2026-05-26",
+      "name": "StartupCouncil: Free Startup Fundraising Office Hours Expert AMA with Angel Investor Scott Fox!",
+      "date": "2026-05-26",
+      "time": "23:00",
+      "duration_min": 90,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-startup-founders/events/tdmpvtyjchbjc/",
+      "category": "Startup"
     },
     {
       "id": "booth-ai-workplace-may28",
@@ -699,6 +2459,16 @@
       "category": "Physics/Science"
     },
     {
+      "id": "scraped-founders-therapy-founder-s-therapy-coffe-2026-05-28",
+      "name": "Founders Therapy: Founder\u00e2\u0080\u0099s Therapy - Coffee Roundtable",
+      "date": "2026-05-28",
+      "time": "09:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/founders-therapy/events/bxcvptyjchblc/",
+      "category": "Startup"
+    },
+    {
       "id": "scraped-ttic-research-at-ttic-kanishka-mirsa-tti-2026-05-29",
       "name": "TTIC: Research at TTIC: Kanishka Mirsa, TTIC",
       "date": "2026-05-29",
@@ -707,6 +2477,16 @@
       "location": "TTIC-5-530 (68)",
       "url": "",
       "category": "AI/CS Research"
+    },
+    {
+      "id": "scraped-ai-2030-tech-pulse-2030-chicago-2026-06-02",
+      "name": "AI 2030: Tech Pulse 2030 Chicago",
+      "date": "2026-06-02",
+      "time": "17:00",
+      "duration_min": 180,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503570/",
+      "category": "AI/Ethics"
     },
     {
       "id": "scraped-ttic-communication-intelligence-seminar-2026-06-04",
@@ -719,6 +2499,16 @@
       "category": "AI/CS Research"
     },
     {
+      "id": "scraped-grafana-chicago-grafanacon-local-meetup--2026-06-04",
+      "name": "Grafana Chicago: GrafanaCON Local Meetup: Chicago",
+      "date": "2026-06-04",
+      "time": "17:30",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/grafana-and-friends-chicago/events/313619637/",
+      "category": "Observability"
+    },
+    {
       "id": "acm-chi-jun8",
       "name": "ACM CHI 2026 (Human-Computer Interaction Conference)",
       "date": "2026-06-08",
@@ -729,6 +2519,46 @@
       "category": "HCI Research"
     },
     {
+      "id": "scraped-quantum-horizons-2026-2026-06-10",
+      "name": "Quantum Horizons 2026",
+      "date": "2026-06-10",
+      "time": "00:00",
+      "duration_min": 60,
+      "location": "Chicago (various)",
+      "url": "",
+      "category": "Quantum/Physics"
+    },
+    {
+      "id": "scraped-chibitdevs-socratic-seminar-2026-06-11",
+      "name": "ChiBitDevs: Socratic Seminar",
+      "date": "2026-06-11",
+      "time": "18:00",
+      "duration_min": 90,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chibitdevs/events/jqtzltyjcjbpb/",
+      "category": "Blockchain/Dev"
+    },
+    {
+      "id": "scraped-founders-therapy-founder-s-therapy-coffe-2026-06-11",
+      "name": "Founders Therapy: Founder\u00e2\u0080\u0099s Therapy - Coffee Roundtable",
+      "date": "2026-06-11",
+      "time": "09:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/founders-therapy/events/bxcvptyjcjbpb/",
+      "category": "Startup"
+    },
+    {
+      "id": "scraped-chicago-js-ddc-june-meetup-2026-06-16",
+      "name": "Chicago JS: DDC June Meetup",
+      "date": "2026-06-16",
+      "time": "17:30",
+      "duration_min": 150,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/js-chi/events/312068429/",
+      "category": "Dev/JavaScript"
+    },
+    {
       "id": "argonne-outloud-jun18",
       "name": "Argonne OutLoud Lecture",
       "date": "2026-06-18",
@@ -737,6 +2567,26 @@
       "location": "Argonne National Laboratory, Lemont, IL",
       "url": "https://www.anl.gov/outloud-lecture-series",
       "category": "Science Research"
+    },
+    {
+      "id": "scraped-chicago-net-monthly-social-what-s-caught-2026-06-18",
+      "name": "Chicago .NET: Monthly Social: What's Caught in your .NET?",
+      "date": "2026-06-18",
+      "time": "18:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicagodevnet/events/313773522/",
+      "category": "Dev/.NET"
+    },
+    {
+      "id": "scraped-bootstrappers-virtual-bootstrappers-brea-2026-06-18",
+      "name": "Bootstrappers: VIRTUAL Bootstrappers Breakfast Chicago",
+      "date": "2026-06-18",
+      "time": "08:30",
+      "duration_min": 90,
+      "location": "Chicago (virtual)",
+      "url": "https://www.meetup.com/bootstrappers-breakfast-chicago/events/wthdwtyjcjbxb/",
+      "category": "Startup"
     },
     {
       "id": "scraped-fermilab-lab-holiday-juneteenth-property-2026-06-19",
@@ -759,6 +2609,76 @@
       "category": "Robotics/Automation"
     },
     {
+      "id": "scraped-startupcouncil-free-startup-fundraising--2026-06-23",
+      "name": "StartupCouncil: Free Startup Fundraising Office Hours Expert AMA with Angel Investor Scott Fox!",
+      "date": "2026-06-23",
+      "time": "23:00",
+      "duration_min": 90,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-startup-founders/events/tdmpvtyjcjbfc/",
+      "category": "Startup"
+    },
+    {
+      "id": "scraped-aws-chicago-community-day-midwest-2026-06-24",
+      "name": "AWS Chicago: Community Day Midwest",
+      "date": "2026-06-24",
+      "time": "08:00",
+      "duration_min": 60,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/aws-chicago/events/313346836/",
+      "category": "Cloud/AWS"
+    },
+    {
+      "id": "scraped-startup-oasis-find-a-cofounder-help-or-j-2026-06-25",
+      "name": "Startup Oasis: Find a Cofounder / Help or Join a Tech Startup",
+      "date": "2026-06-25",
+      "time": "19:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/startup-oasis-chicago/events/bjgfvtyjcjbhc/",
+      "category": "Startup"
+    },
+    {
+      "id": "scraped-founders-therapy-founder-s-therapy-coffe-2026-06-25",
+      "name": "Founders Therapy: Founder\u00e2\u0080\u0099s Therapy - Coffee Roundtable",
+      "date": "2026-06-25",
+      "time": "09:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/founders-therapy/events/bxcvptyjcjbhc/",
+      "category": "Startup"
+    },
+    {
+      "id": "scraped-uchicago-ds-cell-state-transitions-and-f-2026-06-30",
+      "name": "UChicago DS: Cell State Transitions and Fate (in)decisions",
+      "date": "2026-06-30",
+      "time": "14:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://events.uchicago.edu/event/249882-cell-state-transitions-and-fate-indecisions",
+      "category": "Data Science"
+    },
+    {
+      "id": "scraped-uchicago-ds-cell-state-transitions-and-f-2026-07-01",
+      "name": "UChicago DS: Cell State Transitions and Fate (in)decisions",
+      "date": "2026-07-01",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://events.uchicago.edu/event/249882-cell-state-transitions-and-fate-indecisions",
+      "category": "Data Science"
+    },
+    {
+      "id": "scraped-uchicago-ds-cell-state-transitions-and-f-2026-07-02",
+      "name": "UChicago DS: Cell State Transitions and Fate (in)decisions",
+      "date": "2026-07-02",
+      "time": "05:00",
+      "duration_min": 60,
+      "location": "UChicago campus",
+      "url": "https://events.uchicago.edu/event/249882-cell-state-transitions-and-fate-indecisions",
+      "category": "Data Science"
+    },
+    {
       "id": "scraped-fermilab-lab-holiday-independence-day-pr-2026-07-03",
       "name": "Fermilab: Lab holiday \u2013 Independence Day \u2013 property open, Wilson Hall and Lederman Science Center closed",
       "date": "2026-07-03",
@@ -769,6 +2689,46 @@
       "category": "Physics/Science"
     },
     {
+      "id": "scraped-ai-2030-tech-pulse-2030-chicago-2026-07-07",
+      "name": "AI 2030: Tech Pulse 2030 Chicago",
+      "date": "2026-07-07",
+      "time": "17:00",
+      "duration_min": 180,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503605/",
+      "category": "AI/Ethics"
+    },
+    {
+      "id": "scraped-chibitdevs-socratic-seminar-2026-07-09",
+      "name": "ChiBitDevs: Socratic Seminar",
+      "date": "2026-07-09",
+      "time": "18:00",
+      "duration_min": 90,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chibitdevs/events/jqtzltyjckbmb/",
+      "category": "Blockchain/Dev"
+    },
+    {
+      "id": "scraped-founders-therapy-founder-s-therapy-coffe-2026-07-09",
+      "name": "Founders Therapy: Founder\u00e2\u0080\u0099s Therapy - Coffee Roundtable",
+      "date": "2026-07-09",
+      "time": "09:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/founders-therapy/events/bxcvptyjckbmb/",
+      "category": "Startup"
+    },
+    {
+      "id": "scraped-chicago-js-ddc-july-meetup-2026-07-14",
+      "name": "Chicago JS: DDC July Meetup",
+      "date": "2026-07-14",
+      "time": "17:30",
+      "duration_min": 150,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/js-chi/events/312068434/",
+      "category": "Dev/JavaScript"
+    },
+    {
       "id": "mhub-bbq-jul16",
       "name": "mHUB Community BBQ (1000+ attendees)",
       "date": "2026-07-16",
@@ -777,6 +2737,26 @@
       "location": "mHUB, 965 W Chicago Ave, Chicago",
       "url": "https://www.mhubchicago.com/events",
       "category": "Tech/Hardware Community"
+    },
+    {
+      "id": "scraped-chicago-net-monthly-social-what-s-caught-2026-07-16",
+      "name": "Chicago .NET: Monthly Social: What's Caught in your .NET?",
+      "date": "2026-07-16",
+      "time": "18:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicagodevnet/events/vzkrvtyjckbvb/",
+      "category": "Dev/.NET"
+    },
+    {
+      "id": "scraped-bootstrappers-virtual-bootstrappers-brea-2026-07-16",
+      "name": "Bootstrappers: VIRTUAL Bootstrappers Breakfast Chicago",
+      "date": "2026-07-16",
+      "time": "08:30",
+      "duration_min": 90,
+      "location": "Chicago (virtual)",
+      "url": "https://www.meetup.com/bootstrappers-breakfast-chicago/events/wthdwtyjckbvb/",
+      "category": "Startup"
     },
     {
       "id": "techchicago-jul20",
@@ -799,6 +2779,86 @@
       "category": "Physics/Science"
     },
     {
+      "id": "scraped-startup-oasis-find-a-cofounder-help-or-j-2026-07-23",
+      "name": "Startup Oasis: Find a Cofounder / Help or Join a Tech Startup",
+      "date": "2026-07-23",
+      "time": "19:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/startup-oasis-chicago/events/bjgfvtyjckbfc/",
+      "category": "Startup"
+    },
+    {
+      "id": "scraped-founders-therapy-founder-s-therapy-coffe-2026-07-23",
+      "name": "Founders Therapy: Founder\u00e2\u0080\u0099s Therapy - Coffee Roundtable",
+      "date": "2026-07-23",
+      "time": "09:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/founders-therapy/events/bxcvptyjckbfc/",
+      "category": "Startup"
+    },
+    {
+      "id": "scraped-startupcouncil-free-startup-fundraising--2026-07-28",
+      "name": "StartupCouncil: Free Startup Fundraising Office Hours Expert AMA with Angel Investor Scott Fox!",
+      "date": "2026-07-28",
+      "time": "23:00",
+      "duration_min": 90,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-startup-founders/events/tdmpvtyjckblc/",
+      "category": "Startup"
+    },
+    {
+      "id": "scraped-ai-2030-tech-pulse-2030-chicago-2026-08-04",
+      "name": "AI 2030: Tech Pulse 2030 Chicago",
+      "date": "2026-08-04",
+      "time": "17:00",
+      "duration_min": 180,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503636/",
+      "category": "AI/Ethics"
+    },
+    {
+      "id": "scraped-chibitdevs-socratic-seminar-2026-08-13",
+      "name": "ChiBitDevs: Socratic Seminar",
+      "date": "2026-08-13",
+      "time": "18:00",
+      "duration_min": 90,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chibitdevs/events/jqtzltyjclbrb/",
+      "category": "Blockchain/Dev"
+    },
+    {
+      "id": "scraped-chicago-net-monthly-social-what-s-caught-2026-08-20",
+      "name": "Chicago .NET: Monthly Social: What's Caught in your .NET?",
+      "date": "2026-08-20",
+      "time": "18:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicagodevnet/events/vzkrvtyjclbbc/",
+      "category": "Dev/.NET"
+    },
+    {
+      "id": "scraped-startupcouncil-free-startup-fundraising--2026-08-25",
+      "name": "StartupCouncil: Free Startup Fundraising Office Hours Expert AMA with Angel Investor Scott Fox!",
+      "date": "2026-08-25",
+      "time": "23:00",
+      "duration_min": 90,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/chicago-startup-founders/events/tdmpvtyjclbhc/",
+      "category": "Startup"
+    },
+    {
+      "id": "scraped-startup-oasis-find-a-cofounder-help-or-j-2026-08-27",
+      "name": "Startup Oasis: Find a Cofounder / Help or Join a Tech Startup",
+      "date": "2026-08-27",
+      "time": "19:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/startup-oasis-chicago/events/bjgfvtyjclbkc/",
+      "category": "Startup"
+    },
+    {
       "id": "scraped-fermilab-lab-holiday-labor-day-property--2026-09-07",
       "name": "Fermilab: Lab holiday \u2013 Labor Day \u2013 property open, Wilson Hall and Lederman Science Center closed",
       "date": "2026-09-07",
@@ -807,6 +2867,16 @@
       "location": "Fermilab, Batavia, IL",
       "url": "https://events.fnal.gov/events/event/lab-holiday-labor-day-property-open-wilson-hall-and-lederman-science-center-closed/",
       "category": "Physics/Science"
+    },
+    {
+      "id": "scraped-ai-2030-tech-pulse-2030-chicago-2026-09-08",
+      "name": "AI 2030: Tech Pulse 2030 Chicago",
+      "date": "2026-09-08",
+      "time": "17:00",
+      "duration_min": 180,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503640/",
+      "category": "AI/Ethics"
     },
     {
       "id": "argonne-outloud-sep17",
