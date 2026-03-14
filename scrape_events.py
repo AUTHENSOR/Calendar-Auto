@@ -524,131 +524,189 @@ def make_id(name, date_str):
     return f"scraped-{slug}-{date_str}"
 
 
-# ══════════════════════════════════════════════════════════
-# PhD AI Research Relevance Scorer (0–100)
-# ══════════════════════════════════════════════════════════
+# ══════════════════════════════════════════════════════════════
+# Relevance Scorer (0–100)
+# Priorities: Public, AI-focused, Professional
+# Deprioritizes: Non-AI STEM, private/restricted, non-professional
+# ══════════════════════════════════════════════════════════════
 
-# Sources known to produce PhD-level research content
+# Base scores by source — how AI-focused & professional the source is
 SOURCE_SCORES = {
-    "ttic": 95,              # Top-tier CS research institute
-    "uchicago_cs_ical": 90,  # UChicago CS dept
-    "uchicago_dsi_ical": 85, # UChicago Data Science Institute
-    "chicago_quantum": 80,   # Quantum research consortium
-    "fermilab": 70,          # National lab (physics-heavy, some AI)
-    "uchicago_ai_tag": 90,
-    "uchicago_cs_tag": 85,
-    "uchicago_ds_tag": 80,
+    # ── AI research institutions (public talks) ──
+    "ttic": 90,              # Pure AI/CS research, all talks public
+    "uchicago_cs_ical": 80,  # Strong CS dept, public seminars
+    "uchicago_dsi_ical": 85, # Data Science = very AI-adjacent
+    "uchicago_ai_tag": 90,   # Explicitly AI-tagged
+    "uchicago_cs_tag": 75,   # CS-tagged (may include non-AI CS)
+    "uchicago_ds_tag": 80,   # Data science tagged
     "uchicago_dsi_rss": 80,
-    "uchicago_events": 60,   # General UChicago (filtered)
-    "depaul": 50,
-    "uic_events": 55,
-    # Meetups: AI-focused
-    "meetup_aittg": 55,
-    "meetup_aichicago": 50,
-    "meetup_ai_ml_cv": 55,
-    "meetup_ai_2030": 45,
-    "meetup_ai_professionals": 40,
-    "meetup_ai_llms": 55,
-    "meetup_nlp": 60,
-    "meetup_chicago_ml": 60,
-    "meetup_ml_study": 65,    # Study group = deeper
-    "meetup_naperville_ml": 45,
-    "meetup_odsc": 50,
-    "meetup_ds_dojo": 45,
-    "meetup_women_ai": 50,
-    "meetup_cloud_native_ai": 45,
-    # Data science
-    "meetup_pydata": 55,
-    "meetup_datanight": 45,
-    "meetup_data_traders": 40,
-    "meetup_analytics_club": 35,
-    "meetup_analytics_cloud": 35,
+    "uchicago_events": 40,   # General campus — could be anything
+    "depaul": 35,            # General university
+    "uic_events": 35,
+
+    # ── Non-AI STEM (deranked) ──
+    "chicago_quantum": 30,   # Quantum physics, not AI unless crossover
+    "fermilab": 20,          # Particle physics — rarely AI
+
+    # ── AI/ML meetups (public, professional) ──
+    "meetup_aittg": 65,      # AI deep dives, technical
+    "meetup_aichicago": 60,  # AI-focused community
+    "meetup_ai_ml_cv": 65,   # AI/ML/CV — core topic
+    "meetup_ai_2030": 55,    # Responsible AI
+    "meetup_ai_professionals": 55,  # AI professionals
+    "meetup_ai_llms": 70,    # LLM-focused = very relevant now
+    "meetup_nlp": 70,        # NLP = core AI
+    "meetup_chicago_ml": 70, # ML community
+    "meetup_ml_study": 65,   # ML study group
+    "meetup_naperville_ml": 50,
+    "meetup_odsc": 55,       # Data science conference community
+    "meetup_ds_dojo": 50,
+    "meetup_women_ai": 60,   # AI-focused, professional
+    "meetup_cloud_native_ai": 55,  # AI + infrastructure
+
+    # ── Data science / analytics ──
+    "meetup_pydata": 55,     # Python data science
+    "meetup_datanight": 55,  # Data night — speakers, professional
+    "meetup_data_traders": 50,  # AI in finance
+    "meetup_analytics_club": 45,
+    "meetup_analytics_cloud": 40,
     "meetup_big_data": 40,
-    "meetup_dataiku": 50,
-    "meetup_data_eng": 40,
-    # Dev communities
-    "meetup_chipy": 45,
-    "meetup_pyladies": 40,
-    "meetup_graphdb": 45,
-    "meetup_js_chi": 25,
-    "meetup_dotnet": 20,
-    "meetup_nscoder": 15,
-    "meetup_rust": 30,
-    "meetup_kotlin": 15,
-    "meetup_java": 15,
-    "meetup_product": 10,
-    # Infra/DevOps
-    "meetup_platform_eng": 25,
-    "meetup_pulumi": 20,
-    "meetup_aws": 25,
-    "meetup_gdg_cloud": 30,
-    "meetup_gdg": 30,
-    "meetup_grafana": 20,
-    "meetup_k8s": 20,
-    # Security
-    "meetup_burbsec": 20,
-    "meetup_ics_cyber": 25,
-    "meetup_devsecops": 20,
-    "meetup_cyberyacht": 15,
-    # Blockchain
-    "meetup_lfdt": 30,
-    "meetup_bitcoin": 15,
-    "meetup_bitdevs": 20,
-    # Startup/networking
-    "meetup_startup_grind": 15,
-    "meetup_techmixer": 10,
-    "meetup_startup_council": 10,
-    "meetup_founder_101": 10,
-    "meetup_startup_oasis": 10,
-    "meetup_founders_therapy": 5,
-    "meetup_bootstrappers": 5,
-    "meetup_primewise": 10,
-    "meetup_r_users": 40,
-    "meetup_acm": 50,
+    "meetup_dataiku": 60,    # AI agent builders — very relevant
+    "meetup_data_eng": 35,   # Data engineering, less AI
+
+    # ── AI + Startup/VC crossover (boosted — VCs spend on AI) ──
+    "meetup_startup_grind": 45,   # Founders + AI crossover
+    "meetup_techmixer": 35,       # General tech networking
+    "meetup_startup_council": 40, # Fundraising — AI startups relevant
+    "meetup_founder_101": 35,     # Early stage
+    "meetup_startup_oasis": 30,   # Cofounder matching
+    "meetup_founders_therapy": 25,
+    "meetup_bootstrappers": 25,
+    "meetup_primewise": 40,       # VC connect
+
+    # ── Dev communities (ranked by AI relevance) ──
+    "meetup_chipy": 45,      # Python = AI's language
+    "meetup_pyladies": 45,
+    "meetup_graphdb": 45,    # Graph AI = relevant
+    "meetup_r_users": 35,    # R is more stats than AI
+    "meetup_acm": 50,        # Professional CS org
+    "meetup_js_chi": 20,
+    "meetup_dotnet": 15,
+    "meetup_nscoder": 10,
+    "meetup_rust": 20,
+    "meetup_kotlin": 10,
+    "meetup_java": 10,
+    "meetup_product": 20,    # Product management — AI product people
+
+    # ── Infra/DevOps (low AI relevance) ──
+    "meetup_platform_eng": 20,
+    "meetup_pulumi": 15,
+    "meetup_aws": 25,        # AWS has AI services
+    "meetup_gdg_cloud": 30,  # Google = AI company
+    "meetup_gdg": 35,        # Google dev = likely AI content
+    "meetup_grafana": 15,
+    "meetup_k8s": 15,
+
+    # ── Security (low AI unless crossover) ──
+    "meetup_burbsec": 15,
+    "meetup_ics_cyber": 15,
+    "meetup_devsecops": 15,
+    "meetup_cyberyacht": 10,
+
+    # ── Blockchain (low AI unless crossover) ──
+    "meetup_lfdt": 25,       # "Agentic AI + open source" shows up here
+    "meetup_bitcoin": 10,
+    "meetup_bitdevs": 10,
 }
 
-# Keywords that boost relevance to PhD AI research (and their weights)
-RESEARCH_BOOST_KEYWORDS = {
-    # Core AI/ML research terms (+15-25 each)
-    "transformer": 20, "attention mechanism": 25, "diffusion model": 25,
-    "reinforcement learning": 25, "generative model": 20, "foundation model": 20,
-    "large language model": 20, "representation learning": 25,
-    "graph neural": 20, "contrastive learning": 20, "self-supervised": 25,
-    "few-shot": 20, "zero-shot": 20, "meta-learning": 25,
-    "neural architecture": 20, "optimization": 15, "convex": 20,
-    "variational": 20, "bayesian": 20, "gaussian process": 25,
-    "kernel method": 20, "causal inference": 25, "causal discovery": 25,
-    # Research activity terms (+10-15)
-    "paper": 10, "arxiv": 15, "publication": 10, "thesis": 15,
-    "dissertation": 15, "phd": 15, "doctoral": 15, "postdoc": 15,
-    "faculty": 10, "professor": 10, "colloquium": 15, "seminar": 10,
-    "lecture series": 10, "research talk": 15, "invited talk": 15,
-    "peer review": 15, "proceedings": 10, "journal club": 15,
-    # Specific research areas (+10-15)
-    "nlp": 15, "natural language processing": 15, "computer vision": 15,
-    "speech recognition": 10, "robotics": 10, "multi-agent": 15,
-    "planning": 10, "reasoning": 15, "theorem proving": 20,
-    "formal verification": 15, "interpretability": 20, "alignment": 15,
-    "fairness": 10, "robustness": 15, "adversarial": 15,
-    "federated learning": 15, "privacy": 10, "differential privacy": 20,
-    "information theory": 20, "complexity theory": 20, "approximation": 15,
-    "convergence": 15, "sample complexity": 20, "generalization": 15,
-    "statistical learning": 20, "pac learning": 25,
-    # Prestigious venue/org signals (+10)
-    "neurips": 15, "icml": 15, "iclr": 15, "aaai": 15, "cvpr": 15,
-    "acl ": 15, "emnlp": 15, "uai": 15, "colt": 15, "aistats": 15,
-    "ttic": 10, "uchicago": 5, "argonne": 5, "fermilab": 5,
+# Keywords that BOOST score — AI-focused, public, professional signals
+BOOST_KEYWORDS = {
+    # ── Core AI terms (high boost) ──
+    "artificial intelligence": 20, "machine learning": 15,
+    "deep learning": 20, "neural network": 15,
+    "transformer": 20, "attention mechanism": 20,
+    "large language model": 25, "llm": 20, "gpt": 15, "claude": 15,
+    "diffusion model": 20, "generative ai": 20, "genai": 15,
+    "foundation model": 20, "fine-tuning": 15, "fine tuning": 15,
+    "reinforcement learning": 20, "rlhf": 20,
+    "representation learning": 15, "embedding": 10,
+    "contrastive learning": 15, "self-supervised": 15,
+    "few-shot": 15, "zero-shot": 15, "in-context learning": 20,
+    "prompt engineering": 10, "chain of thought": 15,
+    "retrieval augmented": 15, "rag": 10,
+    "multi-agent": 15, "agentic": 15, "ai agent": 20,
+    "autonomous agent": 15,
+
+    # ── AI application areas ──
+    "nlp": 15, "natural language processing": 15,
+    "computer vision": 10, "speech recognition": 10,
+    "recommendation system": 10, "information retrieval": 10,
+    "knowledge graph": 10, "reasoning": 10,
+    "interpretability": 15, "explainability": 10,
+    "alignment": 15, "ai safety": 20,
+    "ai ethics": 10, "responsible ai": 10,
+    "adversarial": 10, "robustness": 10,
+
+    # ── AI research signals ──
+    "colloquium": 10, "seminar": 5, "lecture series": 5,
+    "research talk": 10, "invited talk": 10,
+    "paper": 5, "arxiv": 10, "preprint": 10,
+    "phd": 10, "doctoral": 10, "postdoc": 10,
+    "professor": 5, "faculty": 5,
+    "neurips": 10, "icml": 10, "iclr": 10, "aaai": 10,
+    "cvpr": 5, "acl ": 5, "emnlp": 5,
+
+    # ── AI industry/VC signals (startup crossover) ──
+    "ai startup": 15, "ai company": 10, "ai product": 10,
+    "ai venture": 10, "ai investment": 10,
+    "openai": 10, "anthropic": 10, "deepmind": 10, "google ai": 10,
+    "meta ai": 10, "nvidia": 5, "hugging face": 10,
+    "ai infrastructure": 10, "gpu": 5, "compute": 5,
+    "ai deployment": 10, "mlops": 10,
+    "ai in production": 10, "scaling": 5,
+
+    # ── Public/open signals ──
+    "open to public": 10, "free": 5, "public lecture": 10,
+    "open source": 5, "community": 5,
+
+    # ── Professional setting signals ──
+    "panel": 5, "fireside chat": 5, "keynote": 10,
+    "conference": 5, "summit": 5, "symposium": 5,
+    "demo day": 10, "show and tell": 5,
+    "workshop": 5, "tutorial": 5,
 }
 
-# Keywords that reduce relevance (networking, social, beginner)
-RESEARCH_PENALTY_KEYWORDS = {
-    "networking event": -15, "happy hour": -20, "mixer": -20,
-    "social hour": -15, "career fair": -15, "job fair": -15,
-    "beginner": -10, "intro to": -10, "101": -10,
-    "pitch competition": -15, "fundraising": -20, "investor": -15,
-    "cofounder matching": -20, "founder therapy": -20,
-    "breakfast meetup": -10, "coffee chat": -10,
-    "bootcamp": -10, "certification": -15,
+# Keywords that PENALIZE — non-AI, private, non-professional
+PENALTY_KEYWORDS = {
+    # ── Non-AI STEM (user wants AI specifically) ──
+    "particle physics": -20, "high energy physics": -20,
+    "astrophysics": -15, "cosmology": -15,
+    "biology": -10, "chemistry": -10, "geology": -15,
+    "mechanical engineering": -15, "civil engineering": -15,
+    "electrical engineering": -10,
+    "robotics competition": -10,
+    "quantum computing": -5,    # Mild penalty — some AI crossover
+    "quantum mechanics": -15,   # Pure physics
+    "accelerator": -15,         # Particle physics
+    "neutrino": -20, "higgs": -20, "dark matter": -20,
+
+    # ── Non-professional / casual ──
+    "happy hour": -10, "social hour": -10,
+    "coffee chat": -5,
+    "career fair": -10, "job fair": -10,
+    "certification": -10, "bootcamp": -5,
+
+    # ── Private/restricted ──
+    "members only": -15, "private event": -15,
+    "invite only": -10, "internal": -10,
+
+    # ── Non-AI dev topics ──
+    "wordpress": -15, "php": -10,
+    "accounting": -20, "tax": -20, "compliance": -15,
+    "real estate": -15, "mortgage": -15,
+    "yoga": -20, "meditation": -15, "wellness": -15,
+    "dance": -20, "music performance": -15, "art exhibit": -15,
+    "sports": -15, "game night": -10,
 }
 
 
@@ -695,7 +753,7 @@ def infer_source(event):
 
 
 def score_research_relevance(event):
-    """Score an event 0-100 for PhD AI research relevance."""
+    """Score an event 0-100 for AI relevance. Prioritizes: public, AI-focused, professional."""
     source = event.get("source", "") or infer_source(event)
     text = (event.get("name", "") + " " + event.get("description", "") + " " +
             event.get("category", "")).lower()
@@ -704,12 +762,12 @@ def score_research_relevance(event):
     score = SOURCE_SCORES.get(source, 30)
 
     # Apply keyword boosts
-    for keyword, boost in RESEARCH_BOOST_KEYWORDS.items():
+    for keyword, boost in BOOST_KEYWORDS.items():
         if keyword in text:
             score += boost
 
     # Apply penalties
-    for keyword, penalty in RESEARCH_PENALTY_KEYWORDS.items():
+    for keyword, penalty in PENALTY_KEYWORDS.items():
         if keyword in text:
             score += penalty  # penalty is negative
 

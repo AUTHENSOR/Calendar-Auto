@@ -57,7 +57,7 @@ const EVENTS = {
       "priority": "medium",
       "description": "Presentation + hackathon breakouts. Civic tech, open data, community.",
       "active_period": "year_round",
-      "relevance": 45,
+      "relevance": 50,
       "tier": "moderate"
     },
     {
@@ -72,7 +72,7 @@ const EVENTS = {
       "priority": "high",
       "description": "Weekly research talks on CS theory. Free, open to Chicago-area researchers.",
       "active_period": "academic_year",
-      "relevance": 100,
+      "relevance": 95,
       "tier": "essential"
     },
     {
@@ -87,8 +87,8 @@ const EVENTS = {
       "priority": "medium",
       "description": "Weekly virtual AI deep dive webinar. GenAI, LLMs, agents, ML.",
       "active_period": "year_round",
-      "relevance": 55,
-      "tier": "moderate"
+      "relevance": 100,
+      "tier": "essential"
     }
   ],
   "recurring_monthly": [
@@ -105,8 +105,8 @@ const EVENTS = {
       "priority": "high",
       "description": "Technical show-and-tell for active AI builders. 5-min live demos. Screened admission.",
       "active_period": "year_round",
-      "relevance": 50,
-      "tier": "moderate"
+      "relevance": 60,
+      "tier": "strong"
     },
     {
       "id": "chipy",
@@ -169,8 +169,8 @@ const EVENTS = {
       "priority": "medium",
       "description": "Guest speaker on data topic, networking, Q&A.",
       "active_period": "year_round",
-      "relevance": 60,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "analytics-club",
@@ -185,8 +185,8 @@ const EVENTS = {
       "priority": "low",
       "description": "World's largest volunteer-led analytics and AI community.",
       "active_period": "year_round",
-      "relevance": 35,
-      "tier": "tangential"
+      "relevance": 50,
+      "tier": "moderate"
     },
     {
       "id": "ai-agent-builders",
@@ -201,8 +201,8 @@ const EVENTS = {
       "priority": "medium",
       "description": "Enterprise AI agents: designing, deploying, managing. Bring prototypes.",
       "active_period": "year_round",
-      "relevance": 50,
-      "tier": "moderate"
+      "relevance": 80,
+      "tier": "essential"
     },
     {
       "id": "chicago-ai-meetup",
@@ -217,8 +217,8 @@ const EVENTS = {
       "priority": "medium",
       "description": "Speaker + networking exploring AI/ML trends.",
       "active_period": "year_round",
-      "relevance": 30,
-      "tier": "tangential"
+      "relevance": 50,
+      "tier": "moderate"
     }
   ],
   "recurring_quarterly_seasonal": [
@@ -238,7 +238,7 @@ const EVENTS = {
         "2026-02-04/2026-03-11",
         "2026-04-08/2026-05-20"
       ],
-      "relevance": 90,
+      "relevance": 80,
       "tier": "essential"
     },
     {
@@ -255,8 +255,8 @@ const EVENTS = {
       "active_periods": [
         "2026-01-24/2026-04-18"
       ],
-      "relevance": 75,
-      "tier": "strong"
+      "relevance": 20,
+      "tier": "tangential"
     }
   ],
   "specific_dates": [
@@ -281,8 +281,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/google-developers-group-gdg-chicago/events/313759400/",
       "category": "Dev/Google",
-      "relevance": 30,
-      "tier": "tangential"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-primewise-founders-club-vc-connect-and-n-2026-03-14",
@@ -293,8 +293,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/primewise-founders-club-chicago-2/events/313768327/",
       "category": "Startup/VC",
-      "relevance": 15,
-      "tier": "low"
+      "relevance": 30,
+      "tier": "tangential"
     },
     {
       "id": "scraped-uchicago-dsi-gtc-26-keynote-watch-party--2026-03-16",
@@ -305,7 +305,7 @@ const EVENTS = {
       "location": "Data Science Institute, Room 105",
       "url": "https://datascience.uchicago.edu/events/gtc26-keynote-watch-party-at-uchicago/",
       "category": "Data Science",
-      "relevance": 90,
+      "relevance": 95,
       "tier": "essential"
     },
     {
@@ -317,8 +317,8 @@ const EVENTS = {
       "location": "1st floor Atrium of Wilson Hall",
       "url": "https://events.fnal.gov/events/event/public-tour-5/",
       "category": "Physics/Science",
-      "relevance": 75,
-      "tier": "strong"
+      "relevance": 20,
+      "tier": "tangential"
     },
     {
       "id": "scraped-ai-professionals-build-your-brand-story--2026-03-16",
@@ -329,7 +329,7 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/ai-professionals-chicago/events/313659338/",
       "category": "AI/ML",
-      "relevance": 30,
+      "relevance": 35,
       "tier": "tangential"
     },
     {
@@ -353,7 +353,7 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/graphdb-midwest/events/313296274/",
       "category": "Data/Graphs",
-      "relevance": 45,
+      "relevance": 50,
       "tier": "moderate"
     },
     {
@@ -365,7 +365,7 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/chicago-startup-founder-101/events/313730386/",
       "category": "Startup",
-      "relevance": 20,
+      "relevance": 30,
       "tier": "tangential"
     },
     {
@@ -377,7 +377,7 @@ const EVENTS = {
       "location": "UChicago Data Science Institute",
       "url": "https://datascience.uchicago.edu/events/dsi-events/",
       "category": "Data Science",
-      "relevance": 95,
+      "relevance": 100,
       "tier": "essential"
     },
     {
@@ -389,7 +389,7 @@ const EVENTS = {
       "location": "Drive Capital, 215 N Peoria Street",
       "url": "https://datascience.uchicago.edu/events/chicago-data-night-jarvis-alexander-cfa-finra/",
       "category": "Data Science",
-      "relevance": 90,
+      "relevance": 85,
       "tier": "essential"
     },
     {
@@ -401,7 +401,7 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/chicago-ai-machine-learning-data-science/events/313103276/",
       "category": "AI/ML",
-      "relevance": 45,
+      "relevance": 50,
       "tier": "moderate"
     },
     {
@@ -413,8 +413,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/ac-ord/events/304912966/",
       "category": "Analytics/AI",
-      "relevance": 20,
-      "tier": "tangential"
+      "relevance": 45,
+      "tier": "moderate"
     },
     {
       "id": "scraped-analytics-club-agentic-ai-multimodal-mon-2026-03-18",
@@ -425,8 +425,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/ac-ord/events/313548806/",
       "category": "Analytics/AI",
-      "relevance": 15,
-      "tier": "low"
+      "relevance": 60,
+      "tier": "strong"
     },
     {
       "id": "scraped-platform-eng-infra-governance-for-rule-b-2026-03-18",
@@ -449,8 +449,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/chicago-cyber-security-for-control-systems/events/313751925/",
       "category": "Security/ICS",
-      "relevance": 40,
-      "tier": "moderate"
+      "relevance": 35,
+      "tier": "tangential"
     },
     {
       "id": "scraped-lf-decentralized-webinar-with-gateway-pr-2026-03-18",
@@ -461,8 +461,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/lfdt-chicago/events/313449908/",
       "category": "Blockchain/AI",
-      "relevance": 40,
-      "tier": "moderate"
+      "relevance": 30,
+      "tier": "tangential"
     },
     {
       "id": "ai-tinkerers-mar19",
@@ -473,8 +473,8 @@ const EVENTS = {
       "location": "Fulton Market, Chicago",
       "url": "https://chicago.aitinkerers.org/",
       "category": "AI Builders",
-      "relevance": 50,
-      "tier": "moderate"
+      "relevance": 60,
+      "tier": "strong"
     },
     {
       "id": "scraped-pydata-chicago-investing-for-financial-f-2026-03-19",
@@ -521,8 +521,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/aws-chicago/events/313346758/",
       "category": "Cloud/AWS",
-      "relevance": 15,
-      "tier": "low"
+      "relevance": 30,
+      "tier": "tangential"
     },
     {
       "id": "scraped-burbsec-west-sponsors-wanted-2026-03-19",
@@ -545,8 +545,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/chicago-startup-founder-101/events/313448471/",
       "category": "Startup",
-      "relevance": 5,
-      "tier": "low"
+      "relevance": 30,
+      "tier": "tangential"
     },
     {
       "id": "scraped-founders-therapy-founder-s-therapy-coffe-2026-03-19",
@@ -581,8 +581,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://events.uchicago.edu/event/261635-python-for-data-science-course-information-session",
       "category": "University",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-quantum-monthly-bloch-engines-community--2026-03-20",
@@ -593,8 +593,8 @@ const EVENTS = {
       "location": "Chicago (various)",
       "url": "",
       "category": "Quantum/Physics",
-      "relevance": 80,
-      "tier": "essential"
+      "relevance": 35,
+      "tier": "tangential"
     },
     {
       "id": "scraped-bitcoin-chicago-chicago-bitcoin-collecti-2026-03-21",
@@ -617,7 +617,7 @@ const EVENTS = {
       "location": "TTIC-5-530 (68)",
       "url": "",
       "category": "AI/CS Research",
-      "relevance": 100,
+      "relevance": 95,
       "tier": "essential"
     },
     {
@@ -629,7 +629,7 @@ const EVENTS = {
       "location": "Data Science Institute, Room 105",
       "url": "https://datascience.uchicago.edu/events/deb-raji-uc-berkeley-cs-and-dsi-joint-colloquium/",
       "category": "Data Science",
-      "relevance": 100,
+      "relevance": 95,
       "tier": "essential"
     },
     {
@@ -641,8 +641,8 @@ const EVENTS = {
       "location": "Chicago (various)",
       "url": "",
       "category": "Quantum/Physics",
-      "relevance": 80,
-      "tier": "essential"
+      "relevance": 30,
+      "tier": "tangential"
     },
     {
       "id": "scraped-lf-decentralized-agentic-ai-the-technolo-2026-03-23",
@@ -653,8 +653,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/lfdt-chicago/events/313658127/",
       "category": "Blockchain/AI",
-      "relevance": 30,
-      "tier": "tangential"
+      "relevance": 50,
+      "tier": "moderate"
     },
     {
       "id": "scraped-founder-101-startup-advisors-101-how-to--2026-03-23",
@@ -665,7 +665,7 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/chicago-startup-founder-101/events/313432302/",
       "category": "Startup",
-      "relevance": 20,
+      "relevance": 30,
       "tier": "tangential"
     },
     {
@@ -689,8 +689,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/chicago-startup-founders/events/313645587/",
       "category": "Startup",
-      "relevance": 0,
-      "tier": "low"
+      "relevance": 35,
+      "tier": "tangential"
     },
     {
       "id": "scraped-uchicago-quantum-teaching-and-learning-s-2026-03-24",
@@ -701,8 +701,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://events.uchicago.edu/event/quantum-teaching-and-learning-valeriegoss",
       "category": "University",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-uchicago-shuangping-li-yale-university-o-2026-03-24",
@@ -713,8 +713,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://events.uchicago.edu/event/260101-shuangping-li-yale-university-tba-combinatorics",
       "category": "University",
-      "relevance": 75,
-      "tier": "strong"
+      "relevance": 45,
+      "tier": "moderate"
     },
     {
       "id": "scraped-uchicago-dsi-qing-qu-umich-cs-and-dsi-jo-2026-03-25",
@@ -725,7 +725,7 @@ const EVENTS = {
       "location": "Data Science Institute, Room 105",
       "url": "https://datascience.uchicago.edu/events/qing-qu-um-ann-arbor-cs-and-dsi-joint-colloquium/",
       "category": "Data Science",
-      "relevance": 100,
+      "relevance": 95,
       "tier": "essential"
     },
     {
@@ -737,7 +737,7 @@ const EVENTS = {
       "location": "Data Science Institute, Room 105",
       "url": "https://datascience.uchicago.edu/events/aice-speaker-series-daniel-c-reuman-university-of-kansas/",
       "category": "Data Science",
-      "relevance": 90,
+      "relevance": 85,
       "tier": "essential"
     },
     {
@@ -749,7 +749,7 @@ const EVENTS = {
       "location": "Zoom Virtual Conference",
       "url": "https://datascience.uchicago.edu/events/ask-a-student-in-ms-in-applied-data-science-16/",
       "category": "Data Science",
-      "relevance": 90,
+      "relevance": 85,
       "tier": "essential"
     },
     {
@@ -785,8 +785,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/data-science-dojo-chicago/events/313716298/",
       "category": "AI/ML",
-      "relevance": 30,
-      "tier": "tangential"
+      "relevance": 50,
+      "tier": "moderate"
     },
     {
       "id": "scraped-gdg-cloud-gdg-grafana-and-friends-chicag-2026-03-25",
@@ -809,7 +809,7 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/chicago-startup-founder-101/events/313724721/",
       "category": "Startup",
-      "relevance": 20,
+      "relevance": 30,
       "tier": "tangential"
     },
     {
@@ -821,7 +821,7 @@ const EVENTS = {
       "location": "UChicago Data Science Institute",
       "url": "https://datascience.uchicago.edu/events/dsi-events/",
       "category": "Data Science",
-      "relevance": 95,
+      "relevance": 90,
       "tier": "essential"
     },
     {
@@ -833,7 +833,7 @@ const EVENTS = {
       "location": "TTIC-5-530 (68)",
       "url": "",
       "category": "AI/CS Research",
-      "relevance": 100,
+      "relevance": 95,
       "tier": "essential"
     },
     {
@@ -845,8 +845,8 @@ const EVENTS = {
       "location": "Fermilab, Batavia, IL",
       "url": "https://events.fnal.gov/events/event/community-advisory-board-meeting-2/",
       "category": "Physics/Science",
-      "relevance": 75,
-      "tier": "strong"
+      "relevance": 25,
+      "tier": "tangential"
     },
     {
       "id": "scraped-chicago-ai-ml-cv-march-26-advances-in-ai-2026-03-26",
@@ -869,8 +869,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/data-driven-traders-network/events/313670081/",
       "category": "AI/Finance",
-      "relevance": 30,
-      "tier": "tangential"
+      "relevance": 45,
+      "tier": "moderate"
     },
     {
       "id": "scraped-analytics-club-aidatatech-connect-global-2026-03-26",
@@ -881,8 +881,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/ac-ord/events/313673984/",
       "category": "Analytics/AI",
-      "relevance": 20,
-      "tier": "tangential"
+      "relevance": 45,
+      "tier": "moderate"
     },
     {
       "id": "scraped-odsc-chicago-webinar-will-ai-take-your-j-2026-03-26",
@@ -905,7 +905,7 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/graphdb-midwest/events/313296555/",
       "category": "Data/Graphs",
-      "relevance": 45,
+      "relevance": 40,
       "tier": "moderate"
     },
     {
@@ -941,7 +941,7 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/startup-grind-chicago/events/313545504/",
       "category": "Startup",
-      "relevance": 30,
+      "relevance": 35,
       "tier": "tangential"
     },
     {
@@ -953,8 +953,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/chicagomixer/events/310833876/",
       "category": "Tech Networking",
-      "relevance": 10,
-      "tier": "low"
+      "relevance": 30,
+      "tier": "tangential"
     },
     {
       "id": "scraped-startup-oasis-find-a-cofounder-help-or-j-2026-03-26",
@@ -977,8 +977,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://datascience.uchicago.edu/events/data-science-seminar-series-roger-moore/",
       "category": "University",
-      "relevance": 75,
-      "tier": "strong"
+      "relevance": 45,
+      "tier": "moderate"
     },
     {
       "id": "scraped-ttic-research-at-ttic-tba-2026-03-27",
@@ -989,7 +989,7 @@ const EVENTS = {
       "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
       "url": "",
       "category": "AI/CS Research",
-      "relevance": 100,
+      "relevance": 90,
       "tier": "essential"
     },
     {
@@ -1001,7 +1001,7 @@ const EVENTS = {
       "location": "TTIC-5-530 (68)",
       "url": "",
       "category": "AI/CS Research",
-      "relevance": 100,
+      "relevance": 90,
       "tier": "essential"
     },
     {
@@ -1013,7 +1013,7 @@ const EVENTS = {
       "location": "Data Science Institute, Room 105, 5460 S University Ave",
       "url": "https://datascience.uchicago.edu/events/ingrid-daubechies-duke-distinguished-speaker-series/",
       "category": "Data Science",
-      "relevance": 90,
+      "relevance": 85,
       "tier": "essential"
     },
     {
@@ -1037,7 +1037,7 @@ const EVENTS = {
       "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
       "url": "",
       "category": "AI/CS Research",
-      "relevance": 100,
+      "relevance": 90,
       "tier": "essential"
     },
     {
@@ -1049,8 +1049,8 @@ const EVENTS = {
       "location": "1st floor Atrium of Wilson Hall",
       "url": "https://events.fnal.gov/events/event/public-tour/",
       "category": "Physics/Science",
-      "relevance": 75,
-      "tier": "strong"
+      "relevance": 20,
+      "tier": "tangential"
     },
     {
       "id": "scraped-aws-chicago-march-tech-talks-2026-03-30",
@@ -1073,7 +1073,7 @@ const EVENTS = {
       "location": "TTIC-5-529 (24)",
       "url": "",
       "category": "AI/CS Research",
-      "relevance": 100,
+      "relevance": 90,
       "tier": "essential"
     },
     {
@@ -1085,8 +1085,8 @@ const EVENTS = {
       "location": "Chicago (various)",
       "url": "",
       "category": "Quantum/Physics",
-      "relevance": 90,
-      "tier": "essential"
+      "relevance": 35,
+      "tier": "tangential"
     },
     {
       "id": "scraped-data-traders-ai-business-growth-tuesdays-2026-03-31",
@@ -1133,8 +1133,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/platform-engineers-chicago/events/313396950/",
       "category": "DevOps/Platform",
-      "relevance": 30,
-      "tier": "tangential"
+      "relevance": 50,
+      "tier": "moderate"
     },
     {
       "id": "scraped-pulumi-chicago-zero-to-production-in-kub-2026-03-31",
@@ -1157,7 +1157,7 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/graphdb-midwest/events/313296423/",
       "category": "Data/Graphs",
-      "relevance": 45,
+      "relevance": 55,
       "tier": "moderate"
     },
     {
@@ -1169,8 +1169,8 @@ const EVENTS = {
       "location": "Chicago (various)",
       "url": "",
       "category": "Quantum/Physics",
-      "relevance": 80,
-      "tier": "essential"
+      "relevance": 30,
+      "tier": "tangential"
     },
     {
       "id": "scraped-depaul-student-recital-darren-carter-vio-2026-04-01",
@@ -1193,7 +1193,7 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/graphdb-midwest/events/313758084/",
       "category": "Data/Graphs",
-      "relevance": 45,
+      "relevance": 40,
       "tier": "moderate"
     },
     {
@@ -1205,7 +1205,7 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/chicago-cyber-security-for-control-systems/events/313761870/",
       "category": "Security/ICS",
-      "relevance": 30,
+      "relevance": 35,
       "tier": "tangential"
     },
     {
@@ -1241,8 +1241,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://events.uchicago.edu/event/undergrad-how-to-think-about-ai-for-learning",
       "category": "University",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 80,
+      "tier": "essential"
     },
     {
       "id": "scraped-chicago-ai-ml-cv-april-2-ai-ml-and-compu-2026-04-02",
@@ -1313,7 +1313,7 @@ const EVENTS = {
       "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
       "url": "",
       "category": "AI/CS Research",
-      "relevance": 100,
+      "relevance": 90,
       "tier": "essential"
     },
     {
@@ -1325,8 +1325,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/ac-ord/events/xjqvstyjcgbfb/",
       "category": "Analytics/AI",
-      "relevance": 35,
-      "tier": "tangential"
+      "relevance": 45,
+      "tier": "moderate"
     },
     {
       "id": "scraped-naperville-ml-event-agentic-ai-roadshow--2026-04-03",
@@ -1337,8 +1337,8 @@ const EVENTS = {
       "location": "Naperville, IL",
       "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/313748839/",
       "category": "AI/ML",
-      "relevance": 30,
-      "tier": "tangential"
+      "relevance": 45,
+      "tier": "moderate"
     },
     {
       "id": "scraped-ttic-colloquium-raymond-a-yeh-purdue-uni-2026-04-06",
@@ -1361,8 +1361,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/data-science-dojo-chicago/events/313731766/",
       "category": "AI/ML",
-      "relevance": 30,
-      "tier": "tangential"
+      "relevance": 50,
+      "tier": "moderate"
     },
     {
       "id": "scraped-cloud-native-ai-building-trusted-ai-on-c-2026-04-06",
@@ -1385,8 +1385,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://events.uchicago.edu/event/261028-the-future-of-the-study-of-religion-ii",
       "category": "AI Research",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "schmidt-ai-apr7",
@@ -1397,8 +1397,8 @@ const EVENTS = {
       "location": "Eckhardt Research Center Room 401, UChicago",
       "url": "https://datascience.uchicago.edu/research/ai-science/partnerships/seminar-series/",
       "category": "AI in Science",
-      "relevance": 60,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-data-traders-ai-business-growth-tuesdays-2026-04-07",
@@ -1421,8 +1421,8 @@ const EVENTS = {
       "location": "Naperville, IL",
       "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/313761561/",
       "category": "AI/ML",
-      "relevance": 30,
-      "tier": "tangential"
+      "relevance": 45,
+      "tier": "moderate"
     },
     {
       "id": "scraped-uchicago-dsi-aice-speaker-series-colm-ci-2026-04-08",
@@ -1433,7 +1433,7 @@ const EVENTS = {
       "location": "Data Science Institute, Room 105",
       "url": "https://datascience.uchicago.edu/events/aice-speaker-series-colm-cille-p-caulfield-cambridge/",
       "category": "Data Science",
-      "relevance": 90,
+      "relevance": 85,
       "tier": "essential"
     },
     {
@@ -1457,8 +1457,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/ac-ord/events/312885524/",
       "category": "Analytics/AI",
-      "relevance": 15,
-      "tier": "low"
+      "relevance": 55,
+      "tier": "moderate"
     },
     {
       "id": "scraped-cyberyacht-wednesday-pre-season-strategy-2026-04-08",
@@ -1481,7 +1481,7 @@ const EVENTS = {
       "location": "Data Science Institute, Room 105, 5460 S University Ave",
       "url": "https://datascience.uchicago.edu/events/lillian-lee-cornell-distinguished-speaker-series/",
       "category": "Data Science",
-      "relevance": 90,
+      "relevance": 85,
       "tier": "essential"
     },
     {
@@ -1493,7 +1493,7 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/chicago-ai-machine-learning-data-science/events/313207140/",
       "category": "AI/ML",
-      "relevance": 30,
+      "relevance": 35,
       "tier": "tangential"
     },
     {
@@ -1505,8 +1505,8 @@ const EVENTS = {
       "location": "Naperville, IL",
       "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/313748689/",
       "category": "AI/ML",
-      "relevance": 30,
-      "tier": "tangential"
+      "relevance": 45,
+      "tier": "moderate"
     },
     {
       "id": "scraped-platform-eng-observability-at-the-edge-o-2026-04-09",
@@ -1553,8 +1553,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/chibitdevs/events/312832544/",
       "category": "Blockchain/Dev",
-      "relevance": 40,
-      "tier": "moderate"
+      "relevance": 35,
+      "tier": "tangential"
     },
     {
       "id": "scraped-ttic-research-at-ttic-shiry-ginosar-ttic-2026-04-10",
@@ -1565,7 +1565,7 @@ const EVENTS = {
       "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
       "url": "",
       "category": "AI/CS Research",
-      "relevance": 100,
+      "relevance": 90,
       "tier": "essential"
     },
     {
@@ -1577,7 +1577,7 @@ const EVENTS = {
       "location": "Data Science Institute, Room 105, 5460 S University Ave",
       "url": "https://datascience.uchicago.edu/events/jon-kleinberg-cornell-distinguished-speaker-series/",
       "category": "Data Science",
-      "relevance": 90,
+      "relevance": 85,
       "tier": "essential"
     },
     {
@@ -1589,8 +1589,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/ac-ord/events/mjqvstyjcgbnb/",
       "category": "Analytics/AI",
-      "relevance": 20,
-      "tier": "tangential"
+      "relevance": 45,
+      "tier": "moderate"
     },
     {
       "id": "scraped-depaul-student-recital-elina-kim-viola-2026-04-11",
@@ -1613,7 +1613,7 @@ const EVENTS = {
       "location": "Mudd Hall 3514, Northwestern, Evanston",
       "url": "https://www.mccormick.northwestern.edu/computer-science/news-events/seminars-workshops-talks/cs-colloquium-series.html",
       "category": "CS Research",
-      "relevance": 100,
+      "relevance": 90,
       "tier": "essential"
     },
     {
@@ -1637,8 +1637,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://events.uchicago.edu/event/249880-modularity-of-biological-systems",
       "category": "Data Science",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-uchicago-dsi-ai-science-hackathon-2026-04-14",
@@ -1649,7 +1649,7 @@ const EVENTS = {
       "location": "UChicago Data Science Institute",
       "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
       "category": "Data Science",
-      "relevance": 90,
+      "relevance": 85,
       "tier": "essential"
     },
     {
@@ -1673,8 +1673,8 @@ const EVENTS = {
       "location": "Naperville, IL",
       "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/313768678/",
       "category": "AI/ML",
-      "relevance": 30,
-      "tier": "tangential"
+      "relevance": 45,
+      "tier": "moderate"
     },
     {
       "id": "scraped-chicago-js-ai-helped-me-learn-vue-as-a-r-2026-04-14",
@@ -1685,8 +1685,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/js-chi/events/312068418/",
       "category": "Dev/JavaScript",
-      "relevance": 30,
-      "tier": "tangential"
+      "relevance": 45,
+      "tier": "moderate"
     },
     {
       "id": "scraped-uchicago-ds-modularity-of-biological-sys-2026-04-14",
@@ -1697,8 +1697,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://events.uchicago.edu/event/249880-modularity-of-biological-systems",
       "category": "Data Science",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-analytics-club-agentic-ai-multimodal-mon-2026-04-15",
@@ -1709,8 +1709,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/ac-ord/events/ljqvstyjcgbtb/",
       "category": "Analytics/AI",
-      "relevance": 15,
-      "tier": "low"
+      "relevance": 60,
+      "tier": "strong"
     },
     {
       "id": "scraped-pulumi-chicago-getting-started-on-aws-wi-2026-04-15",
@@ -1733,7 +1733,7 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/graphdb-midwest/events/311907154/",
       "category": "Data/Graphs",
-      "relevance": 45,
+      "relevance": 40,
       "tier": "moderate"
     },
     {
@@ -1757,8 +1757,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
       "category": "University",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-uchicago-ds-modularity-of-biological-sys-2026-04-15",
@@ -1769,8 +1769,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://events.uchicago.edu/event/249880-modularity-of-biological-systems",
       "category": "Data Science",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-chicago-net-monthly-social-what-s-caught-2026-04-16",
@@ -1829,8 +1829,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
       "category": "University",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-uchicago-ds-modularity-of-biological-sys-2026-04-16",
@@ -1841,8 +1841,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://events.uchicago.edu/event/249880-modularity-of-biological-systems",
       "category": "Data Science",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-ttic-research-at-ttic-derek-reiman-ttic-2026-04-17",
@@ -1853,7 +1853,7 @@ const EVENTS = {
       "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
       "url": "",
       "category": "AI/CS Research",
-      "relevance": 100,
+      "relevance": 90,
       "tier": "essential"
     },
     {
@@ -1865,8 +1865,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
       "category": "University",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-uchicago-ds-modularity-of-biological-sys-2026-04-17",
@@ -1877,8 +1877,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://events.uchicago.edu/event/249880-modularity-of-biological-systems",
       "category": "Data Science",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-depaul-student-recital-hannah-kim-violin-2026-04-18",
@@ -1901,8 +1901,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
       "category": "University",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-uchicago-ai-science-hackathon-2026-04-19",
@@ -1913,8 +1913,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
       "category": "University",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-fermilab-public-tour-2026-04-20",
@@ -1925,8 +1925,8 @@ const EVENTS = {
       "location": "1st floor Atrium of Wilson Hall",
       "url": "https://events.fnal.gov/events/event/public-tour-6/",
       "category": "Physics/Science",
-      "relevance": 75,
-      "tier": "strong"
+      "relevance": 20,
+      "tier": "tangential"
     },
     {
       "id": "scraped-quantum-northwestern-quantum-week-2026-04-20",
@@ -1937,8 +1937,8 @@ const EVENTS = {
       "location": "Chicago (various)",
       "url": "",
       "category": "Quantum/Physics",
-      "relevance": 80,
-      "tier": "essential"
+      "relevance": 30,
+      "tier": "tangential"
     },
     {
       "id": "scraped-quantum-opening-workshop-on-superconduct-2026-04-20",
@@ -1949,8 +1949,8 @@ const EVENTS = {
       "location": "Chicago (various)",
       "url": "",
       "category": "Quantum/Physics",
-      "relevance": 80,
-      "tier": "essential"
+      "relevance": 30,
+      "tier": "tangential"
     },
     {
       "id": "scraped-depaul-student-recital-ava-wipff-violin-2026-04-20",
@@ -1973,7 +1973,7 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/chicago-cyber-security-for-control-systems/events/313734664/",
       "category": "Security/ICS",
-      "relevance": 30,
+      "relevance": 35,
       "tier": "tangential"
     },
     {
@@ -1985,8 +1985,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
       "category": "University",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-data-traders-ai-business-growth-tuesdays-2026-04-21",
@@ -2021,8 +2021,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
       "category": "University",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-uchicago-ai-david-radke-phd-chicago-blac-2026-04-21",
@@ -2033,8 +2033,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://events.uchicago.edu/event/262576-david-radke-phd-chicago-blackhawks-nitmb-special",
       "category": "AI Research",
-      "relevance": 90,
-      "tier": "essential"
+      "relevance": 55,
+      "tier": "moderate"
     },
     {
       "id": "scraped-quantum-inaugural-quantum-innovation-sym-2026-04-22",
@@ -2045,8 +2045,8 @@ const EVENTS = {
       "location": "Chicago (various)",
       "url": "",
       "category": "Quantum/Physics",
-      "relevance": 80,
-      "tier": "essential"
+      "relevance": 35,
+      "tier": "tangential"
     },
     {
       "id": "scraped-cyberyacht-wednesday-pre-season-strategy-2026-04-22",
@@ -2069,8 +2069,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
       "category": "University",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-quantum-the-center-for-molecular-quantum-2026-04-23",
@@ -2081,8 +2081,8 @@ const EVENTS = {
       "location": "Chicago (various)",
       "url": "",
       "category": "Quantum/Physics",
-      "relevance": 80,
-      "tier": "essential"
+      "relevance": 35,
+      "tier": "tangential"
     },
     {
       "id": "scraped-depaul-student-recital-kathryn-wolfgram--2026-04-23",
@@ -2105,8 +2105,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/ac-ord/events/djqvstyjcgbfc/",
       "category": "Analytics/AI",
-      "relevance": 20,
-      "tier": "tangential"
+      "relevance": 45,
+      "tier": "moderate"
     },
     {
       "id": "scraped-platform-eng-platform-politics-the-influ-2026-04-23",
@@ -2153,8 +2153,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
       "category": "University",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-ttic-research-at-ttic-yury-makarychev-tt-2026-04-24",
@@ -2165,7 +2165,7 @@ const EVENTS = {
       "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
       "url": "",
       "category": "AI/CS Research",
-      "relevance": 100,
+      "relevance": 90,
       "tier": "essential"
     },
     {
@@ -2177,8 +2177,8 @@ const EVENTS = {
       "location": "Chicago (various)",
       "url": "",
       "category": "Quantum/Physics",
-      "relevance": 80,
-      "tier": "essential"
+      "relevance": 30,
+      "tier": "tangential"
     },
     {
       "id": "scraped-uchicago-ai-science-hackathon-2026-04-24",
@@ -2189,8 +2189,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
       "category": "University",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-depaul-joint-student-recital-sofia-locon-2026-04-25",
@@ -2213,8 +2213,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
       "category": "University",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-depaul-student-recital-clara-pancake-sop-2026-04-26",
@@ -2237,8 +2237,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
       "category": "University",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-depaul-student-recital-jenna-krause-viol-2026-04-27",
@@ -2261,8 +2261,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
       "category": "University",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-uchicago-dsi-jorge-jaramillo-uchicago-sc-2026-04-28",
@@ -2273,7 +2273,7 @@ const EVENTS = {
       "location": "William Eckhardt Research Center, Room 401",
       "url": "https://datascience.uchicago.edu/events/jorge-jaramillo-phd-uchicago-neuroscience-institute-ai-in-science-schmidt-fellows-speaker-series/",
       "category": "Data Science",
-      "relevance": 90,
+      "relevance": 85,
       "tier": "essential"
     },
     {
@@ -2297,7 +2297,7 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/odsc-chicago-data-science/events/312628126/",
       "category": "Data Science",
-      "relevance": 30,
+      "relevance": 35,
       "tier": "tangential"
     },
     {
@@ -2309,7 +2309,7 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/odsc-chicago-data-science/events/312786332/",
       "category": "Data Science",
-      "relevance": 30,
+      "relevance": 35,
       "tier": "tangential"
     },
     {
@@ -2321,8 +2321,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/chicago-startup-founders/events/tdmpvtyjcgblc/",
       "category": "Startup",
-      "relevance": 0,
-      "tier": "low"
+      "relevance": 35,
+      "tier": "tangential"
     },
     {
       "id": "scraped-uchicago-ai-science-hackathon-2026-04-28",
@@ -2333,8 +2333,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
       "category": "University",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "nu-colloquium-apr29",
@@ -2345,7 +2345,7 @@ const EVENTS = {
       "location": "Mudd Hall 3514, Northwestern, Evanston",
       "url": "https://www.mccormick.northwestern.edu/computer-science/news-events/seminars-workshops-talks/cs-colloquium-series.html",
       "category": "CS Research",
-      "relevance": 100,
+      "relevance": 90,
       "tier": "essential"
     },
     {
@@ -2393,7 +2393,7 @@ const EVENTS = {
       "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
       "url": "",
       "category": "AI/CS Research",
-      "relevance": 100,
+      "relevance": 90,
       "tier": "essential"
     },
     {
@@ -2405,8 +2405,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/ac-ord/events/312636260/",
       "category": "Analytics/AI",
-      "relevance": 35,
-      "tier": "tangential"
+      "relevance": 45,
+      "tier": "moderate"
     },
     {
       "id": "scraped-analytics-club-analyticsclub-jobexpo-vir-2026-05-01",
@@ -2417,8 +2417,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/ac-ord/events/xjqvstyjchbcb/",
       "category": "Analytics/AI",
-      "relevance": 35,
-      "tier": "tangential"
+      "relevance": 45,
+      "tier": "moderate"
     },
     {
       "id": "scraped-depaul-student-recital-alex-moore-cello-2026-05-02",
@@ -2465,8 +2465,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://events.uchicago.edu/event/mi-colloquium-050426",
       "category": "Data Science",
-      "relevance": 90,
-      "tier": "essential"
+      "relevance": 55,
+      "tier": "moderate"
     },
     {
       "id": "schmidt-ai-may5",
@@ -2477,8 +2477,8 @@ const EVENTS = {
       "location": "Eckhardt Research Center Room 401, UChicago",
       "url": "https://datascience.uchicago.edu/research/ai-science/partnerships/seminar-series/",
       "category": "AI in Science",
-      "relevance": 60,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-depaul-global-conversations-2026-the-age-2026-05-05",
@@ -2549,7 +2549,7 @@ const EVENTS = {
       "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
       "url": "",
       "category": "AI/CS Research",
-      "relevance": 100,
+      "relevance": 90,
       "tier": "essential"
     },
     {
@@ -2573,7 +2573,7 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://events.uchicago.edu/event/260156-nitmb-seminar-series",
       "category": "CS Research",
-      "relevance": 100,
+      "relevance": 85,
       "tier": "essential"
     },
     {
@@ -2621,7 +2621,7 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://events.uchicago.edu/event/249006-evolutionary-games-mathematical-theory-and",
       "category": "AI Research",
-      "relevance": 95,
+      "relevance": 80,
       "tier": "essential"
     },
     {
@@ -2633,7 +2633,7 @@ const EVENTS = {
       "location": "William Eckhardt Research Center. Room 401",
       "url": "https://datascience.uchicago.edu/events/aditi-krishnapriyan-uc-berkeley-schmidt-ai-in-science-speaker-series/",
       "category": "Data Science",
-      "relevance": 90,
+      "relevance": 85,
       "tier": "essential"
     },
     {
@@ -2681,7 +2681,7 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://events.uchicago.edu/event/249006-evolutionary-games-mathematical-theory-and",
       "category": "AI Research",
-      "relevance": 95,
+      "relevance": 80,
       "tier": "essential"
     },
     {
@@ -2705,7 +2705,7 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://events.uchicago.edu/event/249006-evolutionary-games-mathematical-theory-and",
       "category": "AI Research",
-      "relevance": 95,
+      "relevance": 80,
       "tier": "essential"
     },
     {
@@ -2717,7 +2717,7 @@ const EVENTS = {
       "location": "Northwestern, Evanston",
       "url": "https://www.mccormick.northwestern.edu/computer-science/news-events/seminars-workshops-talks/csx-events.html",
       "category": "CS Interdisciplinary",
-      "relevance": 90,
+      "relevance": 80,
       "tier": "essential"
     },
     {
@@ -2729,8 +2729,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/chibitdevs/events/312832550/",
       "category": "Blockchain/Dev",
-      "relevance": 40,
-      "tier": "moderate"
+      "relevance": 35,
+      "tier": "tangential"
     },
     {
       "id": "scraped-founders-therapy-founder-s-therapy-coffe-2026-05-14",
@@ -2753,7 +2753,7 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://events.uchicago.edu/event/249006-evolutionary-games-mathematical-theory-and",
       "category": "AI Research",
-      "relevance": 95,
+      "relevance": 80,
       "tier": "essential"
     },
     {
@@ -2765,7 +2765,7 @@ const EVENTS = {
       "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
       "url": "",
       "category": "AI/CS Research",
-      "relevance": 100,
+      "relevance": 90,
       "tier": "essential"
     },
     {
@@ -2777,7 +2777,7 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://events.uchicago.edu/event/249006-evolutionary-games-mathematical-theory-and",
       "category": "AI Research",
-      "relevance": 95,
+      "relevance": 80,
       "tier": "essential"
     },
     {
@@ -2801,8 +2801,8 @@ const EVENTS = {
       "location": "1st floor Atrium of Wilson Hall",
       "url": "https://events.fnal.gov/events/event/public-tour-2/",
       "category": "Physics/Science",
-      "relevance": 75,
-      "tier": "strong"
+      "relevance": 20,
+      "tier": "tangential"
     },
     {
       "id": "scraped-uchicago-dsi-christy-landes-uiuc-schmidt-2026-05-19",
@@ -2813,7 +2813,7 @@ const EVENTS = {
       "location": "William Eckhardt Research Center, Room 401",
       "url": "https://datascience.uchicago.edu/events/christy-landes-uiuc-ai-in-science-schmidt-fellows-speaker-series/",
       "category": "Data Science",
-      "relevance": 90,
+      "relevance": 85,
       "tier": "essential"
     },
     {
@@ -2825,8 +2825,8 @@ const EVENTS = {
       "location": "Chicago (various)",
       "url": "",
       "category": "Quantum/Physics",
-      "relevance": 80,
-      "tier": "essential"
+      "relevance": 35,
+      "tier": "tangential"
     },
     {
       "id": "scraped-chicago-ai-ml-cv-may-20-getting-started--2026-05-20",
@@ -2885,7 +2885,7 @@ const EVENTS = {
       "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
       "url": "",
       "category": "AI/CS Research",
-      "relevance": 100,
+      "relevance": 90,
       "tier": "essential"
     },
     {
@@ -2897,8 +2897,8 @@ const EVENTS = {
       "location": "Fermilab, Batavia, IL",
       "url": "https://events.fnal.gov/events/event/lab-holiday-memorial-day-property-open-wilson-hall-and-lederman-science-center-closed/",
       "category": "Physics/Science",
-      "relevance": 75,
-      "tier": "strong"
+      "relevance": 20,
+      "tier": "tangential"
     },
     {
       "id": "scraped-startupcouncil-free-startup-fundraising--2026-05-26",
@@ -2909,8 +2909,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/chicago-startup-founders/events/tdmpvtyjchbjc/",
       "category": "Startup",
-      "relevance": 0,
-      "tier": "low"
+      "relevance": 35,
+      "tier": "tangential"
     },
     {
       "id": "booth-ai-workplace-may28",
@@ -2921,8 +2921,8 @@ const EVENTS = {
       "location": "Rubenstein Forum, UChicago",
       "url": "https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence/events",
       "category": "AI/Business",
-      "relevance": 60,
-      "tier": "strong"
+      "relevance": 45,
+      "tier": "moderate"
     },
     {
       "id": "scraped-fermilab-community-advisory-board-meetin-2026-05-28",
@@ -2933,8 +2933,8 @@ const EVENTS = {
       "location": "Fermilab, Batavia, IL",
       "url": "https://events.fnal.gov/events/event/community-advisory-board-meeting-3/",
       "category": "Physics/Science",
-      "relevance": 75,
-      "tier": "strong"
+      "relevance": 25,
+      "tier": "tangential"
     },
     {
       "id": "scraped-founders-therapy-founder-s-therapy-coffe-2026-05-28",
@@ -2957,7 +2957,7 @@ const EVENTS = {
       "location": "TTIC-5-530 (68)",
       "url": "",
       "category": "AI/CS Research",
-      "relevance": 100,
+      "relevance": 90,
       "tier": "essential"
     },
     {
@@ -2981,7 +2981,7 @@ const EVENTS = {
       "location": "TTIC-5-530 (68)",
       "url": "",
       "category": "AI/CS Research",
-      "relevance": 100,
+      "relevance": 95,
       "tier": "essential"
     },
     {
@@ -3005,8 +3005,8 @@ const EVENTS = {
       "location": "Chicago (McCormick Place area)",
       "url": "https://chi2026.acm.org/",
       "category": "HCI Research",
-      "relevance": 50,
-      "tier": "moderate"
+      "relevance": 60,
+      "tier": "strong"
     },
     {
       "id": "scraped-quantum-horizons-2026-2026-06-10",
@@ -3017,8 +3017,8 @@ const EVENTS = {
       "location": "Chicago (various)",
       "url": "",
       "category": "Quantum/Physics",
-      "relevance": 80,
-      "tier": "essential"
+      "relevance": 30,
+      "tier": "tangential"
     },
     {
       "id": "scraped-chibitdevs-socratic-seminar-2026-06-11",
@@ -3029,8 +3029,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/chibitdevs/events/jqtzltyjcjbpb/",
       "category": "Blockchain/Dev",
-      "relevance": 40,
-      "tier": "moderate"
+      "relevance": 35,
+      "tier": "tangential"
     },
     {
       "id": "scraped-founders-therapy-founder-s-therapy-coffe-2026-06-11",
@@ -3065,7 +3065,7 @@ const EVENTS = {
       "location": "Argonne National Laboratory, Lemont, IL",
       "url": "https://www.anl.gov/outloud-lecture-series",
       "category": "Science Research",
-      "relevance": 35,
+      "relevance": 30,
       "tier": "tangential"
     },
     {
@@ -3101,8 +3101,8 @@ const EVENTS = {
       "location": "Fermilab, Batavia, IL",
       "url": "https://events.fnal.gov/events/event/lab-holiday-juneteenth-property-open-wilson-hall-and-lederman-science-center-closed/",
       "category": "Physics/Science",
-      "relevance": 75,
-      "tier": "strong"
+      "relevance": 20,
+      "tier": "tangential"
     },
     {
       "id": "automate-jun22",
@@ -3113,8 +3113,8 @@ const EVENTS = {
       "location": "McCormick Place, Chicago",
       "url": "https://www.automateshow.com/",
       "category": "Robotics/Automation",
-      "relevance": 40,
-      "tier": "moderate"
+      "relevance": 30,
+      "tier": "tangential"
     },
     {
       "id": "scraped-startupcouncil-free-startup-fundraising--2026-06-23",
@@ -3125,8 +3125,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/chicago-startup-founders/events/tdmpvtyjcjbfc/",
       "category": "Startup",
-      "relevance": 0,
-      "tier": "low"
+      "relevance": 35,
+      "tier": "tangential"
     },
     {
       "id": "scraped-aws-chicago-community-day-midwest-2026-06-24",
@@ -3137,7 +3137,7 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/aws-chicago/events/313346836/",
       "category": "Cloud/AWS",
-      "relevance": 30,
+      "relevance": 35,
       "tier": "tangential"
     },
     {
@@ -3173,8 +3173,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://events.uchicago.edu/event/249882-cell-state-transitions-and-fate-indecisions",
       "category": "Data Science",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-uchicago-ds-cell-state-transitions-and-f-2026-07-01",
@@ -3185,8 +3185,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://events.uchicago.edu/event/249882-cell-state-transitions-and-fate-indecisions",
       "category": "Data Science",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-uchicago-ds-cell-state-transitions-and-f-2026-07-02",
@@ -3197,8 +3197,8 @@ const EVENTS = {
       "location": "UChicago campus",
       "url": "https://events.uchicago.edu/event/249882-cell-state-transitions-and-fate-indecisions",
       "category": "Data Science",
-      "relevance": 65,
-      "tier": "strong"
+      "relevance": 40,
+      "tier": "moderate"
     },
     {
       "id": "scraped-fermilab-lab-holiday-independence-day-pr-2026-07-03",
@@ -3209,8 +3209,8 @@ const EVENTS = {
       "location": "Fermilab, Batavia, IL",
       "url": "https://events.fnal.gov/events/event/lab-holiday-independence-day-property-open-wilson-hall-and-lederman-science-center-closed/",
       "category": "Physics/Science",
-      "relevance": 75,
-      "tier": "strong"
+      "relevance": 20,
+      "tier": "tangential"
     },
     {
       "id": "scraped-ai-2030-tech-pulse-2030-chicago-2026-07-07",
@@ -3233,8 +3233,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/chibitdevs/events/jqtzltyjckbmb/",
       "category": "Blockchain/Dev",
-      "relevance": 40,
-      "tier": "moderate"
+      "relevance": 35,
+      "tier": "tangential"
     },
     {
       "id": "scraped-founders-therapy-founder-s-therapy-coffe-2026-07-09",
@@ -3269,7 +3269,7 @@ const EVENTS = {
       "location": "mHUB, 965 W Chicago Ave, Chicago",
       "url": "https://www.mhubchicago.com/events",
       "category": "Tech/Hardware Community",
-      "relevance": 30,
+      "relevance": 35,
       "tier": "tangential"
     },
     {
@@ -3305,7 +3305,7 @@ const EVENTS = {
       "location": "Various Chicago venues",
       "url": "https://gotechchicago.com/week/",
       "category": "Tech Community",
-      "relevance": 30,
+      "relevance": 35,
       "tier": "tangential"
     },
     {
@@ -3317,8 +3317,8 @@ const EVENTS = {
       "location": "Fermilab, Batavia, IL",
       "url": "https://events.fnal.gov/events/event/community-advisory-board-meeting-4/",
       "category": "Physics/Science",
-      "relevance": 75,
-      "tier": "strong"
+      "relevance": 25,
+      "tier": "tangential"
     },
     {
       "id": "scraped-startup-oasis-find-a-cofounder-help-or-j-2026-07-23",
@@ -3353,8 +3353,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/chicago-startup-founders/events/tdmpvtyjckblc/",
       "category": "Startup",
-      "relevance": 0,
-      "tier": "low"
+      "relevance": 35,
+      "tier": "tangential"
     },
     {
       "id": "scraped-ai-2030-tech-pulse-2030-chicago-2026-08-04",
@@ -3377,8 +3377,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/chibitdevs/events/jqtzltyjclbrb/",
       "category": "Blockchain/Dev",
-      "relevance": 40,
-      "tier": "moderate"
+      "relevance": 35,
+      "tier": "tangential"
     },
     {
       "id": "scraped-chicago-net-monthly-social-what-s-caught-2026-08-20",
@@ -3401,8 +3401,8 @@ const EVENTS = {
       "location": "Chicago",
       "url": "https://www.meetup.com/chicago-startup-founders/events/tdmpvtyjclbhc/",
       "category": "Startup",
-      "relevance": 0,
-      "tier": "low"
+      "relevance": 35,
+      "tier": "tangential"
     },
     {
       "id": "scraped-startup-oasis-find-a-cofounder-help-or-j-2026-08-27",
@@ -3425,8 +3425,8 @@ const EVENTS = {
       "location": "Fermilab, Batavia, IL",
       "url": "https://events.fnal.gov/events/event/lab-holiday-labor-day-property-open-wilson-hall-and-lederman-science-center-closed/",
       "category": "Physics/Science",
-      "relevance": 75,
-      "tier": "strong"
+      "relevance": 20,
+      "tier": "tangential"
     },
     {
       "id": "scraped-ai-2030-tech-pulse-2030-chicago-2026-09-08",
@@ -3449,7 +3449,7 @@ const EVENTS = {
       "location": "Argonne National Laboratory, Lemont, IL",
       "url": "https://www.anl.gov/outloud-lecture-series",
       "category": "Science Research",
-      "relevance": 35,
+      "relevance": 30,
       "tier": "tangential"
     },
     {
@@ -3461,7 +3461,7 @@ const EVENTS = {
       "location": "Argonne National Laboratory, Lemont, IL",
       "url": "https://www.anl.gov/outloud-lecture-series",
       "category": "Science Research",
-      "relevance": 35,
+      "relevance": 30,
       "tier": "tangential"
     }
   ]
