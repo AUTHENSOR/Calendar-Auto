@@ -206,7 +206,10 @@
       "category": "Complex Systems/AI",
       "priority": "high",
       "description": "Weekly during academic quarters. Winter: Feb 4 - Mar 11; Spring: Apr 8 - May 20.",
-      "active_periods": ["2026-02-04/2026-03-11", "2026-04-08/2026-05-20"]
+      "active_periods": [
+        "2026-02-04/2026-03-11",
+        "2026-04-08/2026-05-20"
+      ]
     },
     {
       "id": "fermilab-saturday",
@@ -219,29 +222,31 @@
       "category": "Physics",
       "priority": "medium",
       "description": "11 lectures + lab tours. Spring 2026: Jan 24 - Apr 18.",
-      "active_periods": ["2026-01-24/2026-04-18"]
+      "active_periods": [
+        "2026-01-24/2026-04-18"
+      ]
     }
   ],
   "specific_dates": [
     {
-      "id": "schmidt-ai-mar3",
-      "name": "Schmidt AI Speaker: Marco Biroli (UChicago)",
-      "date": "2026-03-03",
-      "time": "16:00",
-      "duration_min": 90,
-      "location": "Eckhardt Research Center Room 401, UChicago",
-      "url": "https://datascience.uchicago.edu/research/ai-science/partnerships/seminar-series/",
-      "category": "AI in Science"
+      "id": "scraped-uchicago-dsi-gtc-26-keynote-watch-party--2026-03-16",
+      "name": "UChicago DSI: GTC\u201926 Keynote Watch Party at UChicago",
+      "date": "2026-03-16",
+      "time": "12:30",
+      "duration_min": 150,
+      "location": "Data Science Institute, Room 105",
+      "url": "https://datascience.uchicago.edu/events/gtc26-keynote-watch-party-at-uchicago/",
+      "category": "Data Science"
     },
     {
-      "id": "argonne-outloud-mar5",
-      "name": "Argonne OutLoud Lecture",
-      "date": "2026-03-05",
-      "time": "18:00",
+      "id": "scraped-fermilab-public-tour-2026-03-16",
+      "name": "Fermilab: Public Tour",
+      "date": "2026-03-16",
+      "time": "10:00",
       "duration_min": 120,
-      "location": "Argonne National Laboratory, Lemont, IL",
-      "url": "https://www.anl.gov/outloud-lecture-series",
-      "category": "Science Research"
+      "location": "1st floor Atrium of Wilson Hall",
+      "url": "https://events.fnal.gov/events/event/public-tour-5/",
+      "category": "Physics/Science"
     },
     {
       "id": "dsi-seminar-mar18",
@@ -251,6 +256,16 @@
       "duration_min": 60,
       "location": "UChicago Data Science Institute",
       "url": "https://datascience.uchicago.edu/events/dsi-events/",
+      "category": "Data Science"
+    },
+    {
+      "id": "scraped-uchicago-dsi-chicago-data-night-jarvis-a-2026-03-18",
+      "name": "UChicago DSI: Chicago Data Night: Jarvis Alexander, CFA (FINRA)",
+      "date": "2026-03-18",
+      "time": "17:30",
+      "duration_min": 120,
+      "location": "Drive Capital, 215 N Peoria Street",
+      "url": "https://datascience.uchicago.edu/events/chicago-data-night-jarvis-alexander-cfa-finra/",
       "category": "Data Science"
     },
     {
@@ -264,6 +279,76 @@
       "category": "AI Builders"
     },
     {
+      "id": "scraped-pydata-chicago-investing-for-financial-f-2026-03-19",
+      "name": "PyData Chicago: Investing for financial freedom with data and statistical reasoning",
+      "date": "2026-03-19",
+      "time": "18:00",
+      "duration_min": 120,
+      "location": "Chicago",
+      "url": "https://www.meetup.com/pydatachi/events/313568347/",
+      "category": "Data Science"
+    },
+    {
+      "id": "scraped-ttic-distinguished-lecture-series-nina-b-2026-03-23",
+      "name": "TTIC: Distinguished Lecture Series: Nina Balcan, CS.CMU",
+      "date": "2026-03-23",
+      "time": "16:00",
+      "duration_min": 60,
+      "location": "TTIC-5-530 (68)",
+      "url": "",
+      "category": "AI/CS Research"
+    },
+    {
+      "id": "scraped-uchicago-dsi-inioluwa-deborah-raji-uc-be-2026-03-23",
+      "name": "UChicago DSI: Inioluwa Deborah Raji (UC Berkeley): CS and DSI Joint Colloquium",
+      "date": "2026-03-23",
+      "time": "11:30",
+      "duration_min": 60,
+      "location": "Data Science Institute, Room 105",
+      "url": "https://datascience.uchicago.edu/events/deb-raji-uc-berkeley-cs-and-dsi-joint-colloquium/",
+      "category": "Data Science"
+    },
+    {
+      "id": "scraped-uchicago-dsi-qing-qu-umich-cs-and-dsi-jo-2026-03-25",
+      "name": "UChicago DSI: Qing Qu (UMich): CS and DSI Joint Colloquium",
+      "date": "2026-03-25",
+      "time": "11:30",
+      "duration_min": 60,
+      "location": "Data Science Institute, Room 105",
+      "url": "https://datascience.uchicago.edu/events/qing-qu-um-ann-arbor-cs-and-dsi-joint-colloquium/",
+      "category": "Data Science"
+    },
+    {
+      "id": "scraped-uchicago-dsi-aice-speaker-series-daniel--2026-03-25",
+      "name": "UChicago DSI: AICE Speaker Series: Daniel C Reuman (University of Kansas)",
+      "date": "2026-03-25",
+      "time": "15:00",
+      "duration_min": 90,
+      "location": "Data Science Institute, Room 105",
+      "url": "https://datascience.uchicago.edu/events/aice-speaker-series-daniel-c-reuman-university-of-kansas/",
+      "category": "Data Science"
+    },
+    {
+      "id": "scraped-uchicago-dsi-ask-a-student-in-ms-in-appl-2026-03-25",
+      "name": "UChicago DSI: Ask a Student in MS in Applied Data Science",
+      "date": "2026-03-25",
+      "time": "18:00",
+      "duration_min": 60,
+      "location": "Zoom Virtual Conference",
+      "url": "https://datascience.uchicago.edu/events/ask-a-student-in-ms-in-applied-data-science-16/",
+      "category": "Data Science"
+    },
+    {
+      "id": "scraped-chicago-ai-meetup-ai-in-action-shaping-t-2026-03-25",
+      "name": "Chicago AI Meetup: AI in Action: Shaping Tomorrow\u00e2\u0080\u0099s Workflows",
+      "date": "2026-03-25",
+      "time": "17:30",
+      "duration_min": 120,
+      "location": "Downtown Chicago",
+      "url": "https://www.meetup.com/aichicago/events/313640229/",
+      "category": "AI/ML"
+    },
+    {
       "id": "dsi-seminar-mar26",
       "name": "DSI Seminar: Finding Your Next Big Bet in AI (Roger Moore)",
       "date": "2026-03-26",
@@ -272,6 +357,106 @@
       "location": "UChicago Data Science Institute",
       "url": "https://datascience.uchicago.edu/events/dsi-events/",
       "category": "Data Science"
+    },
+    {
+      "id": "scraped-ttic-communication-intelligence-seminar-2026-03-26",
+      "name": "TTIC: Communication & Intelligence Seminar",
+      "date": "2026-03-26",
+      "time": "12:30",
+      "duration_min": 60,
+      "location": "TTIC-5-530 (68)",
+      "url": "",
+      "category": "AI/CS Research"
+    },
+    {
+      "id": "scraped-fermilab-community-advisory-board-meetin-2026-03-26",
+      "name": "Fermilab: Community Advisory Board meeting",
+      "date": "2026-03-26",
+      "time": "18:30",
+      "duration_min": 90,
+      "location": "Fermilab, Batavia, IL",
+      "url": "https://events.fnal.gov/events/event/community-advisory-board-meeting-2/",
+      "category": "Physics/Science"
+    },
+    {
+      "id": "scraped-ttic-research-at-ttic-tba-2026-03-27",
+      "name": "TTIC: Research at TTIC: TBA",
+      "date": "2026-03-27",
+      "time": "12:30",
+      "duration_min": 60,
+      "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
+      "url": "",
+      "category": "AI/CS Research"
+    },
+    {
+      "id": "scraped-ttic-talks-at-ttic-seth-pettie-universit-2026-03-27",
+      "name": "TTIC: Talks at TTIC: Seth Pettie, University of Michigan",
+      "date": "2026-03-27",
+      "time": "19:00",
+      "duration_min": 60,
+      "location": "TTIC-5-530 (68)",
+      "url": "",
+      "category": "AI/CS Research"
+    },
+    {
+      "id": "scraped-uchicago-dsi-ingrid-daubechies-duke-dist-2026-03-27",
+      "name": "UChicago DSI: Ingrid Daubechies (Duke): Distinguished Speaker Series",
+      "date": "2026-03-27",
+      "time": "12:00",
+      "duration_min": 90,
+      "location": "Data Science Institute, Room 105, 5460 S University Ave",
+      "url": "https://datascience.uchicago.edu/events/ingrid-daubechies-duke-distinguished-speaker-series/",
+      "category": "Data Science"
+    },
+    {
+      "id": "scraped-ttic-talks-at-ttic-maxwell-fishelson-mit-2026-03-30",
+      "name": "TTIC: Talks at TTIC: Maxwell Fishelson, MIT",
+      "date": "2026-03-30",
+      "time": "16:30",
+      "duration_min": 60,
+      "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
+      "url": "",
+      "category": "AI/CS Research"
+    },
+    {
+      "id": "scraped-fermilab-public-tour-2026-03-30",
+      "name": "Fermilab: Public Tour",
+      "date": "2026-03-30",
+      "time": "10:00",
+      "duration_min": 120,
+      "location": "1st floor Atrium of Wilson Hall",
+      "url": "https://events.fnal.gov/events/event/public-tour/",
+      "category": "Physics/Science"
+    },
+    {
+      "id": "scraped-ttic-talks-at-ttic-dhruv-rohatgi-mit-2026-03-31",
+      "name": "TTIC: Talks at TTIC: Dhruv Rohatgi, MIT",
+      "date": "2026-03-31",
+      "time": "16:00",
+      "duration_min": 60,
+      "location": "TTIC-5-529 (24)",
+      "url": "",
+      "category": "AI/CS Research"
+    },
+    {
+      "id": "scraped-ttic-research-at-ttic-svetlana-lazebnik--2026-04-03",
+      "name": "TTIC: Research at TTIC: Svetlana Lazebnik, Illinois at Urbana-Champaign",
+      "date": "2026-04-03",
+      "time": "11:00",
+      "duration_min": 60,
+      "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
+      "url": "",
+      "category": "AI/CS Research"
+    },
+    {
+      "id": "scraped-ttic-colloquium-raymond-a-yeh-purdue-uni-2026-04-06",
+      "name": "TTIC Colloquium: Raymond A Yeh, Purdue University",
+      "date": "2026-04-06",
+      "time": "16:30",
+      "duration_min": 60,
+      "location": "TTIC-5-530 (68)",
+      "url": "",
+      "category": "AI/CS Research"
     },
     {
       "id": "schmidt-ai-apr7",
@@ -284,6 +469,46 @@
       "category": "AI in Science"
     },
     {
+      "id": "scraped-uchicago-dsi-aice-speaker-series-colm-ci-2026-04-08",
+      "name": "UChicago DSI: AICE Speaker Series: Colm-cille P. Caulfield (Cambridge)",
+      "date": "2026-04-08",
+      "time": "15:00",
+      "duration_min": 90,
+      "location": "Data Science Institute, Room 105",
+      "url": "https://datascience.uchicago.edu/events/aice-speaker-series-colm-cille-p-caulfield-cambridge/",
+      "category": "Data Science"
+    },
+    {
+      "id": "scraped-uchicago-dsi-lillian-lee-cornell-disting-2026-04-09",
+      "name": "UChicago DSI: Lillian Lee (Cornell): Distinguished Speaker Series",
+      "date": "2026-04-09",
+      "time": "12:00",
+      "duration_min": 90,
+      "location": "Data Science Institute, Room 105, 5460 S University Ave",
+      "url": "https://datascience.uchicago.edu/events/lillian-lee-cornell-distinguished-speaker-series/",
+      "category": "Data Science"
+    },
+    {
+      "id": "scraped-ttic-research-at-ttic-shiry-ginosar-ttic-2026-04-10",
+      "name": "TTIC: Research at TTIC: Shiry Ginosar, TTIC",
+      "date": "2026-04-10",
+      "time": "11:00",
+      "duration_min": 60,
+      "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
+      "url": "",
+      "category": "AI/CS Research"
+    },
+    {
+      "id": "scraped-uchicago-dsi-jon-kleinberg-cornell-disti-2026-04-10",
+      "name": "UChicago DSI: Jon Kleinberg (Cornell): Distinguished Speaker Series",
+      "date": "2026-04-10",
+      "time": "12:00",
+      "duration_min": 90,
+      "location": "Data Science Institute, Room 105, 5460 S University Ave",
+      "url": "https://datascience.uchicago.edu/events/jon-kleinberg-cornell-distinguished-speaker-series/",
+      "category": "Data Science"
+    },
+    {
       "id": "nu-colloquium-apr13",
       "name": "Northwestern CS Colloquium: Arindam Banerjee",
       "date": "2026-04-13",
@@ -292,6 +517,56 @@
       "location": "Mudd Hall 3514, Northwestern, Evanston",
       "url": "https://www.mccormick.northwestern.edu/computer-science/news-events/seminars-workshops-talks/cs-colloquium-series.html",
       "category": "CS Research"
+    },
+    {
+      "id": "scraped-uchicago-dsi-ai-science-hackathon-2026-04-14",
+      "name": "UChicago DSI: AI+Science Hackathon",
+      "date": "2026-04-14",
+      "time": "00:00",
+      "duration_min": 60,
+      "location": "UChicago Data Science Institute",
+      "url": "https://datascience.uchicago.edu/events/aiscience-hackathon-3/",
+      "category": "Data Science"
+    },
+    {
+      "id": "scraped-ttic-research-at-ttic-derek-reiman-ttic-2026-04-17",
+      "name": "TTIC: Research at TTIC: Derek Reiman, TTIC",
+      "date": "2026-04-17",
+      "time": "11:00",
+      "duration_min": 60,
+      "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
+      "url": "",
+      "category": "AI/CS Research"
+    },
+    {
+      "id": "scraped-fermilab-public-tour-2026-04-20",
+      "name": "Fermilab: Public Tour",
+      "date": "2026-04-20",
+      "time": "10:00",
+      "duration_min": 120,
+      "location": "1st floor Atrium of Wilson Hall",
+      "url": "https://events.fnal.gov/events/event/public-tour-6/",
+      "category": "Physics/Science"
+    },
+    {
+      "id": "scraped-ttic-research-at-ttic-yury-makarychev-tt-2026-04-24",
+      "name": "TTIC: Research at TTIC: Yury Makarychev, TTIC",
+      "date": "2026-04-24",
+      "time": "11:00",
+      "duration_min": 60,
+      "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
+      "url": "",
+      "category": "AI/CS Research"
+    },
+    {
+      "id": "scraped-uchicago-dsi-jorge-jaramillo-uchicago-sc-2026-04-28",
+      "name": "UChicago DSI: Jorge Jaramillo (UChicago): Schmidt AI in Science Speaker Series",
+      "date": "2026-04-28",
+      "time": "16:00",
+      "duration_min": 90,
+      "location": "William Eckhardt Research Center, Room 401",
+      "url": "https://datascience.uchicago.edu/events/jorge-jaramillo-phd-uchicago-neuroscience-institute-ai-in-science-schmidt-fellows-speaker-series/",
+      "category": "Data Science"
     },
     {
       "id": "nu-colloquium-apr29",
@@ -304,6 +579,16 @@
       "category": "CS Research"
     },
     {
+      "id": "scraped-ttic-research-at-ttic-zhiyuan-li-ttic-2026-05-01",
+      "name": "TTIC: Research at TTIC: Zhiyuan Li , TTIC",
+      "date": "2026-05-01",
+      "time": "11:00",
+      "duration_min": 60,
+      "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
+      "url": "",
+      "category": "AI/CS Research"
+    },
+    {
       "id": "schmidt-ai-may5",
       "name": "Schmidt AI Speaker: John Kitchin (CMU)",
       "date": "2026-05-05",
@@ -312,6 +597,26 @@
       "location": "Eckhardt Research Center Room 401, UChicago",
       "url": "https://datascience.uchicago.edu/research/ai-science/partnerships/seminar-series/",
       "category": "AI in Science"
+    },
+    {
+      "id": "scraped-ttic-research-at-ttic-nati-srebro-ttic-2026-05-08",
+      "name": "TTIC: Research at TTIC: Nati Srebro, TTIC",
+      "date": "2026-05-08",
+      "time": "11:00",
+      "duration_min": 60,
+      "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
+      "url": "",
+      "category": "AI/CS Research"
+    },
+    {
+      "id": "scraped-uchicago-dsi-aditi-krishnapriyan-uc-berk-2026-05-12",
+      "name": "UChicago DSI: Aditi Krishnapriyan (UC Berkeley): Schmidt AI in Science Speaker Series",
+      "date": "2026-05-12",
+      "time": "16:00",
+      "duration_min": 90,
+      "location": "William Eckhardt Research Center. Room 401",
+      "url": "https://datascience.uchicago.edu/events/aditi-krishnapriyan-uc-berkeley-schmidt-ai-in-science-speaker-series/",
+      "category": "Data Science"
     },
     {
       "id": "nu-csx-may14",
@@ -324,6 +629,56 @@
       "category": "CS Interdisciplinary"
     },
     {
+      "id": "scraped-ttic-research-at-ttic-alexander-razborov-2026-05-15",
+      "name": "TTIC: Research at TTIC: Alexander Razborov, UChicago",
+      "date": "2026-05-15",
+      "time": "11:00",
+      "duration_min": 60,
+      "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
+      "url": "",
+      "category": "AI/CS Research"
+    },
+    {
+      "id": "scraped-fermilab-public-tour-2026-05-18",
+      "name": "Fermilab: Public Tour",
+      "date": "2026-05-18",
+      "time": "10:00",
+      "duration_min": 120,
+      "location": "1st floor Atrium of Wilson Hall",
+      "url": "https://events.fnal.gov/events/event/public-tour-2/",
+      "category": "Physics/Science"
+    },
+    {
+      "id": "scraped-uchicago-dsi-christy-landes-uiuc-schmidt-2026-05-19",
+      "name": "UChicago DSI: Christy Landes (UIUC): Schmidt AI in Science Speaker Series",
+      "date": "2026-05-19",
+      "time": "16:00",
+      "duration_min": 90,
+      "location": "William Eckhardt Research Center, Room 401",
+      "url": "https://datascience.uchicago.edu/events/christy-landes-uiuc-ai-in-science-schmidt-fellows-speaker-series/",
+      "category": "Data Science"
+    },
+    {
+      "id": "scraped-ttic-research-at-ttic-julia-chuzhoy-ttic-2026-05-22",
+      "name": "TTIC: Research at TTIC: Julia Chuzhoy, TTIC",
+      "date": "2026-05-22",
+      "time": "11:00",
+      "duration_min": 60,
+      "location": "TTIC Room 530, 6045 S. Kenwood Ave, Chicago",
+      "url": "",
+      "category": "AI/CS Research"
+    },
+    {
+      "id": "scraped-fermilab-lab-holiday-memorial-day-proper-2026-05-25",
+      "name": "Fermilab: Lab holiday \u2013 Memorial Day \u2013 property open, Wilson Hall and Lederman Science Center closed",
+      "date": "2026-05-25",
+      "time": "00:00",
+      "duration_min": 60,
+      "location": "Fermilab, Batavia, IL",
+      "url": "https://events.fnal.gov/events/event/lab-holiday-memorial-day-property-open-wilson-hall-and-lederman-science-center-closed/",
+      "category": "Physics/Science"
+    },
+    {
       "id": "booth-ai-workplace-may28",
       "name": "Chicago Booth: AI in the Workplace Conference",
       "date": "2026-05-28",
@@ -332,6 +687,36 @@
       "location": "Rubenstein Forum, UChicago",
       "url": "https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence/events",
       "category": "AI/Business"
+    },
+    {
+      "id": "scraped-fermilab-community-advisory-board-meetin-2026-05-28",
+      "name": "Fermilab: Community Advisory Board meeting",
+      "date": "2026-05-28",
+      "time": "18:00",
+      "duration_min": 60,
+      "location": "Fermilab, Batavia, IL",
+      "url": "https://events.fnal.gov/events/event/community-advisory-board-meeting-3/",
+      "category": "Physics/Science"
+    },
+    {
+      "id": "scraped-ttic-research-at-ttic-kanishka-mirsa-tti-2026-05-29",
+      "name": "TTIC: Research at TTIC: Kanishka Mirsa, TTIC",
+      "date": "2026-05-29",
+      "time": "16:00",
+      "duration_min": 60,
+      "location": "TTIC-5-530 (68)",
+      "url": "",
+      "category": "AI/CS Research"
+    },
+    {
+      "id": "scraped-ttic-communication-intelligence-seminar-2026-06-04",
+      "name": "TTIC: Communication & Intelligence Seminar",
+      "date": "2026-06-04",
+      "time": "12:30",
+      "duration_min": 80,
+      "location": "TTIC-5-530 (68)",
+      "url": "",
+      "category": "AI/CS Research"
     },
     {
       "id": "acm-chi-jun8",
@@ -354,6 +739,16 @@
       "category": "Science Research"
     },
     {
+      "id": "scraped-fermilab-lab-holiday-juneteenth-property-2026-06-19",
+      "name": "Fermilab: Lab holiday \u2013 Juneteenth \u2013 property open, Wilson Hall and Lederman Science Center closed",
+      "date": "2026-06-19",
+      "time": "00:00",
+      "duration_min": 60,
+      "location": "Fermilab, Batavia, IL",
+      "url": "https://events.fnal.gov/events/event/lab-holiday-juneteenth-property-open-wilson-hall-and-lederman-science-center-closed/",
+      "category": "Physics/Science"
+    },
+    {
       "id": "automate-jun22",
       "name": "Automate 2026 (Automation Show)",
       "date": "2026-06-22",
@@ -362,6 +757,26 @@
       "location": "McCormick Place, Chicago",
       "url": "https://www.automateshow.com/",
       "category": "Robotics/Automation"
+    },
+    {
+      "id": "scraped-fermilab-lab-holiday-independence-day-pr-2026-07-03",
+      "name": "Fermilab: Lab holiday \u2013 Independence Day \u2013 property open, Wilson Hall and Lederman Science Center closed",
+      "date": "2026-07-03",
+      "time": "00:00",
+      "duration_min": 60,
+      "location": "Fermilab, Batavia, IL",
+      "url": "https://events.fnal.gov/events/event/lab-holiday-independence-day-property-open-wilson-hall-and-lederman-science-center-closed/",
+      "category": "Physics/Science"
+    },
+    {
+      "id": "mhub-bbq-jul16",
+      "name": "mHUB Community BBQ (1000+ attendees)",
+      "date": "2026-07-16",
+      "time": "17:00",
+      "duration_min": 180,
+      "location": "mHUB, 965 W Chicago Ave, Chicago",
+      "url": "https://www.mhubchicago.com/events",
+      "category": "Tech/Hardware Community"
     },
     {
       "id": "techchicago-jul20",
@@ -374,14 +789,24 @@
       "category": "Tech Community"
     },
     {
-      "id": "mhub-bbq-jul16",
-      "name": "mHUB Community BBQ (1000+ attendees)",
-      "date": "2026-07-16",
-      "time": "17:00",
-      "duration_min": 180,
-      "location": "mHUB, 965 W Chicago Ave, Chicago",
-      "url": "https://www.mhubchicago.com/events",
-      "category": "Tech/Hardware Community"
+      "id": "scraped-fermilab-community-advisory-board-meetin-2026-07-23",
+      "name": "Fermilab: Community Advisory Board meeting",
+      "date": "2026-07-23",
+      "time": "18:30",
+      "duration_min": 90,
+      "location": "Fermilab, Batavia, IL",
+      "url": "https://events.fnal.gov/events/event/community-advisory-board-meeting-4/",
+      "category": "Physics/Science"
+    },
+    {
+      "id": "scraped-fermilab-lab-holiday-labor-day-property--2026-09-07",
+      "name": "Fermilab: Lab holiday \u2013 Labor Day \u2013 property open, Wilson Hall and Lederman Science Center closed",
+      "date": "2026-09-07",
+      "time": "00:00",
+      "duration_min": 60,
+      "location": "Fermilab, Batavia, IL",
+      "url": "https://events.fnal.gov/events/event/lab-holiday-labor-day-property-open-wilson-hall-and-lederman-science-center-closed/",
+      "category": "Physics/Science"
     },
     {
       "id": "argonne-outloud-sep17",
