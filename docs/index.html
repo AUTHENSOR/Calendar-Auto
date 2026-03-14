@@ -182,9 +182,52 @@ body {
   background: var(--accent);
   border-radius: 0 2px 2px 0;
 }
-.event-card.priority-high::before { background: var(--accent2); }
-.event-card.priority-medium::before { background: var(--yellow); }
-.event-card.priority-low::before { background: var(--text2); }
+.event-card.tier-essential::before { background: #a78bfa; width: 4px; }
+.event-card.tier-strong::before { background: var(--accent2); }
+.event-card.tier-moderate::before { background: var(--yellow); }
+.event-card.tier-tangential::before { background: var(--text2); }
+.event-card.tier-low::before { background: #444; }
+
+.relevance-score {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 2px 7px;
+  border-radius: 6px;
+  letter-spacing: 0.3px;
+}
+.score-essential { background: rgba(167,139,250,0.2); color: #a78bfa; }
+.score-strong { background: rgba(129,140,248,0.2); color: #818cf8; }
+.score-moderate { background: rgba(234,179,8,0.15); color: #eab308; }
+.score-tangential { background: rgba(147,147,168,0.15); color: #9393a8; }
+.score-low { background: rgba(68,68,68,0.2); color: #666; }
+
+/* Filter bar */
+.filter-bar {
+  display: flex;
+  gap: 6px;
+  padding: 0 20px 12px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.filter-bar::-webkit-scrollbar { display: none; }
+.filter-chip {
+  flex: 0 0 auto;
+  padding: 5px 12px;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text2);
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-family: inherit;
+}
+.filter-chip.active { background: var(--accent); color: white; border-color: var(--accent); }
+.filter-chip .chip-count { opacity: 0.7; margin-left: 3px; }
 
 .event-card.accepted { border-color: var(--green); }
 .event-card.accepted::before { background: var(--green); }
@@ -405,6 +448,14 @@ body {
   <button class="tab" onclick="setView('links', this)">Links</button>
 </div>
 
+<div class="filter-bar" id="filterBar">
+  <button class="filter-chip active" onclick="setFilter('all', this)">All</button>
+  <button class="filter-chip" onclick="setFilter('essential', this)">Essential</button>
+  <button class="filter-chip" onclick="setFilter('strong', this)">Strong</button>
+  <button class="filter-chip" onclick="setFilter('moderate', this)">Moderate</button>
+  <button class="filter-chip" onclick="setFilter('research', this)">Research 60+</button>
+</div>
+
 <div class="content" id="content"></div>
 <div class="toast" id="toast"></div>
 
@@ -417,6 +468,7 @@ const MONTH_NAMES = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct'
 let selectedDate = new Date();
 selectedDate.setHours(0,0,0,0);
 let currentView = 'day';
+let currentFilter = 'all';
 
 // ── LocalStorage ──
 function getDecisions() {
@@ -553,7 +605,8 @@ function render() {
 }
 
 function renderDay(el) {
-  const events = getEventsForDate(selectedDate);
+  const allEvents = getEventsForDate(selectedDate);
+  const events = filterByRelevance(allEvents);
   const dk = dateKey(selectedDate);
   const today = new Date(); today.setHours(0,0,0,0);
   const isToday = selectedDate.getTime() === today.getTime();
@@ -562,20 +615,27 @@ function renderDay(el) {
   const decisions = getDecisions()[dk] || {};
   const accepted = Object.values(decisions).filter(v => v === 'accepted').length;
   const declined = Object.values(decisions).filter(v => v === 'declined').length;
+  const filtered = allEvents.length - events.length;
 
   let html = '';
 
-  html += `<div class="day-summary"><strong>${dayLabel}</strong> — ${events.length} event${events.length !== 1 ? 's' : ''}</div>`;
+  html += `<div class="day-summary"><strong>${dayLabel}</strong> — ${events.length} event${events.length !== 1 ? 's' : ''}${filtered ? ` <span style="color:var(--text2)">(${filtered} filtered)</span>` : ''}</div>`;
 
   if (events.length > 1) {
     html += `<div class="stats">
-      <div class="stat"><div class="num">${events.length}</div><div class="label">Events</div></div>
+      <div class="stat"><div class="num">${events.length}</div><div class="label">Showing</div></div>
       <div class="stat"><div class="num" style="color:var(--green)">${accepted}</div><div class="label">Going</div></div>
       <div class="stat"><div class="num" style="color:var(--red)">${declined}</div><div class="label">Skip</div></div>
     </div>`;
   }
 
-  if (events.length === 0) {
+  if (events.length === 0 && allEvents.length > 0) {
+    html += `<div class="empty-state">
+      <div class="emoji">🔍</div>
+      <p>${allEvents.length} events exist but none match your filter.<br>
+      Try "All" to see everything.</p>
+    </div>`;
+  } else if (events.length === 0) {
     html += `<div class="empty-state">
       <div class="emoji">📭</div>
       <p>No scheduled events.<br><br>
@@ -585,17 +645,24 @@ function renderDay(el) {
       Great day for study prep or reading papers!</p>
     </div>`;
   } else {
-    for (const ev of events) {
+    // Sort by relevance score (highest first), then by time
+    const sorted = [...events].sort((a, b) => {
+      const sa = a.relevance || 0, sb = b.relevance || 0;
+      if (sb !== sa) return sb - sa;
+      return a.time.localeCompare(b.time);
+    });
+
+    for (const ev of sorted) {
       const decision = getDecision(dk, ev.id);
       const cardClass = decision === 'accepted' ? ' accepted' : decision === 'declined' ? ' declined' : '';
-      const prio = ev.priority || 'medium';
+      const tier = ev.tier || 'moderate';
       const typeLabel = { weekly: '', monthly: 'Monthly', seasonal: 'Seasonal', special: 'Special' }[ev.type] || '';
 
-      html += `<div class="event-card priority-${prio}${cardClass}">
+      html += `<div class="event-card tier-${tier}${cardClass}">
         <div class="event-time">
           ${formatTime(ev.time)}
+          ${scoreLabel(ev)}
           ${typeLabel ? `<span class="event-badge">${typeLabel}</span>` : ''}
-          <span class="event-badge">${ev.category || ''}</span>
         </div>
         <div class="event-name">${ev.name}</div>
         ${ev.location ? `<div class="event-location">📍 ${ev.location}</div>` : ''}
@@ -614,7 +681,6 @@ function renderDay(el) {
 
 function renderWeek(el) {
   const today = new Date(); today.setHours(0,0,0,0);
-  // Start from Monday of current week
   const monday = new Date(selectedDate);
   const dayOfWeek = monday.getDay();
   monday.setDate(monday.getDate() - ((dayOfWeek + 6) % 7));
@@ -625,10 +691,14 @@ function renderWeek(el) {
   for (let i = 0; i < 7; i++) {
     const d = new Date(monday);
     d.setDate(d.getDate() + i);
-    const events = getEventsForDate(d);
+    const allEvents = getEventsForDate(d);
+    const events = filterByRelevance(allEvents);
     const dk = dateKey(d);
     const isToday = d.getTime() === today.getTime();
     totalEvents += events.length;
+
+    // Sort by relevance
+    events.sort((a, b) => (b.relevance || 0) - (a.relevance || 0));
 
     html += `<div class="week-day">
       <div class="week-day-header" style="${isToday ? 'color:var(--accent2)' : ''}">
@@ -639,14 +709,19 @@ function renderWeek(el) {
 
     if (events.length === 0) {
       html += `<div class="week-event-mini" style="opacity:0.4;cursor:default">
-        <div><div class="time" style="color:var(--text2)">—</div><div class="name" style="color:var(--text2)">Free day</div></div>
+        <div><div class="time" style="color:var(--text2)">—</div><div class="name" style="color:var(--text2)">${allEvents.length ? 'Filtered out' : 'Free day'}</div></div>
       </div>`;
     } else {
       for (const ev of events) {
         const decision = getDecision(dk, ev.id);
         const dotClass = decision ? ` ${decision}` : '';
+        const score = ev.relevance || 0;
+        const scoreColor = score >= 80 ? '#a78bfa' : score >= 60 ? '#818cf8' : score >= 40 ? '#eab308' : '#666';
         html += `<div class="week-event-mini" onclick="selectedDate=new Date('${d.toISOString()}');selectedDate.setHours(0,0,0,0);setView('day',document.querySelector('.tab'))">
-          <div><div class="time">${formatTime(ev.time)}</div><div class="name">${ev.name}</div></div>
+          <div>
+            <div class="time">${formatTime(ev.time)} <span style="color:${scoreColor};font-size:10px;font-weight:700">${score}</span></div>
+            <div class="name">${ev.name}</div>
+          </div>
           <div class="status-dot${dotClass}"></div>
         </div>`;
       }
@@ -655,7 +730,7 @@ function renderWeek(el) {
   }
 
   html += '</div>';
-  html += `<div class="day-summary" style="margin-top:16px"><strong>${totalEvents} events</strong> this week</div>`;
+  html += `<div class="day-summary" style="margin-top:16px"><strong>${totalEvents} events</strong> this week (filtered)</div>`;
   el.innerHTML = html;
 }
 
@@ -691,7 +766,35 @@ function setView(view, tabEl) {
   currentView = view;
   document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
   tabEl.classList.add('active');
+  // Show/hide filter bar based on view
+  document.getElementById('filterBar').style.display = (view === 'links') ? 'none' : 'flex';
   render();
+}
+
+function setFilter(filter, chipEl) {
+  currentFilter = filter;
+  document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
+  chipEl.classList.add('active');
+  render();
+}
+
+function filterByRelevance(events) {
+  if (currentFilter === 'all') return events;
+  if (currentFilter === 'research') return events.filter(e => (e.relevance || 0) >= 60);
+  return events.filter(e => (e.tier || 'moderate') === currentFilter);
+}
+
+function scoreLabel(ev) {
+  const score = ev.relevance || 0;
+  const tier = ev.tier || 'moderate';
+  const labels = {
+    essential: 'PhD Essential',
+    strong: 'Research Strong',
+    moderate: 'Moderate',
+    tangential: 'Tangential',
+    low: 'Low'
+  };
+  return `<span class="relevance-score score-${tier}">${score} — ${labels[tier] || tier}</span>`;
 }
 
 // ── Notifications ──

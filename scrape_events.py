@@ -525,6 +525,213 @@ def make_id(name, date_str):
 
 
 # ══════════════════════════════════════════════════════════
+# PhD AI Research Relevance Scorer (0–100)
+# ══════════════════════════════════════════════════════════
+
+# Sources known to produce PhD-level research content
+SOURCE_SCORES = {
+    "ttic": 95,              # Top-tier CS research institute
+    "uchicago_cs_ical": 90,  # UChicago CS dept
+    "uchicago_dsi_ical": 85, # UChicago Data Science Institute
+    "chicago_quantum": 80,   # Quantum research consortium
+    "fermilab": 70,          # National lab (physics-heavy, some AI)
+    "uchicago_ai_tag": 90,
+    "uchicago_cs_tag": 85,
+    "uchicago_ds_tag": 80,
+    "uchicago_dsi_rss": 80,
+    "uchicago_events": 60,   # General UChicago (filtered)
+    "depaul": 50,
+    "uic_events": 55,
+    # Meetups: AI-focused
+    "meetup_aittg": 55,
+    "meetup_aichicago": 50,
+    "meetup_ai_ml_cv": 55,
+    "meetup_ai_2030": 45,
+    "meetup_ai_professionals": 40,
+    "meetup_ai_llms": 55,
+    "meetup_nlp": 60,
+    "meetup_chicago_ml": 60,
+    "meetup_ml_study": 65,    # Study group = deeper
+    "meetup_naperville_ml": 45,
+    "meetup_odsc": 50,
+    "meetup_ds_dojo": 45,
+    "meetup_women_ai": 50,
+    "meetup_cloud_native_ai": 45,
+    # Data science
+    "meetup_pydata": 55,
+    "meetup_datanight": 45,
+    "meetup_data_traders": 40,
+    "meetup_analytics_club": 35,
+    "meetup_analytics_cloud": 35,
+    "meetup_big_data": 40,
+    "meetup_dataiku": 50,
+    "meetup_data_eng": 40,
+    # Dev communities
+    "meetup_chipy": 45,
+    "meetup_pyladies": 40,
+    "meetup_graphdb": 45,
+    "meetup_js_chi": 25,
+    "meetup_dotnet": 20,
+    "meetup_nscoder": 15,
+    "meetup_rust": 30,
+    "meetup_kotlin": 15,
+    "meetup_java": 15,
+    "meetup_product": 10,
+    # Infra/DevOps
+    "meetup_platform_eng": 25,
+    "meetup_pulumi": 20,
+    "meetup_aws": 25,
+    "meetup_gdg_cloud": 30,
+    "meetup_gdg": 30,
+    "meetup_grafana": 20,
+    "meetup_k8s": 20,
+    # Security
+    "meetup_burbsec": 20,
+    "meetup_ics_cyber": 25,
+    "meetup_devsecops": 20,
+    "meetup_cyberyacht": 15,
+    # Blockchain
+    "meetup_lfdt": 30,
+    "meetup_bitcoin": 15,
+    "meetup_bitdevs": 20,
+    # Startup/networking
+    "meetup_startup_grind": 15,
+    "meetup_techmixer": 10,
+    "meetup_startup_council": 10,
+    "meetup_founder_101": 10,
+    "meetup_startup_oasis": 10,
+    "meetup_founders_therapy": 5,
+    "meetup_bootstrappers": 5,
+    "meetup_primewise": 10,
+    "meetup_r_users": 40,
+    "meetup_acm": 50,
+}
+
+# Keywords that boost relevance to PhD AI research (and their weights)
+RESEARCH_BOOST_KEYWORDS = {
+    # Core AI/ML research terms (+15-25 each)
+    "transformer": 20, "attention mechanism": 25, "diffusion model": 25,
+    "reinforcement learning": 25, "generative model": 20, "foundation model": 20,
+    "large language model": 20, "representation learning": 25,
+    "graph neural": 20, "contrastive learning": 20, "self-supervised": 25,
+    "few-shot": 20, "zero-shot": 20, "meta-learning": 25,
+    "neural architecture": 20, "optimization": 15, "convex": 20,
+    "variational": 20, "bayesian": 20, "gaussian process": 25,
+    "kernel method": 20, "causal inference": 25, "causal discovery": 25,
+    # Research activity terms (+10-15)
+    "paper": 10, "arxiv": 15, "publication": 10, "thesis": 15,
+    "dissertation": 15, "phd": 15, "doctoral": 15, "postdoc": 15,
+    "faculty": 10, "professor": 10, "colloquium": 15, "seminar": 10,
+    "lecture series": 10, "research talk": 15, "invited talk": 15,
+    "peer review": 15, "proceedings": 10, "journal club": 15,
+    # Specific research areas (+10-15)
+    "nlp": 15, "natural language processing": 15, "computer vision": 15,
+    "speech recognition": 10, "robotics": 10, "multi-agent": 15,
+    "planning": 10, "reasoning": 15, "theorem proving": 20,
+    "formal verification": 15, "interpretability": 20, "alignment": 15,
+    "fairness": 10, "robustness": 15, "adversarial": 15,
+    "federated learning": 15, "privacy": 10, "differential privacy": 20,
+    "information theory": 20, "complexity theory": 20, "approximation": 15,
+    "convergence": 15, "sample complexity": 20, "generalization": 15,
+    "statistical learning": 20, "pac learning": 25,
+    # Prestigious venue/org signals (+10)
+    "neurips": 15, "icml": 15, "iclr": 15, "aaai": 15, "cvpr": 15,
+    "acl ": 15, "emnlp": 15, "uai": 15, "colt": 15, "aistats": 15,
+    "ttic": 10, "uchicago": 5, "argonne": 5, "fermilab": 5,
+}
+
+# Keywords that reduce relevance (networking, social, beginner)
+RESEARCH_PENALTY_KEYWORDS = {
+    "networking event": -15, "happy hour": -20, "mixer": -20,
+    "social hour": -15, "career fair": -15, "job fair": -15,
+    "beginner": -10, "intro to": -10, "101": -10,
+    "pitch competition": -15, "fundraising": -20, "investor": -15,
+    "cofounder matching": -20, "founder therapy": -20,
+    "breakfast meetup": -10, "coffee chat": -10,
+    "bootcamp": -10, "certification": -15,
+}
+
+
+def infer_source(event):
+    """Infer source from event name/category when source field is missing."""
+    name = event.get("name", "").lower()
+    cat = event.get("category", "").lower()
+    loc = event.get("location", "").lower()
+    eid = event.get("id", "").lower()
+
+    if "ttic" in name or "ttic" in eid:
+        return "ttic"
+    if "uchicago" in name or "uchicago" in loc:
+        if "dsi" in name or "data science institute" in loc:
+            return "uchicago_dsi_ical"
+        if "theory" in name or "cs " in cat:
+            return "uchicago_cs_ical"
+        return "uchicago_events"
+    if "fermilab" in name or "fermilab" in loc:
+        return "fermilab"
+    if "quantum" in name or "quantum" in cat:
+        return "chicago_quantum"
+    if "northwestern" in name or "nico" in name or "northwestern" in loc:
+        return "uchicago_cs_ical"  # similar prestige
+    if "chipy" in name or "chipy" in eid:
+        return "meetup_chipy"
+    if "pydata" in name:
+        return "meetup_pydata"
+    if "ai tinkerer" in name:
+        return "meetup_aichicago"
+    if "acm" in name or "acm" in eid:
+        return "meetup_acm"
+    if "chi hack" in name:
+        return "meetup_chipy"  # similar tier
+    if "analytics" in name:
+        return "meetup_analytics_club"
+    if "data night" in name:
+        return "meetup_datanight"
+    if "agent builder" in name:
+        return "meetup_dataiku"
+    if "aittg" in name or "ai developers" in name:
+        return "meetup_aittg"
+    return ""
+
+
+def score_research_relevance(event):
+    """Score an event 0-100 for PhD AI research relevance."""
+    source = event.get("source", "") or infer_source(event)
+    text = (event.get("name", "") + " " + event.get("description", "") + " " +
+            event.get("category", "")).lower()
+
+    # Start with source base score
+    score = SOURCE_SCORES.get(source, 30)
+
+    # Apply keyword boosts
+    for keyword, boost in RESEARCH_BOOST_KEYWORDS.items():
+        if keyword in text:
+            score += boost
+
+    # Apply penalties
+    for keyword, penalty in RESEARCH_PENALTY_KEYWORDS.items():
+        if keyword in text:
+            score += penalty  # penalty is negative
+
+    # Clamp to 0-100
+    return max(0, min(100, score))
+
+
+def relevance_tier(score):
+    """Human-readable tier from score."""
+    if score >= 80:
+        return "essential"     # Don't miss these
+    elif score >= 60:
+        return "strong"        # Very relevant
+    elif score >= 40:
+        return "moderate"      # Worth attending if free
+    elif score >= 20:
+        return "tangential"    # Loosely related
+    else:
+        return "low"           # Not research-relevant
+
+
+# ══════════════════════════════════════════════════════════
 # iCal (.ics) parser
 # ══════════════════════════════════════════════════════════
 
@@ -764,6 +971,7 @@ def merge_scraped(existing_data, scraped_events):
             skipped_dup += 1
             continue
 
+        score = score_research_relevance(ev)
         existing_data["specific_dates"].append({
             "id": eid,
             "name": ev["name"],
@@ -773,6 +981,8 @@ def merge_scraped(existing_data, scraped_events):
             "location": ev.get("location", ""),
             "url": ev.get("url", ""),
             "category": ev.get("category", ""),
+            "relevance": score,
+            "tier": relevance_tier(score),
         })
         ids.add(eid)
         added += 1
@@ -789,6 +999,18 @@ def prune_past_events(data):
     pruned = before - len(data["specific_dates"])
     if pruned:
         log(f"Pruned {pruned} past events")
+
+
+def score_all_events(data):
+    """Score/re-score all events in the database."""
+    scored = 0
+    for section in ("recurring_weekly", "recurring_monthly", "recurring_quarterly_seasonal", "specific_dates"):
+        for ev in data.get(section, []):
+            score = score_research_relevance(ev)
+            ev["relevance"] = score
+            ev["tier"] = relevance_tier(score)
+            scored += 1
+    log(f"Scored {scored} events for PhD AI research relevance")
 
 
 def regenerate_app_data():
@@ -855,6 +1077,9 @@ def main():
     log(f"Total scraped: {len(all_scraped)} events from {total_feeds} feeds ({errors} errors)")
 
     added = merge_scraped(data, all_scraped)
+
+    # Score everything for PhD AI research relevance
+    score_all_events(data)
 
     save_events(data)
     regenerate_app_data()
