@@ -1,6 +1,6 @@
 {
   "name": "Chicago AI/STEM Calendar",
-  "short_name": "CHI AI Cal",
+  "short_name": "AI Cal",
   "description": "Daily Chicago AI research, PhD, and STEM events",
   "start_url": "./",
   "display": "standalone",
